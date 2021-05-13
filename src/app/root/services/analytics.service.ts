@@ -9,7 +9,7 @@ declare let gtag: Function;
   providedIn: 'root'
 })
 export class AnalyticsService {
-  trackingId: 'G-3W7RF96DDX';
+  trackingId: 'UA-196959085-1';
   analytics;
 
   constructor(
