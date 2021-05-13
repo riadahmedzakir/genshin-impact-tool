@@ -1,0 +1,513 @@
+{
+    "Name": "Noelle",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "March 21st",
+    "Weapon": "Claymore",
+    "Element": "Geo",
+    "Constellation": "Parma Cordis",
+    "Nation": "Mondstadt",
+    "Affiliation": "Knights of Favonius",
+    "SpecialDish": "Lighter-Than-Air Pancake",
+    "Titles": "Chivalric Blossom, Maid of Favonius",
+    "Intro": "While not yet a knight, she seeks to one day join the Knights of Favonius by first serving as a dutiful maid.\n",
+    "Introduction": "Like most of Mondstadt's young people, Noelle always dreamed of being a knight of Favonius when she grew up. She may not have what it takes to be a knight just yet, but she is learning. Working as a maid at the Knights' headquarters, she is constantly taking notes on what constitutes knightly speech, knightly conduct, and knightly customs. She holds firm to her belief that one day she will join their ranks - she just needs to keep trying her hardest at everything she does.",
+    "Personality": [
+        "Noelle has much greater dreams and ambitions than other maids in the Knights of Favonius. Like anyone else in this city protected by the Knights of Favonius, she too dreams of donning the honored armor. Even if her skills are not enough to pass the rigorous selection trials, she still wishes to observe and learn from them every chance she gets. Aside from her training, she enjoys her current life, helping everyone in need. \"You can leave absolutely anything to me!\" That's her signature line. If there's anything that you need, Noelle is glad to be of help.",
+        "Noelle is a polite young woman and professional maid, helping those in need without hesitation, regardless of how far they are or what they need done, as long as they say her name. She has a very high standard of work ethic, as she always strives to ensure that everyones' needs are satisfied and always makes the effort to go over their expectations. No work is a problem for her; Lisa believes that the more work she is given, the happier she is.",
+        "Despite this, she is relatively stubborn and inexperienced; she states that she is useless in an argument and simply does what she believes is best, regardless of the other party's advice. Likewise, her attempts to meet everyone's needs is double-edged; although most people are genuine, others can take advantage of her generosity. Jean also considers her to be eligible for the Knights, but refrains from knighting her because she is worried that she is not ready for what lies outside Mondstadt.",
+        "She looks up to the all of the Knights and asks them for advice on how to be a proper member when she officially joins, regardless of how much experience they may have, such as the rambunctious Klee. Her aspiration of joining them means that she will refuse any other invitations offered to her."
+    ],
+    "Appearance": [
+        "Noelle possesses a short stature, which contrasts the big and heavy weapon she carries in-game. Her eyes are olive green and she has short, neck-length lavender hair with lopsided bangs. A braid runs over her bangs and is clipped down by a shield.",
+        "As for wear, Noelle has the typical maid ensemble with the exception of a priestess hat, a cravat, and many roses, which she wears as to remind herself to never leak confidential information. Her crimson dress has two bows, one at her hip and the other on her rear, the latter of which her Geo Vision is sat on top of. Gilded white armor plating adorns her chest and she wears a pauldron upon her left shoulder. She also wears black tights beneath her armored boots."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Favonius Bladework - Maid",
+            "Description": [
+                "Normal Attack: Performs up to 4 consecutive slashes.",
+                "Charged Attack: Drains Stamina over time to perform continuous swirling attack on all nearby opponents. At the end of the sequence, performs an additional powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Breastplate",
+            "Description": [
+                "Summons protective stone armor, dealing Geo DMG to surrounding opponents and creating a shield. The shield's DMG Absorption scales based on Noelle's DEF.The shield has the following properties:",
+                "When Noelle's Normal and Charged Attacks hit a target, they have a certain chance to regenerate HP for all characters.",
+                "Possesses 150% DMG Absorption efficiency against all Elemental and Physical DMG.",
+                "The amount of HP healed when regeneration is triggered scales based on Noelle's DEF."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Sweeping Time",
+            "Description": [
+                "Gathering the strength of stone around her weapon, Noelle strikes the opponents surrounding her within a large AoE, dealing Geo DMG.Afterwards, Noelle gains the following effects:",
+                "Larger attack AoE",
+                "Converts attack DMG to Geo DMG that cannot be overridden by any other elemental infusion.",
+                "Increased ATK that scales based on her DEF."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Devotion",
+            "Description": [
+                "When Noelle is in the party but not on the field, this ability triggers automatically when your active character's HP falls below 30%:",
+                "Creates a shield for your active character that lasts for 20s and absorbs DMG equal to 400% of Noelle's DEF. The shield has a 150% DMG Absorption effectiveness against all Elemental and Physical DMG. This effect can only occur once every 60s."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Nice and Clean",
+            "Description": [
+                "Every 4 Normal or Charged Attack hits will decrease the CD of Breastplate by 1s.Hitting multiple opponents with a single attack is only counted as 1 hit."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Maid's Knighthood",
+            "Description": [
+                "When a Perfect Cooking is achieved on a DEF-boosting dish, Noelle has a 12% chance to obtain double the product."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Resistance",
+        "CommonCharacterAscensionMaterial": "Mask",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_1",
+        "LocalMaterial": "Item_11",
+        "ElementalStone": "Item_5"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1012,
+            "ATK": 16,
+            "DEF": 67,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2600,
+            "ATK": 41,
+            "DEF": 172,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3356,
+            "ATK": 53,
+            "DEF": 222,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5027,
+            "ATK": 80,
+            "DEF": 333,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5564,
+            "ATK": 88,
+            "DEF": 368,
+            "ExtraStatsValue": 7.5
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6400,
+            "ATK": 101,
+            "DEF": 423,
+            "ExtraStatsValue": 7.5
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7117,
+            "ATK": 113,
+            "DEF": 471,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 60,
+            "HP": 7953,
+            "ATK": 126,
+            "DEF": 526,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8490,
+            "ATK": 134,
+            "DEF": 562,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9325,
+            "ATK": 148,
+            "DEF": 617,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9862,
+            "ATK": 156,
+            "DEF": 652,
+            "ExtraStatsValue": 22.5
+        },
+        {
+            "LEVEL": 80,
+            "HP": 10698,
+            "ATK": 169,
+            "DEF": 708,
+            "ExtraStatsValue": 22.5
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11235,
+            "ATK": 178,
+            "DEF": 743,
+            "ExtraStatsValue": 30
+        },
+        {
+            "LEVEL": 90,
+            "HP": 12071,
+            "ATK": 191,
+            "DEF": 799,
+            "ExtraStatsValue": 30
+        }
+    ],
+    "ExtraStats": "DEF",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "I Got Your Back",
+            "Details": [
+                "While Sweeping Time and Breastplate are both in effect, the chance of Breastplate's healing effects activating is increased to 100%."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Combat Maid",
+            "Details": [
+                "Decreases the Stamina Consumption of Noelle's Charged Attacks by 20% and increases her Charged Attack DMG by 15%."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Invulnerable Maid",
+            "Details": [
+                "Increases the Level of Breastplate by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "To Be Cleaned",
+            "Details": [
+                "When Breastplate's duration expires or it is destroyed by DMG, it will deal 400% ATK of Geo DMG to surrounding opponents."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Favonius Sweeper Master",
+            "Details": [
+                "Increases the Level of Sweeping Time by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Must Be Spotless",
+            "Details": [
+                "Sweeping Time increases Noelle's ATK by an additional 50% of her DEF.Additionally, every opponent defeated during the skill's duration adds 1s to the duration, up to 10s."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 79.1,
+            "Level_2": 85.6,
+            "Level_3": 92,
+            "Level_4": 101,
+            "Level_5": 108,
+            "Level_6": 115,
+            "Level_7": 125,
+            "Level_8": 135,
+            "Level_9": 145,
+            "Level_10": 156,
+            "Level_11": 167
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 73.4,
+            "Level_2": 79.3,
+            "Level_3": 85.3,
+            "Level_4": 93.8,
+            "Level_5": 99.8,
+            "Level_6": 107,
+            "Level_7": 116,
+            "Level_8": 125,
+            "Level_9": 135,
+            "Level_10": 145,
+            "Level_11": 155
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 86.3,
+            "Level_2": 93.3,
+            "Level_3": 100,
+            "Level_4": 110,
+            "Level_5": 117,
+            "Level_6": 125,
+            "Level_7": 136,
+            "Level_8": 147,
+            "Level_9": 158,
+            "Level_10": 171,
+            "Level_11": 183
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 113,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 154,
+            "Level_6": 165,
+            "Level_7": 179,
+            "Level_8": 194,
+            "Level_9": 208,
+            "Level_10": 224,
+            "Level_11": 240
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 50.7,
+            "Level_2": 54.9,
+            "Level_3": 59,
+            "Level_4": 64.9,
+            "Level_5": 69,
+            "Level_6": 73.8,
+            "Level_7": 80.2,
+            "Level_8": 86.7,
+            "Level_9": 93.2,
+            "Level_10": 100,
+            "Level_11": 107
+        },
+        {
+            "HitCount": "Final DMG%",
+            "Level_1": 90.5,
+            "Level_2": 97.8,
+            "Level_3": 105,
+            "Level_4": 116,
+            "Level_5": 123,
+            "Level_6": 132,
+            "Level_7": 143,
+            "Level_8": 155,
+            "Level_9": 166,
+            "Level_10": 179,
+            "Level_11": 191
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 74.6,
+            "Level_2": 80.7,
+            "Level_3": 86.7,
+            "Level_4": 95.4,
+            "Level_5": 102,
+            "Level_6": 108,
+            "Level_7": 118,
+            "Level_8": 128,
+            "Level_9": 137,
+            "Level_10": 147,
+            "Level_11": 158
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 149,
+            "Level_2": 161,
+            "Level_3": 173,
+            "Level_4": 191,
+            "Level_5": 203,
+            "Level_6": 217,
+            "Level_7": 236,
+            "Level_8": 255,
+            "Level_9": 274,
+            "Level_10": 295,
+            "Level_11": 316
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 186,
+            "Level_2": 201,
+            "Level_3": 217,
+            "Level_4": 238,
+            "Level_5": 253,
+            "Level_6": 271,
+            "Level_7": 295,
+            "Level_8": 318,
+            "Level_9": 342,
+            "Level_10": 368,
+            "Level_11": 394
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "ElementalSkill": [
+        {
+            "HitCount": "Skill DMG(% of DEF)",
+            "Level_1": 120,
+            "Level_2": 129,
+            "Level_3": 138,
+            "Level_4": 150,
+            "Level_5": 159,
+            "Level_6": 168,
+            "Level_7": 180,
+            "Level_8": 192,
+            "Level_9": 204,
+            "Level_10": 216,
+            "Level_11": 228,
+            "Level_12": 240,
+            "Level_13": 255
+        },
+        {
+            "HitCount": "DMG Absorption - DEF%",
+            "Level_1": 160,
+            "Level_2": 172,
+            "Level_3": 184,
+            "Level_4": 200,
+            "Level_5": 212,
+            "Level_6": 224,
+            "Level_7": 240,
+            "Level_8": 256,
+            "Level_9": 272,
+            "Level_10": 288,
+            "Level_11": 304,
+            "Level_12": 320,
+            "Level_13": 340
+        },
+        {
+            "HitCount": "DMG Absorption - Flat Bonus",
+            "Level_1": 770,
+            "Level_2": 847,
+            "Level_3": 930,
+            "Level_4": 1,
+            "Level_5": 1,
+            "Level_6": 1,
+            "Level_7": 1,
+            "Level_8": 1,
+            "Level_9": 1,
+            "Level_10": 1,
+            "Level_11": 1,
+            "Level_12": 1,
+            "Level_13": 2
+        },
+        {
+            "HitCount": "Healing - DEF%",
+            "Level_1": 21.3,
+            "Level_2": 22.9,
+            "Level_3": 24.5,
+            "Level_4": 26.6,
+            "Level_5": 28.2,
+            "Level_6": 29.8,
+            "Level_7": 31.9,
+            "Level_8": 34,
+            "Level_9": 36.2,
+            "Level_10": 38.3,
+            "Level_11": 40.4,
+            "Level_12": 42.6,
+            "Level_13": 45.2
+        },
+        {
+            "HitCount": "Healing - Flat Bonus",
+            "Level_1": 103,
+            "Level_2": 113,
+            "Level_3": 124,
+            "Level_4": 136,
+            "Level_5": 149,
+            "Level_6": 163,
+            "Level_7": 177,
+            "Level_8": 193,
+            "Level_9": 209,
+            "Level_10": 226,
+            "Level_11": 244,
+            "Level_12": 263,
+            "Level_13": 282
+        },
+        {
+            "HitCount": "Triggering Chance%",
+            "Level_1": 50,
+            "Level_2": 51,
+            "Level_3": 52,
+            "Level_4": 53,
+            "Level_5": 54,
+            "Level_6": 55,
+            "Level_7": 56,
+            "Level_8": 57,
+            "Level_9": 58,
+            "Level_10": 59,
+            "Level_11": 59,
+            "Level_12": 60,
+            "Level_13": 60
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Burst DMG",
+            "Level_1": 67.2,
+            "Level_2": 72.24,
+            "Level_3": 77.28,
+            "Level_4": 84,
+            "Level_5": 89.04,
+            "Level_6": 94.08,
+            "Level_7": 100.8,
+            "Level_8": 107.52,
+            "Level_9": 114.24,
+            "Level_10": 120.96,
+            "Level_11": 127.68,
+            "Level_12": 134.4,
+            "Level_13": 142.8,
+            "Level_14": 151.2,
+            "Level_15": 159.6
+        },
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 92.8,
+            "Level_2": 99.76,
+            "Level_3": 106.72,
+            "Level_4": 116,
+            "Level_5": 122.96,
+            "Level_6": 129.92,
+            "Level_7": 139.2,
+            "Level_8": 148.48,
+            "Level_9": 157.76,
+            "Level_10": 167.04,
+            "Level_11": 176.32,
+            "Level_12": 185.6,
+            "Level_13": 197.2,
+            "Level_14": 208.8,
+            "Level_15": 220.4
+        },
+        {
+            "HitCount": "DEF to ATK Bonus%",
+            "Level_1": 40,
+            "Level_2": 43,
+            "Level_3": 46,
+            "Level_4": 50,
+            "Level_5": 53,
+            "Level_6": 56,
+            "Level_7": 60,
+            "Level_8": 64,
+            "Level_9": 68,
+            "Level_10": 72,
+            "Level_11": 76,
+            "Level_12": 80,
+            "Level_13": 85,
+            "Level_14": 90,
+            "Level_15": 95
+        }
+    ]
+}

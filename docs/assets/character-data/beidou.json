@@ -1,0 +1,516 @@
+{
+    "Name": "Beidou",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "February 14th",
+    "Weapon": "Claymore",
+    "Element": "Electro",
+    "Constellation": "Victor Mare",
+    "Nation": "Liyue",
+    "Affiliation": "The Crux",
+    "SpecialDish": "Flash-Fried Filet",
+    "Titles": "Uncrowned Lord of the Ocean, Queen of the Crux Fleet",
+    "Intro": "She is the captain of The Crux, a renowned crew in Liyue. Besides her capabilities as a fleet captain and her immense strength, many in Liyue know her for her lack of fear towards the Tianquan of the Liyue Qixing, Ningguang — a trait that the other woman appreciates, yet grows irritated by.",
+    "Introduction": "Captain of the Crux, with quite the reputation in Liyue. There are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her. For those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say—\"No matter what sea beasts there may be, Beidou will be sure to split them all in two.\"",
+    "Personality": [
+        "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+        "Beidou loves travelling the oceans, setting sail with her ship and crew to any place they desire. She admits that she is used to sailing the seas that she is not used to staying on land for prolonged periods of time.",
+        "She is a good captain, getting along well with her entire crew, prioritizing the interests of her ship and crew first above everything else. In part due to her time in the seas, she can easily read people in an instant and shows no fear against powerful entities, having defeated the leviathan Haishan, something that Xiao notes as remarkable. She often breaks the rules in Liyue, often resulting in hefty fines from the Tianquan, but she does not appear to mind paying, despite having lost a significant amount of Mora doing so.",
+        "Beidou is also on good terms with Ganyu, but because of her poor standing with the Liyue Qixing, she keeps it a secret to avoid putting a negative light on her.",
+        "She enjoys eating robust food, primarily those fried or spiced, and enjoys drinking. Due to this, she is fond of Xiangling's cooking and does not mind testing out any new dishes for her when she returns to port."
+    ],
+    "Appearance": [
+        "Beidou has a tall, curvy build with long dark brown hair, with the top tied up with a white hairpin and her fringe slightly covering her left eye, and red eyes, wearing a red eyepatch over her left eye and an earring on her left ear.",
+        "Her outfit consists of a black leotard underneath a red, sleeveless, qipao dress with side slits cut up to her hips and the chest area cut out, with her Electro Vision chained below her left breast and a fur-lined shawl, additionally wearing a pair of fingerless gloves and thigh-high boots with golden high heels."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Oceanborne",
+            "Description": [
+                "Normal Attack: Perform up to 5 successive strikes.",
+                "Charged Attack: Drains Stamina over time to perform continuous slashes. At end of the sequence, perform a more powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Tidecaller",
+            "Description": [
+                "Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.",
+                "Press: Accumulating the power of lightning, Beidou swings her blade forward fiercely, dealing Electro DMG.",
+                "Hold: Lifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.Attacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing Electro DMG. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.The shield possesses the following properties:",
+                "Has 250% Electro DMG Absorption Efficiency.",
+                "Applies the Electro Element to Beidou upon activation."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Stormbreaker",
+            "Description": [
+                "Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself, dealing Electro DMG to nearby opponents.",
+                "Thunderbeast's Targe:",
+                "When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing Electro DMG.",
+                "Increases the character's resistance to interruption, and decreases DMG taken.",
+                "Triggers a maximum of 1 lightning discharge per second."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Retribution",
+            "Description": [
+                "Counterattacking with Tidecaller at the precise moment when the character is hit grants the maximum DMG Bonus."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Lightning Storm",
+            "Description": [
+                "Gain the following effects for 10s after unleashing Tidecaller with its maximum DMG Bonus:",
+                "DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.",
+                "Greatly reduced delay before unleashing Charged Attacks."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Conqueror of Tides",
+            "Description": [
+                "Decreases swimming Stamina consumption of your characters in the party by 20%.",
+                "Not stackable with Passive Talents that provide the exact same effects."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Gold",
+        "CommonCharacterAscensionMaterial": "HoarderInsignia",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_7",
+        "ElementalStone": "Item_2"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1094,
+            "ATK": 19,
+            "DEF": 54,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2811,
+            "ATK": 48,
+            "DEF": 140,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3628,
+            "ATK": 63,
+            "DEF": 180,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5435,
+            "ATK": 94,
+            "DEF": 270,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 6015,
+            "ATK": 104,
+            "DEF": 299,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6919,
+            "ATK": 119,
+            "DEF": 344,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7694,
+            "ATK": 133,
+            "DEF": 382,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8597,
+            "ATK": 148,
+            "DEF": 427,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9178,
+            "ATK": 158,
+            "DEF": 456,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10081,
+            "ATK": 174,
+            "DEF": 501,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10662,
+            "ATK": 184,
+            "DEF": 530,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11565,
+            "ATK": 200,
+            "DEF": 575,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12146,
+            "ATK": 210,
+            "DEF": 603,
+            "ExtraStatsValue": 24
+        },
+        {
+            "LEVEL": 90,
+            "HP": 13050,
+            "ATK": 225,
+            "DEF": 648,
+            "ExtraStatsValue": 24
+        }
+    ],
+    "ExtraStats": "Electro DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Sea Beast's Scourge",
+            "Details": [
+                "When Stormbreaker is used:Creates a shield that absorbs up to 16% of Beidou's Max HP for 15s.This shield absorbs Electro DMG 250% more effectively."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Upon the Turbulent Sea, the Thunder Arises",
+            "Details": [
+                "Stormbreaker's arc lightning can jump to 2 additional targets."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Summoner of Storm",
+            "Details": [
+                "Increases the Level of Tidecaller by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Stunning Revenge",
+            "Details": [
+                "Within 10s of taking DMG, Beidou's Normal Attacks gain 20% additional Electro DMG."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Crimson Tidewalker",
+            "Details": [
+                "Increases the Level of Stormbreaker by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Bane of Evil",
+            "Details": [
+                "During the duration of Stormbreaker, the Electro RES of surrounding opponents is decreased by 15%."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 71.1,
+            "Level_2": 76.9,
+            "Level_3": 82.7,
+            "Level_4": 91,
+            "Level_5": 96.8,
+            "Level_6": 103,
+            "Level_7": 112,
+            "Level_8": 122,
+            "Level_9": 131,
+            "Level_10": 141,
+            "Level_11": 152
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 70.9,
+            "Level_2": 76.6,
+            "Level_3": 82.4,
+            "Level_4": 90.6,
+            "Level_5": 96.4,
+            "Level_6": 103,
+            "Level_7": 112,
+            "Level_8": 121,
+            "Level_9": 130,
+            "Level_10": 140,
+            "Level_11": 151
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 88.3,
+            "Level_2": 95.5,
+            "Level_3": 103,
+            "Level_4": 113,
+            "Level_5": 120,
+            "Level_6": 128,
+            "Level_7": 140,
+            "Level_8": 151,
+            "Level_9": 162,
+            "Level_10": 175,
+            "Level_11": 189
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 86.5,
+            "Level_2": 93.6,
+            "Level_3": 101,
+            "Level_4": 111,
+            "Level_5": 118,
+            "Level_6": 126,
+            "Level_7": 137,
+            "Level_8": 148,
+            "Level_9": 159,
+            "Level_10": 171,
+            "Level_11": 185
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 112,
+            "Level_2": 121,
+            "Level_3": 130,
+            "Level_4": 143,
+            "Level_5": 153,
+            "Level_6": 163,
+            "Level_7": 177,
+            "Level_8": 192,
+            "Level_9": 206,
+            "Level_10": 222,
+            "Level_11": 240
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 56.2,
+            "Level_2": 60.8,
+            "Level_3": 65.4,
+            "Level_4": 71.9,
+            "Level_5": 76.5,
+            "Level_6": 81.8,
+            "Level_7": 88.9,
+            "Level_8": 96.1,
+            "Level_9": 103,
+            "Level_10": 111,
+            "Level_11": 120
+        },
+        {
+            "HitCount": "Final DMG%",
+            "Level_1": 102,
+            "Level_2": 110,
+            "Level_3": 118,
+            "Level_4": 130,
+            "Level_5": 139,
+            "Level_6": 148,
+            "Level_7": 161,
+            "Level_8": 174,
+            "Level_9": 187,
+            "Level_10": 201,
+            "Level_11": 218
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 74.6,
+            "Level_2": 80.7,
+            "Level_3": 86.7,
+            "Level_4": 95.4,
+            "Level_5": 101,
+            "Level_6": 108,
+            "Level_7": 118,
+            "Level_8": 127,
+            "Level_9": 137,
+            "Level_10": 147,
+            "Level_11": 158
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 149,
+            "Level_2": 161,
+            "Level_3": 173,
+            "Level_4": 191,
+            "Level_5": 203,
+            "Level_6": 217,
+            "Level_7": 236,
+            "Level_8": 255,
+            "Level_9": 274,
+            "Level_10": 295,
+            "Level_11": 316
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 186,
+            "Level_2": 201,
+            "Level_3": 217,
+            "Level_4": 238,
+            "Level_5": 253,
+            "Level_6": 271,
+            "Level_7": 295,
+            "Level_8": 318,
+            "Level_9": 342,
+            "Level_10": 368,
+            "Level_11": 394
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "ElementalSkill": [
+        {
+            "HitCount": "Shield DMG Absorption(%max HP)",
+            "Level_1": 14.4,
+            "Level_2": 15.5,
+            "Level_3": 16.6,
+            "Level_4": 18,
+            "Level_5": 19.1,
+            "Level_6": 20.2,
+            "Level_7": 21.6,
+            "Level_8": 23,
+            "Level_9": 24.5,
+            "Level_10": 25.9,
+            "Level_11": 27.4,
+            "Level_12": 28.8,
+            "Level_13": 30.6
+        },
+        {
+            "HitCount": "Shield DMG Absorption(flat)",
+            "Level_1": 1386,
+            "Level_2": 1525,
+            "Level_3": 1675,
+            "Level_4": 1837,
+            "Level_5": 2010,
+            "Level_6": 2195,
+            "Level_7": 2392,
+            "Level_8": 2600,
+            "Level_9": 2819,
+            "Level_10": 3050,
+            "Level_11": 3293,
+            "Level_12": 3547,
+            "Level_13": 3813
+        },
+        {
+            "HitCount": "Base DMG%",
+            "Level_1": 122,
+            "Level_2": 131,
+            "Level_3": 140,
+            "Level_4": 152,
+            "Level_5": 161,
+            "Level_6": 170,
+            "Level_7": 182,
+            "Level_8": 195,
+            "Level_9": 207,
+            "Level_10": 219,
+            "Level_11": 231,
+            "Level_12": 243,
+            "Level_13": 258
+        },
+        {
+            "HitCount": "DMG Increase Per Block(Max 2)",
+            "Level_1": 160,
+            "Level_2": 172,
+            "Level_3": 184,
+            "Level_4": 200,
+            "Level_5": 212,
+            "Level_6": 224,
+            "Level_7": 240,
+            "Level_8": 256,
+            "Level_9": 272,
+            "Level_10": 288,
+            "Level_11": 304,
+            "Level_12": 320,
+            "Level_13": 340
+        },
+        {
+            "HitCount": "Maximum DMG%",
+            "Level_1": 442,
+            "Level_2": 475,
+            "Level_3": 508,
+            "Level_4": 552,
+            "Level_5": 585,
+            "Level_6": 618,
+            "Level_7": 662,
+            "Level_8": 707,
+            "Level_9": 751,
+            "Level_10": 795,
+            "Level_11": 839,
+            "Level_12": 883,
+            "Level_13": 938
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 121.6,
+            "Level_2": 130.72,
+            "Level_3": 139.84,
+            "Level_4": 152,
+            "Level_5": 161.12,
+            "Level_6": 170.24,
+            "Level_7": 182.4,
+            "Level_8": 194.56,
+            "Level_9": 206.72,
+            "Level_10": 218.88,
+            "Level_11": 231.04,
+            "Level_12": 243.2,
+            "Level_13": 258.4,
+            "Level_14": 273.6,
+            "Level_15": 288.8
+        },
+        {
+            "HitCount": "Lightning DMG",
+            "Level_1": 96,
+            "Level_2": 103.2,
+            "Level_3": 110.4,
+            "Level_4": 120,
+            "Level_5": 127.2,
+            "Level_6": 134.4,
+            "Level_7": 144,
+            "Level_8": 153.6,
+            "Level_9": 163.2,
+            "Level_10": 172.8,
+            "Level_11": 182.4,
+            "Level_12": 192,
+            "Level_13": 204,
+            "Level_14": 216,
+            "Level_15": 228
+        },
+        {
+            "HitCount": "DMG Reduction",
+            "Level_1": 20,
+            "Level_2": 21,
+            "Level_3": 22,
+            "Level_4": 24,
+            "Level_5": 25,
+            "Level_6": 26,
+            "Level_7": 28,
+            "Level_8": 30,
+            "Level_9": 32,
+            "Level_10": 34,
+            "Level_11": 35,
+            "Level_12": 36,
+            "Level_13": 37,
+            "Level_14": 38,
+            "Level_15": 39
+        }
+    ]
+}

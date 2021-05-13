@@ -1,0 +1,53 @@
+<div fxLayout="row wrap">
+    <mat-toolbar fxFlex="100">
+        <div fxFlex="100" fxLayout="row" fxLayoutAlign="end center">
+            <button mat-mini-fab *ngFor="let star of stars" color="warn" style="margin-left: 10px;"
+                (click)="filterWeapon(star)">
+                <mat-icon *ngIf="star === 1">looks_one</mat-icon>
+                <mat-icon *ngIf="star === 2">looks_two</mat-icon>
+                <mat-icon *ngIf="star === 3">looks_{{star}}</mat-icon>
+                <mat-icon *ngIf="star === 4">looks_{{star}}</mat-icon>
+                <mat-icon *ngIf="star === 5">looks_{{star}}</mat-icon>
+            </button>
+        </div>
+    </mat-toolbar>
+
+    <mat-card class="weapon-list-card" *ngFor="let weapon of weaponList" fxFlex="100">
+        <div fxFlex="100" fxLayout="row" fxLayoutAling="space-between center">
+            <div class="weapon-img" fxFlex="20">
+                <img src="assets/weapon/{{weapon.Name}}.png" alt="">
+            </div>
+            <div fxFlex="80">
+                <p class="weapon-info-name">
+                    {{weapon.Name}}
+                </p>
+
+
+                <p class="weapon-info">
+                    <span class="weapon-info-title">Rarity: </span>
+                    <span class="weapon-info-details">{{weapon.Rarity}}</span>
+                </p>
+
+                <p class="weapon-info">
+                    <span class="weapon-info-title">Attack: </span>
+                    <span class="weapon-info-details">{{weapon.Atk}}</span>
+                </p>
+
+                <p class="weapon-info">
+                    <span class="weapon-info-title">Sub Stats: </span>
+                    <span class="weapon-info-details">{{weapon.SubStat}}</span>
+                </p>
+
+                <p class="weapon-info">
+                    <span class="weapon-info-title">Sub Stats Value: </span>
+                    <span class="weapon-info-details">{{weapon.SubStatsValue}}</span>
+                </p>
+
+                <p class="weapon-info">
+                    <span class="weapon-info-title">Special Ability: </span>
+                    <span class="weapon-info-details">{{weapon.SpecialAbility}}</span>
+                </p>
+            </div>
+        </div>
+    </mat-card>
+</div>

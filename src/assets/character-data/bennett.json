@@ -1,0 +1,549 @@
+{
+    "Name": "Bennett",
+    "FullName": "",
+    "Sex": "Male",
+    "Birthday": "February 29th",
+    "Weapon": "Sword",
+    "Element": "Pyro",
+    "Constellation": "Rota Calamitas",
+    "Nation": "Mondstadt",
+    "Affiliation": "Adventurers' Guild",
+    "SpecialDish": "Teyvat Charred Egg",
+    "Titles": "Trial by Fire, Leader of Benny's Adventure Team",
+    "Intro": "An orphan discovered by an elderly adventurer as a baby, Bennett was raised in Mondstadt's Adventurers' Guild. He is the one and only member of \"Benny's Adventure Team,\" as everyone else left the team after experiencing the constant misfortune that follows him.\n",
+    "Introduction": "The few young adventurers that the Mondstadt Adventurers' Guild has always found themselves tangled up in baffling bouts of bad luck. He is the only active member of his own adventure group, known as \"Benny's Adventure Team,\" after all the other members decided to \"take leave\" following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved. Being unable to break the poor boy's heart, Katheryne of the Adventurers' Guild has kept \"Benny's Adventure Team\" on the books, whilst also hiding from him the fact that all the other members have long since officially left the team.",
+    "Personality": [
+        "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+        "Bennett is a well-behaved person, albeit he somehow has terrible luck attributed to him. His bad luck causes all types of misfortunes to befall either him or others nearby.",
+        "Despite this, Bennett is very optimistic and continues to show a positive outlook on life, attributed to the fact that despite the odds, he somehow manages to push through them, having made his own solutions to deal with some of these problems. He interprets his Vision as a sign that the gods have not given up on him.",
+        "Because he was raised by old and/or retired adventurers from the Guild, he affectionally refers to them as \"dads\".",
+        "He loves eating meat and likes cabbage, but cannot stand spicy foods."
+    ],
+    "Appearance": [
+        "Bennett is a young man who is often covered in scrapes due to his various misadventures. He has pale ash-grey hair, light tan skin, and bright green eyes, usually seen wearing his goggles on his head. He has a prominent scar on his left shoulder and seems to be perpetually injured, resultant again due to his adventures and his categorised terrible luck.",
+        "Bennett wears cuffed navy shorts and a sleeveless cream-colored jacket with blue and gold details, a leather belt, a bag holding his Vision attached to it, gloves, and a yellow bandanna tied around his right arm."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Strike of Fortune",
+            "Description": [
+                "Normal Attack: Performs up to 5 rapid strikes.",
+                "Charged Attack: Consumes a certain amount of Stamina to unleash 2 rapid sword swings.",
+                "Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Passion Overload",
+            "Description": [
+                "Bennett concentrates the spirit of Adventure and Pyro into his blade. Depending on how long he charges for, different effects occur.",
+                "Tap: A single, swift flame strike that deals Pyro DMG.",
+                "Hold (Short): Charges up, resulting in different effects when unleashed based on the Charge Level",
+                "Level 1: Strikes twice, dealing Pyro DMG and launching opponents.",
+                "Level 2: Unleashes 3 consecutive attacks that deal impressive Pyro DMG, but the last attack triggers an explosion that launches both Bennett and the enemy.Bennett takes no damage from being launched, but can take fall damage if he falls down a cliff."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Fantastic Voyage",
+            "Description": [
+                "Bennett performs a jumping slam attack that deals Pyro DMG, creating an Inspiration Field for 12 seconds.",
+                "Inspiration Field:",
+                "If the health of a character within the AoE is equal to or falls below 70%, their health will regenerate each second. The amount of HP restores scales off Bennett's Max HP.",
+                "If the health of a character within the AoE is higher than 70%, they gain an ATK Bonus that scales based on Bennett's Base ATK.",
+                "Imbues characters within the AoE with Pyro."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Rekindle",
+            "Description": [
+                "Decreases Passion Overload's CD by 20%."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Fearnaught",
+            "Description": [
+                "When inside Fantastic Voyage's circle, Passion Overload's CD is decreased by 50% and Bennett cannot be launched by this skill's explosion."
+            ]
+        },
+        "Skill_6": {
+            "Name": "It Should Be Safe...",
+            "Description": [
+                "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Resistance",
+        "CommonCharacterAscensionMaterial": "HoarderInsignia",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_2",
+        "LocalMaterial": "Item_13",
+        "ElementalStone": "Item_0"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1039,
+            "ATK": 16,
+            "DEF": 65,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2670,
+            "ATK": 41,
+            "DEF": 166,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3447,
+            "ATK": 53,
+            "DEF": 214,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5163,
+            "ATK": 80,
+            "DEF": 321,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5715,
+            "ATK": 88,
+            "DEF": 356,
+            "ExtraStatsValue": 6.7
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6573,
+            "ATK": 101,
+            "DEF": 409,
+            "ExtraStatsValue": 6.7
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7309,
+            "ATK": 113,
+            "DEF": 455,
+            "ExtraStatsValue": 13.3
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8168,
+            "ATK": 126,
+            "DEF": 508,
+            "ExtraStatsValue": 13.3
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8719,
+            "ATK": 134,
+            "DEF": 542,
+            "ExtraStatsValue": 13.3
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9577,
+            "ATK": 148,
+            "DEF": 596,
+            "ExtraStatsValue": 13.3
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10129,
+            "ATK": 156,
+            "DEF": 630,
+            "ExtraStatsValue": 20
+        },
+        {
+            "LEVEL": 80,
+            "HP": 10987,
+            "ATK": 169,
+            "DEF": 684,
+            "ExtraStatsValue": 20
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11539,
+            "ATK": 178,
+            "DEF": 718,
+            "ExtraStatsValue": 26.7
+        },
+        {
+            "LEVEL": 90,
+            "HP": 12397,
+            "ATK": 191,
+            "DEF": 771,
+            "ExtraStatsValue": 26.7
+        }
+    ],
+    "ExtraStats": "Energy Recharge",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Grand Expectation",
+            "Details": [
+                "Fantastic Voyage's ATK increase no longer has an HP restriction, and gains an additional 20% of Bennett's Base ATK."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Impasse Conqueror",
+            "Details": [
+                "When Bennett's HP falls below 70%, his Energy Recharge is increased by 30%."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Unstoppable Fervor",
+            "Details": [
+                "Increases the Level of Passion Overload by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Unexpected Odyssey",
+            "Details": [
+                "Using a Normal Attack when executing the second attack of Passion Overload's Charge Level 1 allows an additional attack to be performed.This additional attack does 135% of the second attack's DMG."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "True Explorer",
+            "Details": [
+                "Increases the Level of Fantastic Voyage by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Fire Ventures with Me",
+            "Details": [
+                "Sword, Claymore, or Polearm-wielding characters inside Fantastic Voyage's radius gain a 15% Pyro DMG Bonus and their weapons are infused with Pyro."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 44.5,
+            "Level_2": 48.1,
+            "Level_3": 51.8,
+            "Level_4": 56.9,
+            "Level_5": 60.6,
+            "Level_6": 64.7,
+            "Level_7": 70.4,
+            "Level_8": 76.1,
+            "Level_9": 81.8,
+            "Level_10": 88,
+            "Level_11": 94.3
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 42.7,
+            "Level_2": 46.2,
+            "Level_3": 49.7,
+            "Level_4": 54.6,
+            "Level_5": 58.1,
+            "Level_6": 62.1,
+            "Level_7": 67.5,
+            "Level_8": 73,
+            "Level_9": 78.5,
+            "Level_10": 84.4,
+            "Level_11": 90.4
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 54.6,
+            "Level_2": 59,
+            "Level_3": 63.5,
+            "Level_4": 69.8,
+            "Level_5": 74.3,
+            "Level_6": 79.3,
+            "Level_7": 86.3,
+            "Level_8": 93.3,
+            "Level_9": 100,
+            "Level_10": 108,
+            "Level_11": 116
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 59.6,
+            "Level_2": 64.5,
+            "Level_3": 69.4,
+            "Level_4": 76.3,
+            "Level_5": 81.2,
+            "Level_6": 86.7,
+            "Level_7": 94.3,
+            "Level_8": 102,
+            "Level_9": 110,
+            "Level_10": 118,
+            "Level_11": 126
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 71.9,
+            "Level_2": 77.7,
+            "Level_3": 83.6,
+            "Level_4": 91.9,
+            "Level_5": 97.8,
+            "Level_6": 105,
+            "Level_7": 114,
+            "Level_8": 123,
+            "Level_9": 132,
+            "Level_10": 142,
+            "Level_11": 152
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 60.7,
+            "Level_2": 65.7,
+            "Level_3": 70.6,
+            "Level_4": 77.6,
+            "Level_5": 82.6,
+            "Level_6": 88.2,
+            "Level_7": 96,
+            "Level_8": 104,
+            "Level_9": 112,
+            "Level_10": 120,
+            "Level_11": 128
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 63.9,
+            "Level_2": 69.1,
+            "Level_3": 74.3,
+            "Level_4": 81.8,
+            "Level_5": 87,
+            "Level_6": 92.9,
+            "Level_7": 101,
+            "Level_8": 109,
+            "Level_9": 117,
+            "Level_10": 126,
+            "Level_11": 135
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 127,
+            "Level_2": 138,
+            "Level_3": 149,
+            "Level_4": 164,
+            "Level_5": 174,
+            "Level_6": 186,
+            "Level_7": 202,
+            "Level_8": 219,
+            "Level_9": 235,
+            "Level_10": 253,
+            "Level_11": 271
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 160,
+            "Level_2": 173,
+            "Level_3": 186,
+            "Level_4": 204,
+            "Level_5": 217,
+            "Level_6": 232,
+            "Level_7": 253,
+            "Level_8": 273,
+            "Level_9": 293,
+            "Level_10": 316,
+            "Level_11": 338
+        }
+    ],
+    "ChargedAttackStaminaCost": "20",
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Press DMG%",
+            "Level_1": 138,
+            "Level_2": 148,
+            "Level_3": 158,
+            "Level_4": 172,
+            "Level_5": 182,
+            "Level_6": 193,
+            "Level_7": 206,
+            "Level_8": 220,
+            "Level_9": 234,
+            "Level_10": 248,
+            "Level_11": 261,
+            "Level_12": 275,
+            "Level_13": 292
+        },
+        {
+            "HitCount": "Hold ATK Follow-Up DMG%",
+            "Level_1": 112,
+            "Level_2": 120,
+            "Level_3": 129,
+            "Level_4": 140,
+            "Level_5": 148,
+            "Level_6": 157,
+            "Level_7": 168,
+            "Level_8": 179,
+            "Level_9": 190,
+            "Level_10": 202,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        },
+        {
+            "HitCount": "Charge Level 1 - 1st Hit DMG%",
+            "Level_1": 84,
+            "Level_2": 90,
+            "Level_3": 97,
+            "Level_4": 105,
+            "Level_5": 111,
+            "Level_6": 118,
+            "Level_7": 126,
+            "Level_8": 134,
+            "Level_9": 143,
+            "Level_10": 151,
+            "Level_11": 160,
+            "Level_12": 168,
+            "Level_13": 179
+        },
+        {
+            "HitCount": "Charge Level 1 - 2nd Hit DMG%",
+            "Level_1": 92,
+            "Level_2": 99,
+            "Level_3": 106,
+            "Level_4": 115,
+            "Level_5": 122,
+            "Level_6": 129,
+            "Level_7": 138,
+            "Level_8": 147,
+            "Level_9": 156,
+            "Level_10": 166,
+            "Level_11": 175,
+            "Level_12": 184,
+            "Level_13": 196
+        },
+        {
+            "HitCount": "Charge Level 2 - 1st Hit DMG%",
+            "Level_1": 88,
+            "Level_2": 95,
+            "Level_3": 101,
+            "Level_4": 110,
+            "Level_5": 117,
+            "Level_6": 123,
+            "Level_7": 132,
+            "Level_8": 141,
+            "Level_9": 150,
+            "Level_10": 158,
+            "Level_11": 167,
+            "Level_12": 176,
+            "Level_13": 187
+        },
+        {
+            "HitCount": "Charge Level 2 - 2nd Hit DMG%",
+            "Level_1": 96,
+            "Level_2": 103,
+            "Level_3": 110,
+            "Level_4": 120,
+            "Level_5": 127,
+            "Level_6": 134,
+            "Level_7": 144,
+            "Level_8": 154,
+            "Level_9": 163,
+            "Level_10": 173,
+            "Level_11": 182,
+            "Level_12": 192,
+            "Level_13": 204
+        },
+        {
+            "HitCount": "Explosion DMG%",
+            "Level_1": 132,
+            "Level_2": 142,
+            "Level_3": 152,
+            "Level_4": 165,
+            "Level_5": 175,
+            "Level_6": 185,
+            "Level_7": 198,
+            "Level_8": 211,
+            "Level_9": 224,
+            "Level_10": 238,
+            "Level_11": 251,
+            "Level_12": 264,
+            "Level_13": 281
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 232.8,
+            "Level_2": 250.26,
+            "Level_3": 267.72,
+            "Level_4": 291,
+            "Level_5": 308.46,
+            "Level_6": 325.92,
+            "Level_7": 349.2,
+            "Level_8": 372.48,
+            "Level_9": 395.76,
+            "Level_10": 419.04,
+            "Level_11": 442.32,
+            "Level_12": 465.6,
+            "Level_13": 494.7,
+            "Level_14": 523.8,
+            "Level_15": 552.9
+        },
+        {
+            "HitCount": "Heal per second (HP%)",
+            "Level_1": 6,
+            "Level_2": 6.45,
+            "Level_3": 6.9,
+            "Level_4": 7.5,
+            "Level_5": 7.95,
+            "Level_6": 8.4,
+            "Level_7": 9,
+            "Level_8": 9.6,
+            "Level_9": 10.2,
+            "Level_10": 10.8,
+            "Level_11": 11.4,
+            "Level_12": 12,
+            "Level_13": 12.75,
+            "Level_14": 13.5,
+            "Level_15": 14.25
+        },
+        {
+            "HitCount": "Heal per second (Flat Bonus)",
+            "Level_1": 577,
+            "Level_2": 635,
+            "Level_3": 698,
+            "Level_4": 765,
+            "Level_5": 837,
+            "Level_6": 914,
+            "Level_7": 996,
+            "Level_8": 1083,
+            "Level_9": 1174,
+            "Level_10": 1270,
+            "Level_11": 1371,
+            "Level_12": 1477,
+            "Level_13": 1588,
+            "Level_14": 1703,
+            "Level_15": 1824
+        },
+        {
+            "HitCount": "ATK Bonus Ratio %",
+            "Level_1": 56,
+            "Level_2": 60.2,
+            "Level_3": 64.4,
+            "Level_4": 70,
+            "Level_5": 74.2,
+            "Level_6": 78.4,
+            "Level_7": 84,
+            "Level_8": 89.6,
+            "Level_9": 95.2,
+            "Level_10": 100.8,
+            "Level_11": 106.4,
+            "Level_12": 112,
+            "Level_13": 119,
+            "Level_14": 126,
+            "Level_15": 133
+        }
+    ]
+}

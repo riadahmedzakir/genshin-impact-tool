@@ -1,0 +1,472 @@
+{
+    "Name": "Ganyu",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "December 2nd",
+    "Weapon": "Bow",
+    "Element": "Cryo",
+    "Constellation": "Sinae Unicornis",
+    "Nation": "Liyue",
+    "Affiliation": "Yuehai PavilionLiyue QixingAdepti",
+    "SpecialDish": "Prosperous Peace",
+    "Titles": "Plenilune Gaze, Little Miss Ganyu  (by Uncle Tian)",
+    "Intro": "She serves as an emissary and secretary for the Liyue Qixing.",
+    "Introduction": "The secretary to the Liyue Qixing. The blood of both human and illuminated beast flows within her veins.\nGraceful and quiet by nature, yet the gentle disposition of qilin sees not even the slightest conflict with even the most arduous of workloads.After all, Ganyu firmly believes that all the work she does is in honor of her contract with Rex Lapis, seeking the well-being of all living things within Liyue.",
+    "Personality": [
+        "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+        "Ganyu is usually very quiet and reserved due to her half-qilin heritage. Qilin are also vegetarians; as such, she will not eat any meat dishes, including vegetarian ones that have been fried in animal fat. Both Xiangling and her father note that whenever she visits Wanmin Restaurant, she always eats in small quantities. She also completes whatever is given to her, whether it be tasks or food, even if she is reluctant to do so.",
+        "Ganyu's duties with the Qixing often have her do considerable work compared to other members, but the load does not faze her, and she often ends up doing overtime in the process. She gets along well with her fellow co-workers, who look up to her; likewise, she cares for her juniors and offers her knowledge to help them with any problem they might have. The massive amount of work Ganyu deals with leaves her very little free time, and she doesn't have much friends outside of work.",
+        "Surprisingly, Ganyu gets along well with Beidou, but the captain's poor standing with the Qixing means that she usually keeps it a secret, lest she put her in a negative light. Ganyu is one of the few who see Beidou positively, even breaking character once when hearing bad rumors about Beidou, knowing that she is not who they perceive her as.",
+        "She is a devout follower of Morax; Keqing believes something must have happened in the past to make her have such blind faith in him. Due to her age, she is very forgetful, and she often forgets important details which causes her embarrassment."
+    ],
+    "Appearance": [
+        "As a half-human, half-adeptus (to be precise, half-Qilin) hybrid, Ganyu has characteristics of both regular people and features found only in the gods.",
+        "Ganyu takes the appearance of a young woman with purple eyes and long blue hair, which fades into a darker shade at the end. The styling of her hair is, similar to Kaeya, easy to mistake for a ponytail, but it is not actually tied back by anything. Though she mostly resembles a human, she has dark red horns that bend back along her hair, similar to how a goat's horns look, with brighter red markings on them. Many people confuse it as a headdress.",
+        "Around her neck, there is a golden bell. She wears a black body-suit with gold accents underneath a purple and white bodice with long ends similar to a tailcoat, with a separated pair of sleeves to match. The bodysuit meets at the back of her neck to make a bow. She has white heels with gold accents and gray bottoms, with red knots around her ankles. Her Cryo Vision rests on her left hip with a red cloverleaf knot."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Liutian Archery",
+            "Description": [
+                "Normal Attack: Perform up to 6 consecutive shots with a bow.",
+                "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:",
+                "Charge Level 1: Fires off an icy arrow that deals Cryo DMG.",
+                "Charge Level 2: Fires off a Frostflake Arrow that deals Cryo DMG.",
+                "The Frostflake Arrow blooms after hitting its target, dealing AoE Cryo DMG.",
+                "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Trail of the Qilin",
+            "Description": [
+                "Leaving a single Ice Lotus behind, Ganyu dashes backward, shunning all impurity and dealing AoE Cryo DMG.",
+                "Ice Lotus: ",
+                "Continuously taunts surrounding opponents, attracting them to attack it.",
+                "Endurance scales based on Ganyu's Max HP.",
+                "Blooms profusely when destroyed or once its duration ends, dealing AoE Cryo DMG."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Celestial Shower",
+            "Description": [
+                "Coalesces atmospheric frost and snow to summon a Sacred Cryo Pearl that exorcises evil.",
+                "During its ability duration, the Sacred Cryo Pearl will continuously rain down shards of ice, striking opponents within an AoE and dealing Cryo DMG."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Undivided Heart",
+            "Description": [
+                "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Harmony between Heaven and Earth",
+            "Description": [
+                "Celestial Shower grants a 20% Cryo DMG Bonus to active members in the AoE."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Preserved for the Hunt",
+            "Description": [
+                "Refunds 15% of the ores used when crafting Bow-type weapons."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Diligence",
+        "CommonCharacterAscensionMaterial": "Nectar",
+        "TalentBoss": "Childe",
+        "TalentMaterial": "Item_1",
+        "LocalMaterial": "Item_15",
+        "ElementalStone": "Item_3"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 763,
+            "ATK": 26,
+            "DEF": 49,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 1978,
+            "ATK": 68,
+            "DEF": 127,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2632,
+            "ATK": 90,
+            "DEF": 169,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 3939,
+            "ATK": 135,
+            "DEF": 253,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4403,
+            "ATK": 151,
+            "DEF": 283,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5066,
+            "ATK": 173,
+            "DEF": 326,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5686,
+            "ATK": 194,
+            "DEF": 366,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6355,
+            "ATK": 217,
+            "DEF": 409,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6820,
+            "ATK": 233,
+            "DEF": 439,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7495,
+            "ATK": 256,
+            "DEF": 482,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7960,
+            "ATK": 272,
+            "DEF": 512,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8643,
+            "ATK": 295,
+            "DEF": 556,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 80,
+            "HP": 9108,
+            "ATK": 311,
+            "DEF": 586,
+            "ExtraStatsValue": 38.4
+        },
+        {
+            "LEVEL": 90,
+            "HP": 9797,
+            "ATK": 335,
+            "DEF": 630,
+            "ExtraStatsValue": 38.4
+        }
+    ],
+    "ExtraStats": "CRIT DMG",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Dew-Drinker",
+            "Details": [
+                "Taking DMG from a Charge Level 2 Frostflake Arrow or Frostflake Arrow Bloom decreases opponents' Cryo RES by 15% for 6s.A hit regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hit the target."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "The Auspicious",
+            "Details": [
+                "Trail of the Qilin gains 1 additional charge."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Cloud-Strider",
+            "Details": [
+                "Increases the Level of Celestial Shower by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Westward Sojourn",
+            "Details": [
+                "Opponents standing within the AoE of Celestial Shower take increased DMG. This effect strengthens over time.Increased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.The effect lingers for 3s after the opponent leaves the AoE."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "The Merciful",
+            "Details": [
+                "Increases the Level of Trail of the Qilin by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "The Clement",
+            "Details": [
+                "Using Trail of the Qilin causes the next Frostflake Arrow shot within 30s to not require charging."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 31.7,
+            "Level_2": 34.3,
+            "Level_3": 36.9,
+            "Level_4": 40.6,
+            "Level_5": 43.2,
+            "Level_6": 46.1,
+            "Level_7": 50.2,
+            "Level_8": 54.2,
+            "Level_9": 58.3,
+            "Level_10": 62.7,
+            "Level_11": 67.8
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 35.6,
+            "Level_2": 38.5,
+            "Level_3": 41.4,
+            "Level_4": 45.5,
+            "Level_5": 48.4,
+            "Level_6": 51.8,
+            "Level_7": 56.3,
+            "Level_8": 60.9,
+            "Level_9": 65.4,
+            "Level_10": 70.4,
+            "Level_11": 76.1
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 45.5,
+            "Level_2": 49.2,
+            "Level_3": 52.9,
+            "Level_4": 58.2,
+            "Level_5": 61.9,
+            "Level_6": 66.1,
+            "Level_7": 71.9,
+            "Level_8": 77.8,
+            "Level_9": 83.6,
+            "Level_10": 89.9,
+            "Level_11": 97.2
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 45.5,
+            "Level_2": 49.2,
+            "Level_3": 52.9,
+            "Level_4": 58.2,
+            "Level_5": 61.9,
+            "Level_6": 66.1,
+            "Level_7": 71.9,
+            "Level_8": 77.8,
+            "Level_9": 83.6,
+            "Level_10": 89.9,
+            "Level_11": 97.2
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 48.2,
+            "Level_2": 52.2,
+            "Level_3": 56.1,
+            "Level_4": 61.7,
+            "Level_5": 65.6,
+            "Level_6": 70.1,
+            "Level_7": 76.3,
+            "Level_8": 82.5,
+            "Level_9": 88.6,
+            "Level_10": 95.4,
+            "Level_11": 103
+        },
+        {
+            "HitCount": "6-Hit DMG%",
+            "Level_1": 57.6,
+            "Level_2": 62.3,
+            "Level_3": 67,
+            "Level_4": 73.7,
+            "Level_5": 78.4,
+            "Level_6": 83.8,
+            "Level_7": 91.1,
+            "Level_8": 98.5,
+            "Level_9": 106,
+            "Level_10": 114,
+            "Level_11": 123
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 43.9,
+            "Level_2": 47.4,
+            "Level_3": 51,
+            "Level_4": 56.1,
+            "Level_5": 59.7,
+            "Level_6": 63.8,
+            "Level_7": 69.4,
+            "Level_8": 75,
+            "Level_9": 80.6,
+            "Level_10": 86.7,
+            "Level_11": 92.8
+        },
+        {
+            "HitCount": "Charge Lv.1 DMG%",
+            "Level_1": 124,
+            "Level_2": 133,
+            "Level_3": 143,
+            "Level_4": 155,
+            "Level_5": 164,
+            "Level_6": 174,
+            "Level_7": 186,
+            "Level_8": 198,
+            "Level_9": 211,
+            "Level_10": 223,
+            "Level_11": 236
+        },
+        {
+            "HitCount": "Charge Lv.2 DMG%(Frostflake Arrow)",
+            "Level_1": 128,
+            "Level_2": 138,
+            "Level_3": 147,
+            "Level_4": 160,
+            "Level_5": 170,
+            "Level_6": 179,
+            "Level_7": 192,
+            "Level_8": 205,
+            "Level_9": 218,
+            "Level_10": 230,
+            "Level_11": 243
+        },
+        {
+            "HitCount": "Bloom DMG%(Frostflake Arrow)",
+            "Level_1": 218,
+            "Level_2": 234,
+            "Level_3": 250,
+            "Level_4": 272,
+            "Level_5": 288,
+            "Level_6": 305,
+            "Level_7": 326,
+            "Level_8": 348,
+            "Level_9": 370,
+            "Level_10": 392,
+            "Level_11": 413
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 56.8,
+            "Level_2": 61.5,
+            "Level_3": 66.1,
+            "Level_4": 72.7,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.9,
+            "Level_8": 97.1,
+            "Level_9": 104,
+            "Level_10": 112,
+            "Level_11": 120
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 114,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 155,
+            "Level_6": 165,
+            "Level_7": 180,
+            "Level_8": 194,
+            "Level_9": 209,
+            "Level_10": 225,
+            "Level_11": 240
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 142,
+            "Level_2": 153,
+            "Level_3": 165,
+            "Level_4": 182,
+            "Level_5": 193,
+            "Level_6": 206,
+            "Level_7": 224,
+            "Level_8": 243,
+            "Level_9": 261,
+            "Level_10": 281,
+            "Level_11": 300
+        }
+    ],
+    "ChargedAttackStaminaCost": 0,
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Inherited HP%",
+            "Level_1": 120,
+            "Level_2": 129,
+            "Level_3": 138,
+            "Level_4": 150,
+            "Level_5": 159,
+            "Level_6": 168,
+            "Level_7": 180,
+            "Level_8": 192,
+            "Level_9": 204,
+            "Level_10": 0,
+            "Level_11": 0,
+            "Level_12": 240,
+            "Level_13": 255
+        },
+        {
+            "HitCount": "Skill DMG%",
+            "Level_1": 132,
+            "Level_2": 142,
+            "Level_3": 152,
+            "Level_4": 165,
+            "Level_5": 175,
+            "Level_6": 185,
+            "Level_7": 198,
+            "Level_8": 209,
+            "Level_9": 224,
+            "Level_10": 0,
+            "Level_11": 0,
+            "Level_12": 264,
+            "Level_13": 281
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Ice Shard DMG",
+            "Level_1": 70.27,
+            "Level_2": 75.54,
+            "Level_3": 80.81,
+            "Level_4": 87.84,
+            "Level_5": 93.11,
+            "Level_6": 98.38,
+            "Level_7": 105.41,
+            "Level_8": 112.44,
+            "Level_9": 119.46,
+            "Level_10": 126.49,
+            "Level_11": 133.52,
+            "Level_12": 140.54,
+            "Level_13": 149.33,
+            "Level_14": 158.11,
+            "Level_15": 166.9
+        }
+    ]
+}

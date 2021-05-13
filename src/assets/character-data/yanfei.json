@@ -1,0 +1,441 @@
+{
+    "Name": "Yanfei",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "July 28th",
+    "Weapon": "Catalyst",
+    "Element": "Pyro",
+    "Constellation": "Bestia Iustitia",
+    "Nation": "Liyue",
+    "Affiliation": "Liyue Harbor, Adepti",
+    "SpecialDish": "My Way",
+    "Titles": "Wise Innocence, Liyue Harbor's famed legal adviser",
+    "Intro": "She is the child of an adeptus father and human mother. After she grew up, her parents left to go on an adventure, placing her in the care of Madame Ping. She resides in Liyue, serving as a legal advisor for its people.",
+    "Introduction": "A half-illuminated beast and highly-skilled legal adviser. She combines adherence to the legal codices and reasonable flexibility to find the perfect balance in her work. She devotes herself to protecting the fairness of contracts in Liyue with her identity as a legal adviser and her unique experience and methods.",
+    "Personality": [
+        "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+        "Yanfei enjoys appraisal, reading, and is very knowledgeable on many topics- most notably the law due to her career as a legal advisor. With a strong sense of justice, Yanfei does not mind traveling to help her clients should they have trouble in different parts of Liyue and claims to have extensive knowledge of the laws of the other nations in Teyvat - though she notes Fontaine's law to be the most difficult. She is well known by the people of Liyue for her knowledge and is considered the premier legal advisor of Liyue, a title that garners her many a client across the nation. Even Ningguang, the Tianquan of the Liyue Qixing, states that Yanfei's memorization of the law allows her to quickly close loopholes in existing laws far faster than she would have been able to by herself. When resolving disputes, Yanfei always gets all legal evidence beforehand to make a compelling and convincing argument. Although she can handle any case, she dislikes having to deal with civil suits. As many in Liyue do, Yanfei places a high value on the importance of contracts, though she is noted to place a higher value on them more than the average person due to the nature of her job.",
+        "Despite having the blood of an adeptus in her veins, Yanfei is not particularly concerned about her adeptal heritage, and is one of the few who did not sign a contract with Rex Lapis due to being born in an era of peace. She is very active and often talks a lot, a stark contrast to her father, who Madame Ping knew to be more solemn. In fact, she simply spends her time much like a normal human does and unlike most of the adepti, Yanfei doesn't consider herself above mortals in any way.",
+        "Despite her playful nature, Yanfei takes her job seriously and practically, ensuring herself and all involved parties of a case are well accounted for. She is also willing to do pro bono work to an extent as long as she isn't required to be deeply involved. Yanfei dreams of a day where people live honest and happy lives and there is no longer a need for legal advisors. Should such a day ever come, Yanfei's backup plan is to become a rapper.",
+        "Yanfei enjoys tofu because of its versatility and availability. She dislikes cold food as she rarely eats them, since her father told her that food was best served hot."
+    ],
+    "Appearance": [
+        "Yanfei is a young woman with pale skin and bright teal-green eyes with ovoid pupils. She has long, salmon pink hair fading to light pink at the tips. Under her hair, Yanfei has a pair of cream colored antlers, indicating her adeptal heritage. In addition to this, the sides of her chest, ankles, and the backs of her hands have white diamond markings that resemble scales.",
+        "Her outfit consists of a red and black xiezhi hat, and a red and black cropped top with detached white sleeves and a white collar. She also wears a red skirt tied with a yellow bow on one side over a pair of black shorts. Yanfei wears a pair of red and black boots with gold soles and heels with fluffy lining."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Seal of Approval",
+            "Description": [
+                "Normal Attack: Shoots fireballs that deal up to three counts of Pyro DMG. When Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh. Each Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.",
+                "Charged Attack: Consumes Stamina and all Scarlet Seals before dealing AoE Pyro DMG to the opponents after a short casting time. This Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.",
+                "Plunging Attack: Gathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Signed Edict",
+            "Description": [
+                "Summons blistering flames that deal AoE Pyro DMG.If this attack hits an enemy, Yanfei is granted the maximum number of Scarlet Seals."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Done Deal",
+            "Description": [
+                "Triggers a spray of intense flames that rush at nearby opponents, dealing AoE Pyro DMG, granting Yanfei the maximum number of Scarlet Seals, and applying Brilliance to her.",
+                "Brilliance",
+                "Perodically grants Yanfei a Scarlet Seal. Increases the DMG of her Charged Attacks. The Brilliance effect stops when Yanfei leaves the field or falls in battle."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Proviso",
+            "Description": [
+                "When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's Pyro DMG Bonus by 5%. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Blazing Eye",
+            "Description": [
+                "When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of AoE Pyro DMG equal to 80% of her ATK. This DMG counts as Charged Attack DMG."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Encyclopedic Expertise",
+            "Description": [
+                "Displays the location of nearby resources unique to Liyue on the mini-map."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Gold",
+        "CommonCharacterAscensionMaterial": "HoarderInsignia",
+        "TalentBoss": "Azhdaha",
+        "TalentMaterial": "Item_1",
+        "LocalMaterial": "Item_7",
+        "ElementalStone": "Item_6"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 784,
+            "ATK": 20,
+            "DEF": 49,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2014,
+            "ATK": 52,
+            "DEF": 126,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2600,
+            "ATK": 67,
+            "DEF": 163,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 3895,
+            "ATK": 100,
+            "DEF": 244,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4311,
+            "ATK": 111,
+            "DEF": 271,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 4959,
+            "ATK": 127,
+            "DEF": 311,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5514,
+            "ATK": 141,
+            "DEF": 346,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6161,
+            "ATK": 158,
+            "DEF": 387,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6578,
+            "ATK": 169,
+            "DEF": 413,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7225,
+            "ATK": 185,
+            "DEF": 453,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7641,
+            "ATK": 196,
+            "DEF": 480,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8289,
+            "ATK": 213,
+            "DEF": 520,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8705,
+            "ATK": 223,
+            "DEF": 546,
+            "ExtraStatsValue": 24
+        },
+        {
+            "LEVEL": 90,
+            "HP": 9352,
+            "ATK": 240,
+            "DEF": 587,
+            "ExtraStatsValue": 24
+        }
+    ],
+    "ExtraStats": "Pyro DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "The Law Knows No Kindness",
+            "Details": [
+                "When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Right of Final Interpretation",
+            "Details": [
+                "Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Samadhi Fire-Forged",
+            "Details": [
+                "Increases the Level of Signed Edict by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Supreme Amnesty",
+            "Details": [
+                "When Done Deal is used:Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.This shield absorbs Pyro DMG 250% more effectively."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Abiding Affidavit",
+            "Details": [
+                "Increases the Level of Done Deal by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Extra Clause",
+            "Details": [
+                "Increases the maximum number of Scarlet Seals by 1."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 58,
+            "Level_2": 63,
+            "Level_3": 67,
+            "Level_4": 73,
+            "Level_5": 77,
+            "Level_6": 82,
+            "Level_7": 88,
+            "Level_8": 93,
+            "Level_9": 99,
+            "Level_10": 105,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 52,
+            "Level_2": 56,
+            "Level_3": 60,
+            "Level_4": 65,
+            "Level_5": 69,
+            "Level_6": 73,
+            "Level_7": 78,
+            "Level_8": 83,
+            "Level_9": 89,
+            "Level_10": 94,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 76,
+            "Level_2": 82,
+            "Level_3": 87,
+            "Level_4": 95,
+            "Level_5": 101,
+            "Level_6": 106,
+            "Level_7": 114,
+            "Level_8": 122,
+            "Level_9": 129,
+            "Level_10": 137,
+            "Level_11": 0
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Charged Attack - 0 Seal DMG%",
+            "Level_1": 98,
+            "Level_2": 104,
+            "Level_3": 110,
+            "Level_4": 118,
+            "Level_5": 124,
+            "Level_6": 129,
+            "Level_7": 137,
+            "Level_8": 145,
+            "Level_9": 152,
+            "Level_10": 160,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Charged Attack - 1 Seal DMG%",
+            "Level_1": 116,
+            "Level_2": 122,
+            "Level_3": 129,
+            "Level_4": 138,
+            "Level_5": 145,
+            "Level_6": 152,
+            "Level_7": 161,
+            "Level_8": 170,
+            "Level_9": 179,
+            "Level_10": 188,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Charged Attack - 2 Seal DMG%",
+            "Level_1": 133,
+            "Level_2": 141,
+            "Level_3": 149,
+            "Level_4": 159,
+            "Level_5": 167,
+            "Level_6": 175,
+            "Level_7": 185,
+            "Level_8": 196,
+            "Level_9": 206,
+            "Level_10": 216,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Charged Attack - 3 Seal DMG%",
+            "Level_1": 150,
+            "Level_2": 159,
+            "Level_3": 168,
+            "Level_4": 180,
+            "Level_5": 189,
+            "Level_6": 198,
+            "Level_7": 210,
+            "Level_8": 221,
+            "Level_9": 233,
+            "Level_10": 245,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Charged Attack - 4 Seal DMG%",
+            "Level_1": 168,
+            "Level_2": 178,
+            "Level_3": 188,
+            "Level_4": 201,
+            "Level_5": 211,
+            "Level_6": 221,
+            "Level_7": 234,
+            "Level_8": 247,
+            "Level_9": 260,
+            "Level_10": 273,
+            "Level_11": 0
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 56.8,
+            "Level_2": 61.5,
+            "Level_3": 66.1,
+            "Level_4": 72.7,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.9,
+            "Level_8": 97.1,
+            "Level_9": 104.4,
+            "Level_10": 112.3,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 114,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 155,
+            "Level_6": 165,
+            "Level_7": 180,
+            "Level_8": 194,
+            "Level_9": 209,
+            "Level_10": 225,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 142,
+            "Level_2": 153,
+            "Level_3": 165,
+            "Level_4": 182,
+            "Level_5": 193,
+            "Level_6": 206,
+            "Level_7": 224,
+            "Level_8": 243,
+            "Level_9": 261,
+            "Level_10": 281,
+            "Level_11": 0
+        }
+    ],
+    "ChargedAttackStaminaCost": "50 (Decrease by 15.0% Per Scarlet Seal)",
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Tap DMG%",
+            "Level_1": 170,
+            "Level_2": 182,
+            "Level_3": 195,
+            "Level_4": 212,
+            "Level_5": 225,
+            "Level_6": 237,
+            "Level_7": 254,
+            "Level_8": 271,
+            "Level_9": 288,
+            "Level_10": 305,
+            "Level_11": 322,
+            "Level_12": 339,
+            "Level_13": 360,
+            "Level_14": 381.6,
+            "Level_15": 402.8
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 182.4,
+            "Level_2": 196.08,
+            "Level_3": 209.76,
+            "Level_4": 228,
+            "Level_5": 241.68,
+            "Level_6": 255.36,
+            "Level_7": 273.6,
+            "Level_8": 291.84,
+            "Level_9": 310.08,
+            "Level_10": 328.32,
+            "Level_11": 346.56,
+            "Level_12": 364.8,
+            "Level_13": 387.6,
+            "Level_14": 410.4,
+            "Level_15": 433.2
+        },
+        {
+            "HitCount": "Charged Attack DMG Bonus",
+            "Level_1": 33.4,
+            "Level_2": 35.4,
+            "Level_3": 37.4,
+            "Level_4": 40,
+            "Level_5": 42,
+            "Level_6": 44,
+            "Level_7": 46.6,
+            "Level_8": 49.2,
+            "Level_9": 51.8,
+            "Level_10": 54.4,
+            "Level_11": 57,
+            "Level_12": 59.6,
+            "Level_13": 62.2,
+            "Level_14": 64.8,
+            "Level_15": 67.4
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+<div>
+    <mat-sidenav-container class="container">
+        <mat-sidenav #sidenav [mode]="sideNavMode" [opened]="isDefaultOpen" class="sidenav">
+            <div fxHide fxShow.lt-md style="padding: 10px;" fxLayoutAlign="end center">
+                <button mat-icon-button="warn" (click)="closeSideNav()"
+                    aria-label="Example icon button with a filter list icon">
+                    <mat-icon>chevron_left</mat-icon>
+                </button>
+            </div>
+
+            <div class="user-content" fxLayout="column" fxLayoutAlign="center center">
+                <img src="./../assets/common.jpg">
+                <h1>Genshin impact tools</h1>
+            </div>
+
+
+            <mat-nav-list>
+                <div *ngFor="let nav of navigations">
+                    <a mat-list-item (click)="onNavigation(nav)">
+                        <mat-icon>{{nav.icon}}</mat-icon>
+                        <span class="nav-caption">{{nav.title}}</span>
+                    </a>
+
+                    <div id="collapsible" *ngIf="nav.showChild">
+                        <a class="child-nav" *ngFor="let childNav of nav.children" mat-list-item
+                            (click)="onNavigation(childNav)">
+                            <mat-icon>{{childNav.icon}}</mat-icon>
+                            <span class="nav-caption">{{childNav.title}}</span>
+                        </a>
+                    </div>
+                </div>                
+            </mat-nav-list>
+
+            <div fxHide.lt-md fxShow class="copy-right">
+                <mat-divider style="margin-bottom: 10px;"></mat-divider>
+                <p>Genshin Impact™ is a registered trademark of MiHoYo Co., Ltd.</p>
+
+                <p>This website as a hobby project for learning purpose. Images and data
+                    ©MiHoYo Co., Ltd.</p>
+
+                <p>Credits to
+                    <a href="https://genshin.honeyhunterworld.com/" target="_blank">Honey Impact</a>
+                    &
+                    <a href="https://genshin-impact.fandom.com/" target="_blank">Genshin Impact Wiki</a>
+                </p>
+            </div>
+        </mat-sidenav>
+
+        <mat-sidenav-content>
+            <div fxFlex="100" fxLayout="row wrap" fxLayoutAlign="start star">
+                <mat-toolbar fxFlex="100">
+                    <button mat-icon-button color="secondary" (click)="sidenav.toggle()">
+                        <mat-icon>menu</mat-icon>
+                    </button>
+                    <div fxLayout="row" fxLayoutAlign="end center" fxFlex='100'>
+                        <!-- <button mat-button [matMenuTriggerFor]="menu">
+                            Theme
+                        </button> -->
+                        <mat-menu #menu="matMenu">
+                            <button (click)="changeTheme('first-theme')" mat-menu-item>Light</button>
+                            <button (click)="changeTheme('second-theme')" mat-menu-item>Dark</button>
+                        </mat-menu>
+                    </div>
+                </mat-toolbar>
+
+                <div style="height: 94%; width: 100%;">
+                    <mat-divider></mat-divider>
+                    <router-outlet></router-outlet>
+                </div>
+            </div>
+        </mat-sidenav-content>
+    </mat-sidenav-container>
+</div>

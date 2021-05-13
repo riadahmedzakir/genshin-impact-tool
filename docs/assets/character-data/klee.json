@@ -1,0 +1,401 @@
+{
+    "Name": "Klee",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "July 27th",
+    "Constellation": "Trifolium",
+    "Weapon": "Catalyst",
+    "Element": "Pyro",
+    "Nation": "Mondstadt",
+    "Affiliation": "Knights of Favonius",
+    "SpecialDish": "Fish-Flavored Toast",
+    "Titles": "Fleeing Sunlight, Spark Knight, Red Burny Girl (by Razor)",
+    "Intro": "The daughter of the intrepid — and destructive — adventurer Alice, Klee takes after her mother in many ways, much to the consternation of the Knights of Favonius whom she has been entrusted to.",
+    "Introduction": "Knights of Favonius Spark Knight! Forever with a bang and a flash! —And then disappearing from the stern gaze of Acting Grand Master Jean. Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas...But it'd still be better to not be in solitary in the first place.",
+    "Personality": [
+        "An explosives expert and a regular at the Knights of Favonius' confinement room. Also known as Fleeing Sunlight.",
+        "Klee is an energetic and outgoing girl, with Jean remarking that she takes after her mother, Alice. She acts like a typical young girl - full of energy and loves playing with her friends. She has a particular talent for creating explosives and is not fazed by the sound, which most people find terrifying. She adores everything that blows up, such as Amber's Baron Bunny. Her definition of playing is throwing explosives all over the place; she is particularly fond of \"fish blasting\"; throwing bombs in lakes full of fishes. Whenever she heads out of the city to play, she always remembers the \"survival rules\" that Kaeya gives her and always adheres to them. Despite this, she usually causes a disaster.",
+        "In part due to her young age, Klee can be very naïve at times and can be easily confused by topics she doesn't have any context on, such as mistaking Mondstadt's wine industry as a monster and wonders why Diluc is always grumpy. She is afraid of getting in trouble and often flees to avoid getting reprimanded.",
+        "Despite being an official member of the Knights of Favonius, Klee's antics generally cause Jean to send her to solitary confinement so she can think about her actions. She shows some self-awareness over her actions, but her obsession with explosives often overrides her self-reflection as she goes off to brainstorm and develop the next explosive.",
+        "Klee loves her fellow knights as they always try to keep her happy, although she does have other friends of the organization, all of whom she enjoys spending time with. She is particularly fond of Kaeya and Albedo, the former giving her the \"survival rules\" and the latter being very kind and patient with her.",
+        "She loves fluffy things and basses, but has an unusual aversion to crabs as she claims that it takes too long trying to de-shell them."
+    ],
+    "Appearance": [
+        "Klee is a small girl with pale skin and light red eyes. She has pale blonde hair, tied in pigtails with a prominent cowlick, and elf-like ears.",
+        "Klee wears a red coat with a darker red embellishment and keyhole shapes in the hem over a white dress and shorts, as well as a fluffy scarf with a pom-pom, gloves, knee socks, boots, and a brown messenger bag. Attached to this bag is Dodoco, a furry, woodland animal-shaped pom-pom made by her mother, and her Pyro Vision. Klee wears a large red newsboy cap, with a pin featuring a clover insignia and two white feathers."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Kaboom!",
+            "Description": [
+                "Normal Attack: Throws things that go boom when they hit things! Perform up to 3 explosive attacks, dealing AoE Pyro DMG.",
+                "Charged Attack: Consumes a certain amount of Stamina and deals AoE Pyro DMG to opponents after a short casting time.",
+                "Plunging Attack: Gathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals AoE Pyro DMG upon impact with the ground."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Jumpy Dumpty",
+            "Description": [
+                "Jumpy Dumpty is tons of boom-bang-fun!",
+                "When thrown, Jumpy Dumpty bounces thrice, igniting and dealing AoE Pyro DMG with every bounce.",
+                "On the third bounce, the bomb splits into 8 mines. The mines will explode upon contact with opponents, or after a short period of time, dealing AoE Pyro DMG.",
+                "Starts with 2 charges."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Sparks 'n' Splash",
+            "Description": [
+                "Klee's Blazing Delight! For 10 seconds, summons 5 times 4 Sparks 'n' Splash to attack nearby opponents, dealing AoE Pyro DMG."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Pounding Surprise",
+            "Description": [
+                "When Jumpy Dumpty and Normal Attacks deal DMG, Klee has a 50% chance to obtain an Explosive Spark. This Explosive Spark is consumed by the next Charged Attack, which costs no Stamina and deals 50% increased DMG."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Sparkling Burst",
+            "Description": [
+                "When Klee's Charged Attack results in a CRIT, all party members gain 2 Elemental Energy."
+            ]
+        },
+        "Skill_6": {
+            "Name": "All Of My Treasures!",
+            "Description": [
+                "Displays the location of nearby resources unique to Mondstadt on the mini-map."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Freedom",
+        "CommonCharacterAscensionMaterial": "Scroll",
+        "TalentBoss": "Boreas",
+        "TalentMaterial": "Item_1",
+        "LocalMaterial": "Item_8",
+        "ElementalStone": "Item_0"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 801,
+            "ATK": 24,
+            "DEF": 48,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2077,
+            "ATK": 63,
+            "DEF": 124,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2764,
+            "ATK": 84,
+            "DEF": 165,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4136,
+            "ATK": 125,
+            "DEF": 247,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4623,
+            "ATK": 140,
+            "DEF": 276,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5319,
+            "ATK": 161,
+            "DEF": 318,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5970,
+            "ATK": 180,
+            "DEF": 357,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6673,
+            "ATK": 202,
+            "DEF": 399,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 7161,
+            "ATK": 216,
+            "DEF": 428,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7870,
+            "ATK": 238,
+            "DEF": 470,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 8358,
+            "ATK": 253,
+            "DEF": 500,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 9076,
+            "ATK": 274,
+            "DEF": 542,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 9563,
+            "ATK": 289,
+            "DEF": 572,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 90,
+            "HP": 10287,
+            "ATK": 311,
+            "DEF": 615,
+            "ExtraStatsValue": 28.8
+        }
+    ],
+    "ExtraStats": "Pyro DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Chained Reactions",
+            "Details": [
+                "Attacks and Skills have a certain chance to summon sparks that bombard opponents, dealing DMG equal to 120% of Sparks 'n' Splash's DMG."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Explosive Frags",
+            "Details": [
+                "Being hit by Jumpy Dumpty's mines decreases opponents' DEF by 23% for 10s."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Exquisite Compound",
+            "Details": [
+                "Increases the Level of Jumpy Dumpty by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Sparkly Explosion",
+            "Details": [
+                "If Klee leaves the field during the duration of Sparks 'n' Splash, her departure triggers an explosion that deals 555% of her ATK as AoE Pyro DMG."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Nova Burst",
+            "Details": [
+                "Increases the Level of Sparks 'n' Splash by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Blazing Delight",
+            "Details": [
+                "While under the effects of Sparks 'n' Splash, Klee will regenerate 3 Energy for all members of the party (excluding Klee) every 3s.When Sparks 'n' Splash is used, all party members will gain a 10% Pyro DMG Bonus for 25s."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 72.2,
+            "Level_2": 77.6,
+            "Level_3": 83,
+            "Level_4": 90.2,
+            "Level_5": 95.6,
+            "Level_6": 101,
+            "Level_7": 108,
+            "Level_8": 115,
+            "Level_9": 123,
+            "Level_10": 130,
+            "Level_11": 137
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 62.4,
+            "Level_2": 67.1,
+            "Level_3": 71.8,
+            "Level_4": 78,
+            "Level_5": 82.7,
+            "Level_6": 87.4,
+            "Level_7": 93.6,
+            "Level_8": 99.8,
+            "Level_9": 106,
+            "Level_10": 112,
+            "Level_11": 119
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 89.9,
+            "Level_2": 96.7,
+            "Level_3": 103,
+            "Level_4": 112,
+            "Level_5": 119,
+            "Level_6": 126,
+            "Level_7": 135,
+            "Level_8": 144,
+            "Level_9": 153,
+            "Level_10": 162,
+            "Level_11": 171
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 157,
+            "Level_2": 169,
+            "Level_3": 181,
+            "Level_4": 197,
+            "Level_5": 209,
+            "Level_6": 220,
+            "Level_7": 236,
+            "Level_8": 252,
+            "Level_9": 268,
+            "Level_10": 283,
+            "Level_11": 300
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 56.8,
+            "Level_2": 61.5,
+            "Level_3": 66.1,
+            "Level_4": 72.7,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.9,
+            "Level_8": 97.1,
+            "Level_9": 104,
+            "Level_10": 112,
+            "Level_11": 120
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 114,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 155,
+            "Level_6": 165,
+            "Level_7": 180,
+            "Level_8": 194,
+            "Level_9": 209,
+            "Level_10": 225,
+            "Level_11": 240
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 142,
+            "Level_2": 153,
+            "Level_3": 165,
+            "Level_4": 182,
+            "Level_5": 193,
+            "Level_6": 206,
+            "Level_7": 224,
+            "Level_8": 243,
+            "Level_9": 261,
+            "Level_10": 281,
+            "Level_11": 300
+        }
+    ],
+    "ChargedAttackStaminaCost": "50",
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Jumpy Dumpty DMG%",
+            "Level_1": 95.2,
+            "Level_2": 102,
+            "Level_3": 109,
+            "Level_4": 119,
+            "Level_5": 126,
+            "Level_6": 133,
+            "Level_7": 143,
+            "Level_8": 152,
+            "Level_9": 162,
+            "Level_10": 171,
+            "Level_11": 181,
+            "Level_12": 190,
+            "Level_13": 202
+        },
+        {
+            "HitCount": "Mine DMG%",
+            "Level_1": 32.8,
+            "Level_2": 35.3,
+            "Level_3": 37.7,
+            "Level_4": 41,
+            "Level_5": 43.5,
+            "Level_6": 45.9,
+            "Level_7": 49.2,
+            "Level_8": 52.5,
+            "Level_9": 55.8,
+            "Level_10": 59,
+            "Level_11": 62.3,
+            "Level_12": 65.6,
+            "Level_13": 69.7
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Sparks 'n' Splash DMG (x20)",
+            "Level_1": 42.64,
+            "Level_2": 45.84,
+            "Level_3": 49.04,
+            "Level_4": 53.3,
+            "Level_5": 56.5,
+            "Level_6": 59.7,
+            "Level_7": 63.96,
+            "Level_8": 68.22,
+            "Level_9": 72.49,
+            "Level_10": 76.75,
+            "Level_11": 81.02,
+            "Level_12": 85.28,
+            "Level_13": 90.61,
+            "Level_14": 95.94,
+            "Level_15": 101.27
+        },
+        {
+            "HitCount": "Max total DMG%",
+            "Level_1": 852,
+            "Level_2": 916,
+            "Level_3": 990,
+            "Level_4": 1066,
+            "Level_5": 1130,
+            "Level_6": 1194,
+            "Level_7": 1280,
+            "Level_8": 1364,
+            "Level_9": 1450,
+            "Level_10": 1536,
+            "Level_11": 1620,
+            "Level_12": 1706,
+            "Level_13": 1812,
+            "Level_14": 0,
+            "Level_15": 0
+        }
+    ]
+}

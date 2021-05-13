@@ -1,0 +1,487 @@
+{
+    "Name": "Zhongli",
+    "FullName": "",
+    "Sex": "Male",
+    "Birthday": "December 31st",
+    "Weapon": "Polearm",
+    "Element": "Geo",
+    "Constellation": "Lapis Dei",
+    "Nation": "Liyue",
+    "Affiliation": "Liyue Harbor, Wangsheng Funeral ParlorArchons",
+    "SpecialDish": "Slow-Cooked Bamboo Shoot Soup",
+    "Titles": "Vago Mundo",
+    "Intro": "He is later revealed to be the current vessel of the Geo Archon, Morax, who has decided to experience the world from the perspective of a mortal. After giving up his Gnosis, he retires from his position as an Archon and returns to his former identity as an Adeptus. He currently works as a consultant of the Wangsheng Funeral Parlor.",
+    "Introduction": "Wangsheng Funeral Parlor's mysterious consultant. Handsome, elegant, and surpassingly learned.\nThough no one knows where Zhongli is from, he is a master of courtesy and rules. From his seat at Wangsheng Funeral Parlor, he performs all manner of rituals.",
+    "Personality": [
+        "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+        "Zhongli is a calm, reserved, and polite man who knows much about Liyue's history and culture in part due to his time as the Geo Archon; like Venti, he has many experiences and memories, as he was a god well before The Seven even existed. He holds very philosophical ideas towards money and has great respect for Liyue's traditions, including those that have been forgotten or warped over time. Despite his wealth of information, Zhongli tends to be humble and even seems somewhat insecure about it, being worried he comes off as a “bourgeois parasite”. He is generally reminiscent and nostalgic, holding a melancholy air to him, but occasionally shows signs of eccentricity.",
+        "One of Zhongli's most defining characteristics is his tendency to forget about Mora in transactions, agreeing to spend large sums of it without having any Mora on hand and even taking \"discounts\" as granted despite being an obvious scam. He often ends up relying on those he is acquainted with for financial support, such as the Wangsheng Funeral Parlor or Childe. Although he is friends with Hu Tao, who trusts him the most, he does not like her childish behavior-. Still, he doesn’t hesitate to send her the bill of his expensive excursions, which she appears to pay for in exchange for his tolerance in her pranks.",
+        "It is later revealed that Zhongli's carelessness stems from being the Geo Archon and the creator of Mora. With the Gnosis allowing him to create limitless Mora, he never had to worry about running low on his personal finances. Unfortunately, when he chose to live among mortals, he lacked the foresight to find an alternative for them to continue minting Mora in his absence, along with creating a retirement fund for himself. As a result, he shamelessly spends the Mora of others, since he knows that he is its initial creator.",
+        "Zhongli, like Venti, seems to see his human form as somewhat separate from his godly form. Unlike Venti, who is willing to reveal his true identity to help his people regardless of the situation, Zhongli would only do so if Liyue was in real peril. Prior to faking his death, he left behind hints to the Qixing and adepti that he was still alive, but did not disclose the identity of his human form.",
+        "The Archaic Petra set states that Rex Lapis was said to be an emotionless, merciless god who slaughtered countless other gods during the Archon War, as was necessary in order to fulfill a contract. As the God of Contracts, Zhongli takes contracts earnestly and sincerely; while he does not mind small manipulation behind the scenes, he will always honor the content's agreements, and is perplexed as to how some people are unable to abide by such a concept. Likewise, he does not tolerate those who break contracts and states that all who do so will suffer the \"Wrath of the Rock\". True to this, his Elemental Burst causes him to send a meteor flying towards his enemies.",
+        "Zhongli cares deeply for his nation, even though he risks putting it in danger due to his plan to step down as the Geo Archon. His intention was to test Liyue to see if it was ready to proceed into a new age without his presence, and he does so by faking his death during the annual Rite of Descension. He later clarifies, however, that were Liyue to be in any real peril, he would step in to stop it. He agrees with Keqing's controversial opinion that Liyue is overly reliant on its Archon, and respects her for that reason. Highly intelligent and calculating, Zhongli accurately predicts Childe’s plans, and he builds his test for Liyue entirely around the Harbinger. Despite having deceived him, he is still on good terms with the Harbinger, occasionally going out for drinks with him. Liyue, while unknowing of his true identity, holds him in great respect, both for his abundant knowledge and immense generosity. As stated by his acquaintances, he sees the human lifespan as incredibly short in comparison to the lives of adepti, so he doesn’t hesitate to give his people whatever they need to be more comfortable, even if it means giving away Mora from the pockets of others.",
+        "He dislikes seafood, stating that it brings back \"bad\" memories, referring to a time in the past when he once fought tentacled and foul-smelled sea monsters with great difficulty due to their resilience, small size, and abundance for the sake of his people and a promise he made to them, even though it was little more than glorified pest control. Despite his dislike of seafood, this is not true of the taste itself - he does not mind eating them when they have been turned completely unrecognizable from their original state."
+    ],
+    "Appearance": [
+        "Zhongli currently appears as a tall and slender young man with fair skin and a stern expression. His eyes are bright and sharp, amber in colour with glowing yellow pupils set in the shape of a diamond. He wears orange eyeshadow along the side of his eyes. When using Geo, his eyes become luminescent. His dark brown hair is styled in a windswept fashion with a longer fringe that hangs from the right side of his face. It fades to amber brown at the tips and is pulled back in a long ponytail that falls beyond his waist. When he is using his Geo abilities, his amber highlights glow. This appearance is also used in The Statues of The Seven’s depiction of Rex Lapis around Liyue.",
+        "His attire is elegant and form-fitting, consisting of a beige dress shirt, a brown and amber waistcoat, slim black trousers, black dress boots, and black gloves with silver archer rings on the thumbs. His neckpiece is a white tie pinned at the throat by an amber gemstone. His left ear is adorned with a jewelled tassel earring. Over everything, he wears a long dark brown tailcoat with dragon scale patterns, gold and silver accents, golden tassels, and Rex Lapis' diamond symbol on the back. Zhongli's clothes are decorated with diamond symbols found on his sleeves, belt, trousers, waistcoat buttons, and tailcoat buttons. Similarly to Venti, because he was an Archon with an innate Gnosis, the \"Vision\" embedded on his chain at his back is nothing more than a fake.",
+        "Previously, he appeared as a brown and amber Chinese dragon with gold accents known as the Exuvia.-"
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Rain of Stone",
+            "Description": [
+                "Normal Attack: Performs up to 6 rapid strikes.",
+                "Charged Attack: Consumes a certain amount of Stamina to lunge forward, causing stone spears to fall along his path.",
+                "Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Dominus Lapidis",
+            "Description": [
+                "Every mountain, rock, and inch of land is filled with the power of Geo, but those who can wield such powers freely are few and far between.",
+                "Press: Commands the omnipresent power of the earth to solidify into a Stone Stele, standing 30 seconds, dealing AoE Geo DMG at the creation.",
+                "Hold: Causes nearby Geo energy to explode, causing the following effects:",
+                "If their maximum number hasn't been reached, creates a Stone Stele.",
+                "Creates a shield of jade. The shield's DMG Absorption scales based on Zhongli's Max HP. Possesses 150% DMG Absorption against all Elemental and Physical DMG.",
+                "Deals AoE Geo DMG.",
+                "If there are nearby targets with the Geo element, it will drain a large amount of Geo element from a maximum of 2 such targets. This effect does not cause DMG.",
+                "Stone Stele: When created, deals AoE Geo DMG. Additionally, every 2 seconds, it will resonate with other nearby Geo Constructs, dealing Geo DMG to surrounding opponents. Stele creation and Resonance generate 0.5 elemental particles.",
+                "The Stone Stele is considered a Geo Construct that can both be climbed and used to block attacks.Only one Stele created by Zhongli himself may initially exist at any one time.",
+                "Jade Shield: Possesses 150% DMG Absorption against all Elemental and Physical DMG.Characters protected by the Jade Shield will decrease the Elemental RES and Physical RES of opponents in a small AoE by 20%. This effect cannot be stacked."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Planet Befall",
+            "Description": [
+                "Brings a falling meteor down to earth, dealing massive Geo DMG to opponents caught in its AoE and applying the Petrification status to them.",
+                "Petrification: Opponents affected by the Petrification status cannot move."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Resonant Waves",
+            "Description": [
+                "When the Jade Shield takes DMG, it will Fortify:",
+                "Fortified characters have 5% increased Shield Strength.Can stack up to 5 times, and lasts until the Jade Shield disappears."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Dominance of Earth",
+            "Description": [
+                "Zhongli deals bonus DMG based on his Max HP:",
+                "Normal Attack, Charged Attack, and Plunging Attack DMG is increased by 1.39% of Max HP.",
+                "Dominus Lapidis Stone Stele, resonance, and hold DMG is increased by 1.9% of Max HP.",
+                "Planet Befall deals additional DMG equal to 33% of Zhongli's Max HP."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Arcanum of Crystal",
+            "Description": [
+                "Refunds 15% of the ores used when crafting Polearm-type weapons."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Gold",
+        "CommonCharacterAscensionMaterial": "Slime",
+        "TalentBoss": "Childe",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_3",
+        "ElementalStone": "Item_5"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1144,
+            "ATK": 20,
+            "DEF": 57,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2967,
+            "ATK": 51,
+            "DEF": 149,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3948,
+            "ATK": 67,
+            "DEF": 198,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5908,
+            "ATK": 101,
+            "DEF": 297,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 6605,
+            "ATK": 113,
+            "DEF": 332,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7599,
+            "ATK": 130,
+            "DEF": 382,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 8528,
+            "ATK": 146,
+            "DEF": 428,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9533,
+            "ATK": 163,
+            "DEF": 479,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 10230,
+            "ATK": 175,
+            "DEF": 514,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 11243,
+            "ATK": 192,
+            "DEF": 564,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 11940,
+            "ATK": 204,
+            "DEF": 599,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12965,
+            "ATK": 222,
+            "DEF": 651,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 13662,
+            "ATK": 233,
+            "DEF": 686,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 90,
+            "HP": 14695,
+            "ATK": 251,
+            "DEF": 738,
+            "ExtraStatsValue": 28.8
+        }
+    ],
+    "ExtraStats": "Geo DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Rock, the Backbone of Earth",
+            "Details": [
+                "Increases the maximum number of Stone Steles created by Dominus Lapidis that may exist simultaneously to 2."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Stone, the Cradle of Jade",
+            "Details": [
+                "Planet Befall grants nearby characters on the field a Jade Shield when it descends."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Jade, Shimmering through Darkness",
+            "Details": [
+                "Increases the Level of Dominus Lapidis by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Topaz, Unbreakable and Fearless",
+            "Details": [
+                "Increases Planet Befall's AoE by 20% and increases the duration of Planet Befall's Petrification effect by 2s."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Lazuli, Herald of the Order",
+            "Details": [
+                "Increases the Level of Planet Befall by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Chrysos, Bounty of Dominator",
+            "Details": [
+                "When the Jade Shield takes DMG, 40% of that incoming DMG is converted to HP for the current character.A single instance of regeneration cannot exceed 8% of that character's Max HP."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 30.8,
+            "Level_2": 33.3,
+            "Level_3": 35.8,
+            "Level_4": 39.4,
+            "Level_5": 41.9,
+            "Level_6": 44.7,
+            "Level_7": 48.7,
+            "Level_8": 52.6,
+            "Level_9": 56.5,
+            "Level_10": 60.8,
+            "Level_11": 65.7
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 31.2,
+            "Level_2": 33.7,
+            "Level_3": 36.2,
+            "Level_4": 39.9,
+            "Level_5": 42.4,
+            "Level_6": 45.3,
+            "Level_7": 49.3,
+            "Level_8": 53.2,
+            "Level_9": 57.2,
+            "Level_10": 61.6,
+            "Level_11": 66.6
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 38.6,
+            "Level_2": 41.7,
+            "Level_3": 44.9,
+            "Level_4": 49.3,
+            "Level_5": 52.5,
+            "Level_6": 56,
+            "Level_7": 61,
+            "Level_8": 65.9,
+            "Level_9": 70.9,
+            "Level_10": 76.3,
+            "Level_11": 82.4
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 42.9,
+            "Level_2": 46.4,
+            "Level_3": 49.9,
+            "Level_4": 54.9,
+            "Level_5": 58.4,
+            "Level_6": 62.4,
+            "Level_7": 67.9,
+            "Level_8": 73.4,
+            "Level_9": 78.9,
+            "Level_10": 84.9,
+            "Level_11": 91.7
+        },
+        {
+            "HitCount": "5-Hit DMG% (x4)",
+            "Level_1": 10.8,
+            "Level_2": 11.6,
+            "Level_3": 12.5,
+            "Level_4": 13.8,
+            "Level_5": 14.6,
+            "Level_6": 15.6,
+            "Level_7": 17,
+            "Level_8": 18.4,
+            "Level_9": 19.8,
+            "Level_10": 21.3,
+            "Level_11": 23
+        },
+        {
+            "HitCount": "6-Hit DMG%",
+            "Level_1": 54.5,
+            "Level_2": 58.9,
+            "Level_3": 63.4,
+            "Level_4": 69.7,
+            "Level_5": 74.1,
+            "Level_6": 79.2,
+            "Level_7": 86.2,
+            "Level_8": 93.2,
+            "Level_9": 100,
+            "Level_10": 108,
+            "Level_11": 116
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 111,
+            "Level_2": 120,
+            "Level_3": 129,
+            "Level_4": 142,
+            "Level_5": 151,
+            "Level_6": 161,
+            "Level_7": 176,
+            "Level_8": 190,
+            "Level_9": 204,
+            "Level_10": 219,
+            "Level_11": 237
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 63.9,
+            "Level_2": 69.1,
+            "Level_3": 74.3,
+            "Level_4": 81.8,
+            "Level_5": 87,
+            "Level_6": 92.9,
+            "Level_7": 101,
+            "Level_8": 109,
+            "Level_9": 117,
+            "Level_10": 126,
+            "Level_11": 135
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 128,
+            "Level_2": 138,
+            "Level_3": 149,
+            "Level_4": 174,
+            "Level_5": 186,
+            "Level_6": 202,
+            "Level_7": 219,
+            "Level_8": 235,
+            "Level_9": 253,
+            "Level_10": 271,
+            "Level_11": 288
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 160,
+            "Level_2": 173,
+            "Level_3": 186,
+            "Level_4": 204,
+            "Level_5": 217,
+            "Level_6": 232,
+            "Level_7": 253,
+            "Level_8": 273,
+            "Level_9": 293,
+            "Level_10": 316,
+            "Level_11": 338
+        }
+    ],
+    "ChargedAttackStaminaCost": "25",
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Stone Stele DMG%",
+            "Level_1": 16,
+            "Level_2": 17.2,
+            "Level_3": 18.4,
+            "Level_4": 20,
+            "Level_5": 21.2,
+            "Level_6": 22.4,
+            "Level_7": 24,
+            "Level_8": 25.6,
+            "Level_9": 27.2,
+            "Level_10": 28.8,
+            "Level_11": 30.4,
+            "Level_12": 32,
+            "Level_13": 34
+        },
+        {
+            "HitCount": "Resonance DMG%",
+            "Level_1": 32,
+            "Level_2": 34.4,
+            "Level_3": 36.8,
+            "Level_4": 40,
+            "Level_5": 42.4,
+            "Level_6": 44.8,
+            "Level_7": 48,
+            "Level_8": 51.2,
+            "Level_9": 54.4,
+            "Level_10": 57.6,
+            "Level_11": 60.8,
+            "Level_12": 64,
+            "Level_13": 68
+        },
+        {
+            "HitCount": "Hold DMG%",
+            "Level_1": 80,
+            "Level_2": 86,
+            "Level_3": 92,
+            "Level_4": 100,
+            "Level_5": 106,
+            "Level_6": 112,
+            "Level_7": 120,
+            "Level_8": 128,
+            "Level_9": 136,
+            "Level_10": 144,
+            "Level_11": 152,
+            "Level_12": 160,
+            "Level_13": 170
+        },
+        {
+            "HitCount": "Shield Absorption Base",
+            "Level_1": 1232,
+            "Level_2": 1356,
+            "Level_3": 1489,
+            "Level_4": 1633,
+            "Level_5": 1787,
+            "Level_6": 1951,
+            "Level_7": 2126,
+            "Level_8": 2311,
+            "Level_9": 2506,
+            "Level_10": 2712,
+            "Level_11": 2927,
+            "Level_12": 3153,
+            "Level_13": 3389
+        },
+        {
+            "HitCount": "Additional (Max HP%)",
+            "Level_1": 12.8,
+            "Level_2": 13.8,
+            "Level_3": 14.8,
+            "Level_4": 16,
+            "Level_5": 17,
+            "Level_6": 17.9,
+            "Level_7": 19.2,
+            "Level_8": 20.5,
+            "Level_9": 21.8,
+            "Level_10": 23,
+            "Level_11": 24.3,
+            "Level_12": 25.6,
+            "Level_13": 27.2
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 401.08,
+            "Level_2": 444.44,
+            "Level_3": 487.8,
+            "Level_4": 542,
+            "Level_5": 590.78,
+            "Level_6": 639.56,
+            "Level_7": 704.6,
+            "Level_8": 769.64,
+            "Level_9": 834.68,
+            "Level_10": 899.72,
+            "Level_11": 964.76,
+            "Level_12": 1029.8,
+            "Level_13": 1084,
+            "Level_14": 1138.2,
+            "Level_15": 1192.4
+        }
+    ]
+}

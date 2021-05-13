@@ -1,0 +1,221 @@
+.character-list-card {
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+    .character-list-portrait {
+        img {
+            height: 248;
+            width: 208;
+        }
+    }
+
+    .character-info-name {
+        font-size: 20px;
+        font-weight: bold;
+        border-bottom: 1px solid lightgrey;
+        padding-bottom: 4px;
+    }
+
+    .character-info {
+        font-size: 18px;
+
+        .character-info-title {
+            font-size: 14px;
+        }
+
+        .character-info-details {
+            font-weight: bold;
+        }
+    }
+}
+
+.character-list-card:hover {
+    box-shadow: 0 5px 5px -3px rgb(0 0 0 / 20%), 0 8px 10px 1px rgb(0 0 0 / 14%), 0 3px 14px 2px rgb(0 0 0 / 12%);
+    cursor: pointer;
+}
+
+.diluc {
+    background-image: url("./../../../../assets/name-card/diluc.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jean {
+    background-image: url("./../../../../assets/name-card/jean.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.keqing {
+    background-image: url("./../../../../assets/name-card/keqing.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.klee {
+    background-image: url("./../../../../assets/name-card/klee.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mona {
+    background-image: url("./../../../../assets/name-card/mona.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.qiqi {
+    background-image: url("./../../../../assets/name-card/qiqi.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.venti {
+    background-image: url("./../../../../assets/name-card/venti.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.xiao {
+    background-image: url("./../../../../assets/name-card/xiao.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tartaglia {
+    background-image: url("./../../../../assets/name-card/tartaglia.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.zhongli {
+    background-image: url("./../../../../assets/name-card/zhongli.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ganyu {
+    background-image: url("./../../../../assets/name-card/ganyu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.albedo {
+    background-image: url("./../../../../assets/name-card/albedo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hutao {
+    background-image: url("./../../../../assets/name-card/hutao.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.amber {
+    background-image: url("./../../../../assets/name-card/amber.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.barbara {
+    background-image: url("./../../../../assets/name-card/barbara.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.beidou {
+    background-image: url("./../../../../assets/name-card/beidou.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bennett {
+    background-image: url("./../../../../assets/name-card/bennett.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chongyun {
+    background-image: url("./../../../../assets/name-card/chongyun.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fischl {
+    background-image: url("./../../../../assets/name-card/fischl.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.kaeya {
+    background-image: url("./../../../../assets/name-card/kaeya.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.lisa {
+    background-image: url("./../../../../assets/name-card/lisa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ningguang {
+    background-image: url("./../../../../assets/name-card/ningguang.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.noelle {
+    background-image: url("./../../../../assets/name-card/noelle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.razor {
+    background-image: url("./../../../../assets/name-card/razor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sucrose {
+    background-image: url("./../../../../assets/name-card/sucrose.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.xiangling {
+    background-image: url("./../../../../assets/name-card/xiangling.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.xingqiu {
+    background-image: url("./../../../../assets/name-card/xingqiu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diona {
+    background-image: url("./../../../../assets/name-card/diona.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.xinyan {
+    background-image: url("./../../../../assets/name-card/xinyan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.rosaria {
+    background-image: url("./../../../../assets/name-card/rosaria.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.yanfei {
+    background-image: url("./../../../../assets/name-card/yanfei.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

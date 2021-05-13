@@ -1,0 +1,629 @@
+{
+    "Name": "Tartaglia",
+    "FullName": "Ajax",
+    "Sex": "Male",
+    "Weapon": "Bow",
+    "Element": "Hydro",
+    "Birthday": "July 20th",
+    "Constellation": "Monoceros Caeli",
+    "Nation": "Snezhnaya",
+    "Affiliation": "Fatui",
+    "SpecialDish": "A Prize Catch",
+    "Titles": "Childe, 11th of the Eleven Fatui Harbingers",
+    "Intro": "He is the most recent member of the Eleven Harbingers of the Fatui. Following danger wherever he goes, Childe is always eager for a challenge, making him extremely dangerous despite being the youngest member.\n",
+    "Introduction": "Meet Tartaglia — the cunning Snezhnayan whose unpredictable personality keeps people guessing his every move.\nDon't be under any illusion as to what he might be thinking or what his intentions are. Just remember this: Behind that innocent, childlike exterior lies a finely honed instrument of war.",
+    "Personality": [
+        "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
+        "Warm and friendly one minute, ruthless killer the next... His shifting and unpredictable personality can leave those around him at a loss for words to describe him. But in rare, private moments, he dispenses with titles, casts off his armor and the layers of intrigue that come with it, and shows his authentic self.",
+        "His name is Tartaglia, and he is devoted to the thrill and the physical feel of battle.",
+        "Like a velvet sheath that houses an ostensibly ornamental blade, his unpredictability puts people on edge.",
+        "Tartaglia describes himself as \"kind of a bad guy\", living for the thrill of a fight and causing chaos.",
+        "As a young child Tartaglia was frightened and hesitant, but he secretly desired to become an adventurer like the ones his father told him about as they fished together. After falling into The Abyss and meeting and training with Skirk, Tartaglia’s personality drastically changed.",
+        "While he appears to relatively friendly on the surface, Tartaglia is a bloodthirsty warrior. The Abyss and Skirk made him self-confident, solipsistic, and brash; thriving on the sensation of being alive. A warrior at heart, he constantly seeks ways to grow stronger, regardless of how he obtains said power. Tartaglia considers those who wish to become strong like him to be friends, even if it means fighting each other on the battlefield. He lusts for combat and grows excited by fighting strong opponents, even if it means dying in the process. He uses bows because he is weakest with them, making his victories with them all the more exhilarating.",
+        "Because of his pride, Tartaglia is exceptionally reliable at accomplishing the tasks given to him, no matter how difficult they may be or if they go against his values. This, combined with his straightforward nature, makes him easy to manipulate. Despite disliking how his plan in Liyue Harbor could potentially harm innocents, he puts it into motion to fulfill his mission in Liyue — only to learn he was meant to fail as part of an even larger plan he was not privy to, much to his consternation.",
+        "Amongst the rest of the Harbingers, Tartaglia is an oddball. While his fellow Harbingers prefer clandestine operations and stay behind the scenes, Tartaglia favors being front and center. On top of his lust for battle and tendency to cause havoc, he is a public figure known for attending social gatherings and even participates as an actor in plays and theater. As a result, Childe's coworkers are wary of him, while he holds them in disdain for their schemes and \"intangible\" methods. While he is quite capable of scheming, he only resorts to such approaches when necessary due to his straightforward nature. He also appears to treat his subordinates less harshly than the rest of the Harbingers, stating that he doesn't use lethal force against the recruits in his care, nor does he threaten any of them.",
+        "Tartaglia dedicates himself to those he cares about wholeheartedly. He is unquestionably loyal to the Tsaritsa and holds her in high esteem, seeing himself as her weapon of war. He also cares deeply for his family; he sends money, gifts, and letters home often. Tartaglia is exceptionally proud of his three younger siblings and dotes on them frequently, especially his youngest brother Teucer — he is willing to lie and even put him in mortal danger, so as long as it makes him happy. While this is callous, Tartagila prioritizes his brother's safety over his own. He sees the Traveler as a friend, and enjoys sparring with them. Despite Zhongli deceiving him (and using him as financial support), he is still on good terms with the former Archon.",
+        "Tartaglia enjoys fishing, having grown to appreciate fishing with his father before his drastic change. He uses it as a way to meditate, honing his endurance and contemplating his combat techniques. He has no particular preference for meals, declaring that all food is delicious, stating that a true warrior shouldn't fuss over what they eat in a manner similar to the weapon they use."
+    ],
+    "Appearance": [
+        "Tartaglia has short, choppy orange hair and dull blue eyes. He wears a red Fatui mask pulled off to one side of his head. He also wears a beaded earring with a red crystal on his left ear.",
+        "Tartaglia wears a grey jacket with dark red and light grey details, grey pants, and black boots and gloves. His jacket is open on one side to reveal a belt, which his Hydro Vision is attached to. He also wears a red banner that goes across his chest and over his left shoulder, which becomes infused with a wispy hydro effect when in the melee stance of his elemental skill Foul Legacy: Raging Tide.",
+        "During the Golden House battle, Tartaglia wears his Delusion to the right of his Vision in the center of his belt, and then moves his Vision to the empty slot on his right chest when fully activating the Foul Legacy Transformation."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Cutting Torrent",
+            "Description": [
+                "Normal Attack: Perform up to 6 consecutive shots with a bow.",
+                "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, the power of Hydro will accumulate on the arrowhead. An arrow fully charged with the torrent will deal Hydro DMG and apply the Riptide status.",
+                "Riptide: Opponents affected by Riptide will suffer from AoE Hydro DMG effects when attacked by Tartaglia in various ways. DMG dealt in this way is considered Normal Attack dmg.",
+                "Riptide Flash: A fully-charged Aimed Shot that hits an opponent affected by Riptide deals consecutive bouts of AoE DMG. Can occur once every 0.7s.",
+                "Riptide Burst: Defeating an opponent affected by Riptide creates a Hydro burst that inflicts the Riptide status on nearby opponents hit.",
+                "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact. When Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, he cannot perform a plunging attack."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Foul Legacy: Raging Tide",
+            "Description": [
+                "Unleashes a set of weaponry made of pure water, dealing Hydro DMG to surrounding opponents and entering Melee Stance.",
+                "In this Stance, Tartaglia's Normal and Charged Attacks are converted to Hydro DMG that cannot be overridden by any other elemental infusion and change as follows:",
+                "Normal Attack: Perform up to 6 consecutive Hydro strikes.",
+                "Charged Attack: Consumes a certain amount of Stamina to unleash a cross slash, dealing Hydro DMG.",
+                "Riptide Slash: Hitting an opponent affected by Riptide with a melee attack unleashes a Riptide Slash that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Skill DMG, and can only occur once every 1.5s.",
+                "After 30s, or when the ability is unleashed again, this skill will end. Tartaglia will return to his Ranged Stance and this ability will enter CD. The longer Tartaglia stays in his Melee Stance, the longer the CD. If the return to a ranged stance occurs automatically after 30s, the CD is even longer."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Havoc: Obliteration",
+            "Description": [
+                "Performs different attacks based on what stance Tartaglia is in when casting.",
+                "Ranged Stance: Flash of Havoc: Swiftly fires a Hydro-imbued magic arrow, dealing AoE Hydro DMG and applying the Riptide status. Returns a portion of its Energy Cost after use.",
+                "Melee Stance: Light of Obliteration: Performs a slash with a large AoE, dealing massive Hydro DMG to all surrounding opponents, which triggers Riptide Blast.",
+                "Riptide Blast: When the obliterating waters hit an opponent affected by Riptide, it clears their Riptide status and triggers a Hydro Explosion that deals AoE Hydro DMG. DMG dealt in this way is considered Elemental Burst DMG."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Never Ending",
+            "Description": [
+                "Extends Riptide duration by 8s."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Sword of Torrents",
+            "Description": [
+                "When Tartaglia is in Foul Legacy: Raging Tide's Melee stance, on dealing a CRIT hit, Normal and Charged Attacks apply the Riptide status effects to opponents."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Master of Weaponry",
+            "Description": [
+                "Increases your own party members' Normal Attack Level by 1."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Freedom",
+        "CommonCharacterAscensionMaterial": "FatuiInsignia",
+        "TalentBoss": "Childe",
+        "TalentMaterial": "Item_2",
+        "LocalMaterial": "Item_16",
+        "ElementalStone": "Item_1"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1020,
+            "ATK": 23,
+            "DEF": 63,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2646,
+            "ATK": 61,
+            "DEF": 165,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3521,
+            "ATK": 81,
+            "DEF": 219,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5268,
+            "ATK": 121,
+            "DEF": 328,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5889,
+            "ATK": 135,
+            "DEF": 366,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6776,
+            "ATK": 156,
+            "DEF": 421,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7604,
+            "ATK": 175,
+            "DEF": 473,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8500,
+            "ATK": 195,
+            "DEF": 528,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9121,
+            "ATK": 210,
+            "DEF": 567,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10025,
+            "ATK": 231,
+            "DEF": 623,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10647,
+            "ATK": 245,
+            "DEF": 662,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11561,
+            "ATK": 266,
+            "DEF": 719,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12182,
+            "ATK": 280,
+            "DEF": 757,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 90,
+            "HP": 13103,
+            "ATK": 301,
+            "DEF": 815,
+            "ExtraStatsValue": 28.8
+        }
+    ],
+    "ExtraStats": "Hydro DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Foul Legacy: Tide Withholder",
+            "Details": [
+                "Decreases the CD of Foul Legacy: Raging Tide by 20%"
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Foul Legacy: Understream",
+            "Details": [
+                "When opponents affected by Riptide are defeated, Tartaglia regenerates 4 Elemental Energy."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Abyssal Mayhem: Vortex of Turmoil",
+            "Details": [
+                "Increases the Level of Foul Legacy: Raging Tide by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Abyssal Mayhem: Hydrospout",
+            "Details": [
+                "If Tartaglia is in Foul Legacy: Raging Tide's Melee Stance, triggers Riptide Slash against opponents on the field affected by Riptide every 4s, otherwise, triggers Riptide Flash.Riptide Slashes and Riptide Flashes triggered by this Constellation effect are not subject to the time intervals that would typically apply to these two Riptide effects, nor do they have any effect on those time intervals."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Havoc: Formless Blade",
+            "Details": [
+                "Increases the Level of Havoc: Obliteration by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Havoc: Annihilation",
+            "Details": [
+                "When Havoc: Obliteration is cast in Melee Stance, the CD of Foul Legacy: Raging Tide is reset.This effect will only take place once Tartaglia returns to his Ranged Stance."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 41.3,
+            "Level_2": 44.6,
+            "Level_3": 48,
+            "Level_4": 52.8,
+            "Level_5": 56.2,
+            "Level_6": 60,
+            "Level_7": 65.3,
+            "Level_8": 70.6,
+            "Level_9": 75.8,
+            "Level_10": 81.6,
+            "Level_11": 87.4
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 46.3,
+            "Level_2": 50,
+            "Level_3": 53.8,
+            "Level_4": 59.2,
+            "Level_5": 62.9,
+            "Level_6": 67.3,
+            "Level_7": 73.2,
+            "Level_8": 79.1,
+            "Level_9": 85,
+            "Level_10": 91.5,
+            "Level_11": 97.9
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 55.4,
+            "Level_2": 59.9,
+            "Level_3": 64.4,
+            "Level_4": 70.8,
+            "Level_5": 75.3,
+            "Level_6": 80.5,
+            "Level_7": 87.6,
+            "Level_8": 94.7,
+            "Level_9": 102,
+            "Level_10": 110,
+            "Level_11": 117
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 57,
+            "Level_2": 61.7,
+            "Level_3": 66.3,
+            "Level_4": 72.9,
+            "Level_5": 77.6,
+            "Level_6": 82.9,
+            "Level_7": 90.2,
+            "Level_8": 97.5,
+            "Level_9": 105,
+            "Level_10": 113,
+            "Level_11": 121
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 60.9,
+            "Level_2": 65.8,
+            "Level_3": 70.8,
+            "Level_4": 77.9,
+            "Level_5": 82.8,
+            "Level_6": 88.5,
+            "Level_7": 96.3,
+            "Level_8": 104,
+            "Level_9": 112,
+            "Level_10": 120,
+            "Level_11": 129
+        },
+        {
+            "HitCount": "6-Hit DMG%",
+            "Level_1": 72.8,
+            "Level_2": 78.7,
+            "Level_3": 84.6,
+            "Level_4": 93.1,
+            "Level_5": 99,
+            "Level_6": 106,
+            "Level_7": 115,
+            "Level_8": 124,
+            "Level_9": 134,
+            "Level_10": 144,
+            "Level_11": 154
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Charged Attack (Aimed Shot) DMG%",
+            "Level_1": 43.9,
+            "Level_2": 47.4,
+            "Level_3": 51,
+            "Level_4": 56.1,
+            "Level_5": 59.7,
+            "Level_6": 63.8,
+            "Level_7": 69.4,
+            "Level_8": 75,
+            "Level_9": 80.6,
+            "Level_10": 86.7,
+            "Level_11": 92.8
+        },
+        {
+            "HitCount": "Charged Attack (Aimed Shot) Fully-Charged DMG%",
+            "Level_1": 124,
+            "Level_2": 133,
+            "Level_3": 143,
+            "Level_4": 155,
+            "Level_5": 164,
+            "Level_6": 174,
+            "Level_7": 186,
+            "Level_8": 198,
+            "Level_9": 211,
+            "Level_10": 223,
+            "Level_11": 236
+        },
+        {
+            "HitCount": "Riptide Flash DMG% (x3)",
+            "Level_1": 12.4,
+            "Level_2": 13.3,
+            "Level_3": 14.3,
+            "Level_4": 15.5,
+            "Level_5": 16.4,
+            "Level_6": 17.4,
+            "Level_7": 18.6,
+            "Level_8": 19.8,
+            "Level_9": 21.1,
+            "Level_10": 22.3,
+            "Level_11": 23.6
+        },
+        {
+            "HitCount": "Riptide Burst DMG%",
+            "Level_1": 62,
+            "Level_2": 66.7,
+            "Level_3": 71.3,
+            "Level_4": 77.5,
+            "Level_5": 82.2,
+            "Level_6": 86.8,
+            "Level_7": 93,
+            "Level_8": 99.2,
+            "Level_9": 105,
+            "Level_10": 112,
+            "Level_11": 118
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 63.9,
+            "Level_2": 69.1,
+            "Level_3": 74.3,
+            "Level_4": 81.8,
+            "Level_5": 87,
+            "Level_6": 92.9,
+            "Level_7": 101,
+            "Level_8": 109,
+            "Level_9": 118,
+            "Level_10": 126,
+            "Level_11": 135
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 128,
+            "Level_2": 138,
+            "Level_3": 149,
+            "Level_4": 164,
+            "Level_5": 174,
+            "Level_6": 186,
+            "Level_7": 202,
+            "Level_8": 219,
+            "Level_9": 235,
+            "Level_10": 253,
+            "Level_11": 271
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 160,
+            "Level_2": 173,
+            "Level_3": 186,
+            "Level_4": 204,
+            "Level_5": 217,
+            "Level_6": 232,
+            "Level_7": 253,
+            "Level_8": 273,
+            "Level_9": 293,
+            "Level_10": 316,
+            "Level_11": 338
+        }
+    ],
+    "ChargedAttackStaminaCost": 0,
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Stance Change DMG%",
+            "Level_1": 72,
+            "Level_2": 77,
+            "Level_3": 83,
+            "Level_4": 90,
+            "Level_5": 95,
+            "Level_6": 101,
+            "Level_7": 108,
+            "Level_8": 115,
+            "Level_9": 122,
+            "Level_10": 130,
+            "Level_11": 137,
+            "Level_12": 144,
+            "Level_13": 153
+        },
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 38.9,
+            "Level_2": 42,
+            "Level_3": 45.2,
+            "Level_4": 49.7,
+            "Level_5": 52.9,
+            "Level_6": 56.5,
+            "Level_7": 64.5,
+            "Level_8": 66.4,
+            "Level_9": 71.4,
+            "Level_10": 76.8,
+            "Level_11": 82.3,
+            "Level_12": 87.7,
+            "Level_13": 93.1
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 41.6,
+            "Level_2": 45,
+            "Level_3": 48.4,
+            "Level_4": 53.2,
+            "Level_5": 56.6,
+            "Level_6": 60.5,
+            "Level_7": 65.8,
+            "Level_8": 71.1,
+            "Level_9": 76.5,
+            "Level_10": 82.3,
+            "Level_11": 88.1,
+            "Level_12": 93.9,
+            "Level_13": 99.7
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 56.3,
+            "Level_2": 60.9,
+            "Level_3": 65.5,
+            "Level_4": 72.1,
+            "Level_5": 76.6,
+            "Level_6": 81.9,
+            "Level_7": 89.1,
+            "Level_8": 96.3,
+            "Level_9": 103.5,
+            "Level_10": 111.4,
+            "Level_11": 119.2,
+            "Level_12": 127.1,
+            "Level_13": 134.9
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 59.9,
+            "Level_2": 64.8,
+            "Level_3": 69.7,
+            "Level_4": 76.7,
+            "Level_5": 81.5,
+            "Level_6": 87.1,
+            "Level_7": 94.8,
+            "Level_8": 102.5,
+            "Level_9": 110.1,
+            "Level_10": 118.5,
+            "Level_11": 126.9,
+            "Level_12": 135.2,
+            "Level_13": 143.6
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 55.3,
+            "Level_2": 59.8,
+            "Level_3": 64.3,
+            "Level_4": 70.7,
+            "Level_5": 75.2,
+            "Level_6": 80.4,
+            "Level_7": 87.4,
+            "Level_8": 94.5,
+            "Level_9": 101.6,
+            "Level_10": 109.3,
+            "Level_11": 117,
+            "Level_12": 124.7,
+            "Level_13": 132.5
+        },
+        {
+            "HitCount": "6-Hit DMG%",
+            "Level_1": 35.4,
+            "Level_2": 38.3,
+            "Level_3": 41.2,
+            "Level_4": 45.3,
+            "Level_5": 48.2,
+            "Level_6": 51.5,
+            "Level_7": 56,
+            "Level_8": 60.6,
+            "Level_9": 65.1,
+            "Level_10": 70,
+            "Level_11": 75,
+            "Level_12": 79.9,
+            "Level_13": 84.9
+        },
+        {
+            "HitCount": "Charged Attack DMG%",
+            "Level_1": 60.2,
+            "Level_2": 65.1,
+            "Level_3": 70,
+            "Level_4": 77,
+            "Level_5": 81.9,
+            "Level_6": 87.5,
+            "Level_7": 95.2,
+            "Level_8": 102.9,
+            "Level_9": 110.6,
+            "Level_10": 119,
+            "Level_11": 127.4,
+            "Level_12": 135.8,
+            "Level_13": 144.2
+        },
+        {
+            "HitCount": "Riptide Slash DMG%",
+            "Level_1": 60,
+            "Level_2": 65,
+            "Level_3": 70,
+            "Level_4": 77,
+            "Level_5": 82,
+            "Level_6": 88,
+            "Level_7": 95,
+            "Level_8": 103,
+            "Level_9": 111,
+            "Level_10": 119,
+            "Level_11": 127,
+            "Level_12": 136,
+            "Level_13": 144
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG: Melee",
+            "Level_1": 464,
+            "Level_2": 498.8,
+            "Level_3": 533.6,
+            "Level_4": 580,
+            "Level_5": 614.8,
+            "Level_6": 649.6,
+            "Level_7": 696,
+            "Level_8": 742.4,
+            "Level_9": 788.8,
+            "Level_10": 835.2,
+            "Level_11": 881.6,
+            "Level_12": 928,
+            "Level_13": 986,
+            "Level_14": 1044,
+            "Level_15": 1102
+        },
+        {
+            "HitCount": "Skill DMG: Ranged",
+            "Level_1": 378.4,
+            "Level_2": 406.78,
+            "Level_3": 435.16,
+            "Level_4": 473,
+            "Level_5": 501.38,
+            "Level_6": 529.76,
+            "Level_7": 567.6,
+            "Level_8": 605.44,
+            "Level_9": 643.28,
+            "Level_10": 681.12,
+            "Level_11": 718.96,
+            "Level_12": 756.8,
+            "Level_13": 804.1,
+            "Level_14": 851.4,
+            "Level_15": 898.7
+        },
+        {
+            "HitCount": "Riptide Blast DMG",
+            "Level_1": 120,
+            "Level_2": 129,
+            "Level_3": 138,
+            "Level_4": 150,
+            "Level_5": 159,
+            "Level_6": 168,
+            "Level_7": 180,
+            "Level_8": 192,
+            "Level_9": 204,
+            "Level_10": 216,
+            "Level_11": 228,
+            "Level_12": 240,
+            "Level_13": 255,
+            "Level_14": 270,
+            "Level_15": 285
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+.introduction-banner-image {
+    height: 800px;
+    width: 100%;
+    background-image: url(./../../../../assets/background-sky.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.introduction-banner-image img {
+    height: 90%;
+    margin: 50px;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 1440px) {
+    .introduction-banner-image img {
+        margin: 40px;
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .introduction-banner-image img {
+        margin: 30px;
+    }
+}
+
+.introduction-description {
+    padding: 50px;
+    font-family: Calibri;
+    text-align: center;
+    color: rgb(2, 83, 107);
+}
+
+.introduction-description h1 {
+    font-size: 36px;
+}
+
+.introduction-description p {
+    font-size: 24px;
+}
+
+.introduction-region {
+    height: 500px !important;
+}
+
+.mondstadt-container {
+    padding: 20px;
+    color: #ffffff;
+    height: 100%;
+    background-image: url(./../../../../assets/mondstadt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mondstadt-container h2 {
+    font-size: 28px;
+}
+
+.mondstadt-container p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.liyue-container {
+    padding: 20px;
+    color: #ffffff;
+    background-image: url(./../../../../assets/liyue.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.liyue-container h2 {
+    font-size: 28px;
+}
+
+.liyue-container p {
+    font-size: 18px;
+    text-align: center;
+}
+
+.introduction-info {
+    background-color: #ffffff;
+}
+
+.introduction-info-grey {
+    background-color: lightgrey;
+}
+
+@media only screen and (max-width: 480px) {
+    .introduction-container {
+        padding: 16px;
+    }
+
+    .introduction-banner-image {
+        height: auto;
+        background-size: 100% 100%;
+    }
+
+    .introduction-banner-image img {
+        height: 300px;
+        width: 100%;
+        object-fit: cover;
+        margin: 0px;
+    }
+
+    .introduction-region {
+        height: 800px !important;
+    }
+
+    .mondstadt-container {
+        background-size: 100% 100%;
+    }
+
+    .liyue-container {
+        background-size: 100% 100%;
+    }
+}

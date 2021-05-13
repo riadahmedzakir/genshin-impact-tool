@@ -1,0 +1,103 @@
+<div fxLayout="row wrap">
+    <mat-toolbar fxFlex="100" fxHide.lt-md>
+        <div fxFlex="40" fxLayout="row" fxLayoutAlign="start center">
+            <button class="element-button" mat-icon-button *ngFor="let class of weaponClass"
+                (click)="filterWeapon(class)">
+                <img src="assets/weapon-class/{{class}}.png" alt="">
+            </button>
+        </div>
+
+        <div fxFlex="20" fxLayout="row" fxLayoutAlign="center center">
+            <button class="element-button" color="warn" mat-icon-button (click)="reset()">
+                <mat-icon class="material-icons-outlined">
+                    refresh
+                </mat-icon>
+            </button>
+        </div>
+
+        <div fxFlex="40" fxLayout="row" fxLayoutAlign="end center">
+            <button class="element-button" mat-icon-button *ngFor="let element of elements"
+                (click)="filterElement(element)">
+                <img src="assets/element-logo/{{element}}.png" alt="">
+            </button>
+        </div>
+    </mat-toolbar>
+
+    <mat-toolbar fxHide.md fxHide.gt-md fxShow.lt-md>
+        <div fxFlex="100" fxLayout="row" fxLayoutAlign="space-between center">
+            <button class="element-button" mat-icon-button *ngFor="let class of weaponClass"
+                (click)="filterWeapon(class)">
+                <img src="assets/weapon-class/{{class}}.png" alt="">
+            </button>
+        </div>
+    </mat-toolbar>
+
+    <mat-toolbar fxHide.md fxHide.gt-md fxShow.lt-md>
+        <div fxFlex="100" fxLayout="row" fxLayoutAlign="space-between center">
+            <button class="element-button" mat-icon-button *ngFor="let element of elements"
+                (click)="filterElement(element)">
+                <img src="assets/element-logo/{{element}}.png" alt="">
+            </button>
+        </div>
+    </mat-toolbar>
+
+    <mat-toolbar fxHide.md fxHide.gt-md fxShow.lt-md>
+        <div fxFlex="100" fxLayout="row" fxLayoutAlign="center center">
+            <button class="element-button" color="warn" mat-icon-button (click)="reset()">
+                <mat-icon class="material-icons-outlined">
+                    refresh
+                </mat-icon>
+            </button>
+        </div>
+    </mat-toolbar>
+
+    <mat-divider style="margin-top:1px"></mat-divider>
+
+    <div class="p-24" fxFlex="100" fxLayout="row wrap">
+        <mat-card *ngFor="let character of characterList" fxFlex.gt-lg="32" fxFlex.lg="48" fxFlex.md="100"
+            fxFlex.lt-md="100" class="character-list-card" ngClass="{{character.img}}"
+            (click)="characterDetails(character)">
+            <div fxLayout="row" fxLayout.lt-md="column" fxLayoutAlign="start center">
+                <div class="character-list-portrait">
+                    <img src="assets/character-portrait/{{character.img}}.png" alt="">
+                </div>
+
+                <div fxFlex="60" fxLayout="column">
+                    <p class="character-info-name" fxLayout="row" fxLayoutAlign="center">
+                        {{character.Name}}
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Title: </span>
+                        <span class="character-info-details">{{character.Title}}</span>
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Allegiance: </span>
+                        <span class="character-info-details">{{character.Allegiance}}</span>
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Weapon Type: </span>
+                        <span class="character-info-details">{{character.WeaponType}}</span>
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Birthday: </span>
+                        <span class="character-info-details">{{character.Birthday}}</span>
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Element: </span>
+                        <span class="character-info-details">{{character.Element}}</span>
+                    </p>
+
+                    <p class="character-info">
+                        <span class="character-info-title">Constellation: </span>
+                        <span class="character-info-details">{{character.Constellation}}</span>
+                    </p>
+                </div>
+            </div>
+        </mat-card>
+    </div>
+</div>

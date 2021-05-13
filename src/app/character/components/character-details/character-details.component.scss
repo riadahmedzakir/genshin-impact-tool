@@ -1,0 +1,282 @@
+@media only screen and (max-width: 480px) {
+    .responsive-table {
+        overflow-x: auto;
+        table {
+            width: 900px !important;
+        }
+    }
+}
+
+.character-details-image {
+    .character-portrait-full {
+        border-radius: 10px;
+        background-color: rgb(235, 233, 233);
+        // box-shadow: 0 5px 5px -3px rgb(0 0 0 / 20%), 0 8px 10px 1px rgb(0 0 0 / 14%), 0 3px 14px 2px rgb(0 0 0 / 12%);
+        height: 700px;
+        width: 350px;
+        object-fit: contain;
+    }
+
+    @media only screen and (max-width: 480px) {
+        .character-portrait-full {
+            height: 700px;
+            width: 100%;
+        }
+    }
+
+    .character-info-icon {
+        // background-color: rgb(235, 233, 233);
+        border-radius: 10px;
+        margin-top: 20px;
+        padding: 10px;
+    }
+
+    .character-class {
+        img {
+            box-shadow: none;
+            height: 50px;
+            width: 50px;
+            object-fit: contain;
+        }
+    }
+
+    .character-skills {
+        img {
+            box-shadow: none;
+            height: 50px;
+            width: 50px;
+            object-fit: contain;
+        }
+    }
+
+    .character-ascension-materials {
+        img {
+            box-shadow: none;
+            height: 50px;
+            width: 50px;
+            object-fit: contain;
+        }
+    }
+
+    .weapon-ascension-materials {
+        img {
+            box-shadow: none;
+            height: 50px;
+            width: 50px;
+            object-fit: contain;
+        }
+    }
+}
+
+.character-details {
+    padding-left: 24px;
+    .character-header {
+        text-align: center;
+        // border-bottom: 1px solid lightgrey;
+        // padding-bottom: 10px;
+        font-family: "Genshin", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .character-details {
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+}
+
+.character-details-box {
+    padding: 10px 0px;
+    margin-bottom: 20px;
+    p {
+        margin: 5px 0px;
+    }
+}
+
+.character-details-box.Diluc {
+    background-image: url("./../../../../assets/name-card-horizontal/Diluc.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Jean {
+    background-image: url("./../../../../assets/name-card-horizontal/Jean.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Keqing {
+    background-image: url("./../../../../assets/name-card-horizontal/Keqing.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Klee {
+    background-image: url("./../../../../assets/name-card-horizontal/Klee.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Mona {
+    background-image: url("./../../../../assets/name-card-horizontal/Mona.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Qiqi {
+    background-image: url("./../../../../assets/name-card-horizontal/Qiqi.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Venti {
+    background-image: url("./../../../../assets/name-card-horizontal/Venti.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Xiao {
+    background-image: url("./../../../../assets/name-card-horizontal/Xiao.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Tartaglia {
+    background-image: url("./../../../../assets/name-card-horizontal/Tartaglia.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Zhongli {
+    background-image: url("./../../../../assets/name-card-horizontal/Zhongli.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Ganyu {
+    background-image: url("./../../../../assets/name-card-horizontal/Ganyu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Albedo {
+    background-image: url("./../../../../assets/name-card-horizontal/Albedo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Hutao {
+    background-image: url("./../../../../assets/name-card-horizontal/Hutao.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Amber {
+    background-image: url("./../../../../assets/name-card-horizontal/Amber.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Barbara {
+    background-image: url("./../../../../assets/name-card-horizontal/Barbara.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Beidou {
+    background-image: url("./../../../../assets/name-card-horizontal/Beidou.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Bennett {
+    background-image: url("./../../../../assets/name-card-horizontal/Bennett.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Chongyun {
+    background-image: url("./../../../../assets/name-card-horizontal/Chongyun.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Fischl {
+    background-image: url("./../../../../assets/name-card-horizontal/Fischl.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Kaeya {
+    background-image: url("./../../../../assets/name-card-horizontal/Kaeya.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Lisa {
+    background-image: url("./../../../../assets/name-card-horizontal/Lisa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Ningguang {
+    background-image: url("./../../../../assets/name-card-horizontal/Ningguang.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Noelle {
+    background-image: url("./../../../../assets/name-card-horizontal/Noelle.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Razor {
+    background-image: url("./../../../../assets/name-card-horizontal/Razor.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Sucrose {
+    background-image: url("./../../../../assets/name-card-horizontal/Sucrose.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Xiangling {
+    background-image: url("./../../../../assets/name-card-horizontal/Xiangling.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Xingqiu {
+    background-image: url("./../../../../assets/name-card-horizontal/Xingqiu.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Diona {
+    background-image: url("./../../../../assets/name-card-horizontal/Diona.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Xinyan {
+    background-image: url("./../../../../assets/name-card-horizontal/Xinyan.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Rosaria {
+    background-image: url("./../../../../assets/name-card-horizontal/Rosaria.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.character-details-box.Yanfei {
+    background-image: url("./../../../../assets/name-card-horizontal/Yanfei.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

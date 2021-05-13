@@ -1,0 +1,527 @@
+{
+    "Name": "Xinyan",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "October 16th",
+    "Weapon": "Claymore",
+    "Element": "Pyro",
+    "Constellation": "Fila Ignium",
+    "Nation": "Liyue",
+    "Affiliation": "Liyue Harbor",
+    "SpecialDish": "Rockin' Riffin' Chicken!",
+    "Titles": "Blazing Riff, Rock 'n' Roll Musician",
+    "Intro": "Rock 'n' roll is a relatively unpopular style of music in Liyue, having recently been brought over from Fontaine. Xinyan, however, loves the sound — and she's slowly but surely amassing a fanbase of her own as she performs throughout Liyue Harbor.",
+    "Introduction": "Rock 'n' roll is an avant-garde art in Liyue Harbor and Xinyan is the pioneer in this field.She rebels against ossified prejudices, using her music and passionate singing to awaken dazed souls fatigued by worldly matters.If you get the chance, do not miss out on her next performance!",
+    "Personality": [
+        "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+        "Xinyan is a fan of rock 'n' roll and returned to Liyue to spread it across the nation. Despite having difficulty in improving its reputation for many reasons, she is not discouraged and continues to play, appreciating all who come to her performances. She does not have any formal training for her music, having learned it herself on the go. As such, she is very supportive of others who show interest, even if they have no experience.",
+        "Her Pyro Vision gives her a fiery personality. She likes standing out in her own way, but dislikes it when others consider her to be weird and/or terrifying because of how she speaks and looks. Although she is aware of this and tries to fix it, her attempts always end up in failure."
+    ],
+    "Appearance": [
+        "Xinyan has dark skin, amber eyes, and dark brown hair, which she wears pulled back into two pigtails with spiked bands. One lock at the front of her hair is a dark red, and in her pigtails, the underside of some locks are bright orange.",
+        "Xinyan wears a black-brown tank top and white shorts, with a red and white vest with flared red, black, and white sleeves. She has a black and red ribbon tied around her right leg, and a netted sock on her left. Xinyan typically carries a white, brown, and red square ruan with an axe-like bottom."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Dance on Fire",
+            "Description": [
+                "Normal Attack: Performs up to 4 consecutive strikes.",
+                "Charged Attack: Drains Stamina over time to perform continuous spinning attacks against all nearby opponents.At end of the sequence, perform a more powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Sweeping Fervor",
+            "Description": [
+                "Xinyan brandishes her instrument, dealing Pyro DMG on nearby opponents, forming a shield made out of her audience's passion.The shield's DMG Absorption scales based on Xinyan's DEF and on the number of opponents hit.",
+                "Hitting 0-1 opponents grants Shield Level 1: Ad Lib.",
+                "Hitting 2 opponents grants Shield Level 2: Lead-In.",
+                "Hitting 3 or more opponents grants Shield Level 3: Rave, which will also deal intermittent Pyro DMG to nearby opponents.",
+                "The shield has the following special properties:",
+                "When unleashed, it infuses Xinyan with Pyro.",
+                "It has 250% DMG Absorption effectiveness against Pyro DMG."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Riff Revolution",
+            "Description": [
+                "Strumming rapidly, Xinyan launches nearby opponents and deals Physical DMG to them, hyping up the crowd. The sheer intensity of the atmosphere will cause explosions that deal Pyro DMG to nearby opponents."
+            ]
+        },
+        "Skill_4": {
+            "Name": "\"The Show Goes On, Even Without an Audience...\"",
+            "Description": [
+                "Decreases the number of opponents Sweeping Fervor must hit to trigger each level of shielding.",
+                "Shield Level 2: Lead-In requirement reduced to 1 opponent hit.",
+                "Shield Level 3: Rave requirement reduced to 2 opponents hit or more."
+            ]
+        },
+        "Skill_5": {
+            "Name": "\"...Now That's Rock 'N' Roll!\"",
+            "Description": [
+                "Characters shielded by Sweeping Fervor deal 15% increased Physical DMG."
+            ]
+        },
+        "Skill_6": {
+            "Name": "A Rad Recipe",
+            "Description": [
+                "When a Perfect Cooking is achieved on a DEF-boosting dish, Xinyan has a 12% chance to obtain double the product."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Gold",
+        "CommonCharacterAscensionMaterial": "HoarderInsignia",
+        "TalentBoss": "Childe",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_12",
+        "ElementalStone": "Item_0"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 939,
+            "ATK": 21,
+            "DEF": 67,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2413,
+            "ATK": 54,
+            "DEF": 172,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3114,
+            "ATK": 69,
+            "DEF": 222,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4665,
+            "ATK": 103,
+            "DEF": 333,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5163,
+            "ATK": 115,
+            "DEF": 368,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5939,
+            "ATK": 132,
+            "DEF": 423,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6604,
+            "ATK": 147,
+            "DEF": 471,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 7379,
+            "ATK": 164,
+            "DEF": 526,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 7878,
+            "ATK": 175,
+            "DEF": 562,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 8653,
+            "ATK": 192,
+            "DEF": 617,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9151,
+            "ATK": 203,
+            "DEF": 652,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 9927,
+            "ATK": 220,
+            "DEF": 708,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 10425,
+            "ATK": 231,
+            "DEF": 743,
+            "ExtraStatsValue": 24
+        },
+        {
+            "LEVEL": 90,
+            "HP": 11201,
+            "ATK": 249,
+            "DEF": 799,
+            "ExtraStatsValue": 24
+        }
+    ],
+    "ExtraStats": "ATK",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Fatal Acceleration",
+            "Details": [
+                "Upon scoring a CRIT Hit, increases ATK SPD of Xinyan's Normal and Charged Attacks by 12% for 5s.Can only occur once every 5s."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Impromptu Opening",
+            "Details": [
+                "Riff Revolution's Physical DMG has its CRIT Rate increased by 100%, and will form a shield at Shield Level 3: Rave when cast."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Double-Stop",
+            "Details": [
+                "Increases the Level of Sweeping Fervor by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Wildfire Rhythm",
+            "Details": [
+                "Sweeping Fervor's swing DMG decreases opponent's Physical RES by 15% for 12s."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Screamin' for an Encore",
+            "Details": [
+                "Increases the Level of Riff Revolution by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Rockin' in a Flaming World",
+            "Details": [
+                "Decreases the Stamina Consumption of Xinyan's Charged Attacks by 30%. Additionally, Xinyan's Charged Attacks gain an ATK Bonus equal to 50% of her DEF."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 76.5,
+            "Level_2": 82.8,
+            "Level_3": 89,
+            "Level_4": 97.9,
+            "Level_5": 104,
+            "Level_6": 111,
+            "Level_7": 121,
+            "Level_8": 131,
+            "Level_9": 141,
+            "Level_10": 151,
+            "Level_11": 162
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 74,
+            "Level_2": 80,
+            "Level_3": 86,
+            "Level_4": 94.6,
+            "Level_5": 101,
+            "Level_6": 108,
+            "Level_7": 117,
+            "Level_8": 126,
+            "Level_9": 136,
+            "Level_10": 146,
+            "Level_11": 157
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 95.5,
+            "Level_2": 103,
+            "Level_3": 111,
+            "Level_4": 122,
+            "Level_5": 130,
+            "Level_6": 139,
+            "Level_7": 151,
+            "Level_8": 163,
+            "Level_9": 175,
+            "Level_10": 189,
+            "Level_11": 202
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 116,
+            "Level_2": 125,
+            "Level_3": 135,
+            "Level_4": 148,
+            "Level_5": 158,
+            "Level_6": 168,
+            "Level_7": 183,
+            "Level_8": 198,
+            "Level_9": 213,
+            "Level_10": 229,
+            "Level_11": 245
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 62.6,
+            "Level_2": 67.6,
+            "Level_3": 72.7,
+            "Level_4": 80,
+            "Level_5": 85,
+            "Level_6": 90.9,
+            "Level_7": 98.9,
+            "Level_8": 107,
+            "Level_9": 115,
+            "Level_10": 124,
+            "Level_11": 132
+        },
+        {
+            "HitCount": "Final DMG%",
+            "Level_1": 113,
+            "Level_2": 122,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 157,
+            "Level_6": 164,
+            "Level_7": 179,
+            "Level_8": 193,
+            "Level_9": 208,
+            "Level_10": 224,
+            "Level_11": 239
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 74.6,
+            "Level_2": 80.7,
+            "Level_3": 86.7,
+            "Level_4": 95.4,
+            "Level_5": 101,
+            "Level_6": 108,
+            "Level_7": 118,
+            "Level_8": 128,
+            "Level_9": 137,
+            "Level_10": 147,
+            "Level_11": 158
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 149,
+            "Level_2": 161,
+            "Level_3": 173,
+            "Level_4": 191,
+            "Level_5": 203,
+            "Level_6": 217,
+            "Level_7": 236,
+            "Level_8": 255,
+            "Level_9": 274,
+            "Level_10": 295,
+            "Level_11": 316
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 186,
+            "Level_2": 201,
+            "Level_3": 217,
+            "Level_4": 238,
+            "Level_5": 253,
+            "Level_6": 271,
+            "Level_7": 295,
+            "Level_8": 318,
+            "Level_9": 342,
+            "Level_10": 368,
+            "Level_11": 394
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "ElementalSkill": [
+        {
+            "HitCount": "Swing DMG%",
+            "Level_1": 170,
+            "Level_2": 182,
+            "Level_3": 195,
+            "Level_4": 212,
+            "Level_5": 225,
+            "Level_6": 237,
+            "Level_7": 254,
+            "Level_8": 271,
+            "Level_9": 288,
+            "Level_10": 305,
+            "Level_11": 322,
+            "Level_12": 339,
+            "Level_13": 360
+        },
+        {
+            "HitCount": "DoT%",
+            "Level_1": 33.6,
+            "Level_2": 36.1,
+            "Level_3": 38.6,
+            "Level_4": 42,
+            "Level_5": 44.5,
+            "Level_6": 47,
+            "Level_7": 50.4,
+            "Level_8": 53.8,
+            "Level_9": 57.1,
+            "Level_10": 60.5,
+            "Level_11": 63.8,
+            "Level_12": 67.2,
+            "Level_13": 71.4
+        },
+        {
+            "HitCount": "Lv. 1 Shield DMG Absorption - DEF%",
+            "Level_1": 104,
+            "Level_2": 112,
+            "Level_3": 120,
+            "Level_4": 130,
+            "Level_5": 138,
+            "Level_6": 146,
+            "Level_7": 156,
+            "Level_8": 166.5,
+            "Level_9": 177,
+            "Level_10": 187,
+            "Level_11": 198,
+            "Level_12": 208,
+            "Level_13": 221
+        },
+        {
+            "HitCount": "Lv. 1 Shield DMG Absorption - Flat Bonus",
+            "Level_1": 501,
+            "Level_2": 551,
+            "Level_3": 605,
+            "Level_4": 663,
+            "Level_5": 726,
+            "Level_6": 793,
+            "Level_7": 864,
+            "Level_8": 939,
+            "Level_9": 1,
+            "Level_10": 1,
+            "Level_11": 1,
+            "Level_12": 1,
+            "Level_13": 1
+        },
+        {
+            "HitCount": "Lv. 2 Shield DMG Absorption - DEF%",
+            "Level_1": 122,
+            "Level_2": 132,
+            "Level_3": 141,
+            "Level_4": 153,
+            "Level_5": 162,
+            "Level_6": 171,
+            "Level_7": 184,
+            "Level_8": 195.8,
+            "Level_9": 208,
+            "Level_10": 220,
+            "Level_11": 233,
+            "Level_12": 245,
+            "Level_13": 260
+        },
+        {
+            "HitCount": "Lv. 2 Shield DMG Absorption - Flat Bonus",
+            "Level_1": 589,
+            "Level_2": 648,
+            "Level_3": 712,
+            "Level_4": 780,
+            "Level_5": 854,
+            "Level_6": 932,
+            "Level_7": 1,
+            "Level_8": 1,
+            "Level_9": 1,
+            "Level_10": 1,
+            "Level_11": 1,
+            "Level_12": 1,
+            "Level_13": 1
+        },
+        {
+            "HitCount": "Lv. 3 Shield DMG Absorption - DEF%",
+            "Level_1": 144,
+            "Level_2": 155,
+            "Level_3": 166,
+            "Level_4": 180,
+            "Level_5": 191,
+            "Level_6": 202,
+            "Level_7": 216,
+            "Level_8": 230.4,
+            "Level_9": 245,
+            "Level_10": 259,
+            "Level_11": 274,
+            "Level_12": 288,
+            "Level_13": 306
+        },
+        {
+            "HitCount": "Lv. 3 Shield DMG Absorption - Flat Bonus",
+            "Level_1": 693,
+            "Level_2": 762,
+            "Level_3": 837,
+            "Level_4": 918,
+            "Level_5": 1,
+            "Level_6": 1,
+            "Level_7": 1,
+            "Level_8": 1,
+            "Level_9": 1,
+            "Level_10": 1,
+            "Level_11": 1,
+            "Level_12": 1,
+            "Level_13": 1
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 340.8,
+            "Level_2": 366.36,
+            "Level_3": 391.92,
+            "Level_4": 426,
+            "Level_5": 451.56,
+            "Level_6": 477.12,
+            "Level_7": 511.2,
+            "Level_8": 545.28,
+            "Level_9": 579.36,
+            "Level_10": 613.44,
+            "Level_11": 647.52,
+            "Level_12": 681.6,
+            "Level_13": 724.2,
+            "Level_14": 766.8,
+            "Level_15": 809.4
+        },
+        {
+            "HitCount": "Pyro DoT",
+            "Level_1": 40,
+            "Level_2": 43,
+            "Level_3": 46,
+            "Level_4": 50,
+            "Level_5": 53,
+            "Level_6": 56,
+            "Level_7": 60,
+            "Level_8": 64,
+            "Level_9": 68,
+            "Level_10": 72,
+            "Level_11": 76,
+            "Level_12": 80,
+            "Level_13": 85,
+            "Level_14": 90,
+            "Level_15": 95
+        }
+    ]
+}

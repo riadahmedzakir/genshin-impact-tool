@@ -1,0 +1,848 @@
+<div ngClass.md='p-24' ngClass.gt-md='p-24' ngClass.lt-md="p-12" fxLayout="row wrap">
+    <div fxFlex="100" fxLayout="row" fxLayout.lt-md="column" *ngIf="selectedCharacterData">
+        <!--#region Character Details Image  -->
+        <div class="character-details-image">
+            <img class="character-portrait-full mat-elevation-z4"
+                src="assets/character-portrait-full/{{selectedCharacter}}.png" alt="">
+
+            <div class="character-info-icon mat-elevation-z4">
+                <div class="character-class" fxLayout="row" fxLayoutAlign="space-between center">
+                    <div></div>
+                    <div fxLayout="30">
+                        <img [matTooltip]="selectedCharacterData.Weapon"
+                            src="assets/weapon-class/{{selectedCharacterData.Weapon.toLowerCase()}}.png" alt="">
+                        <img [matTooltip]="selectedCharacterData.Element"
+                            src="assets/element-logo/{{selectedCharacterData.Element.toLowerCase()}}.png" alt="">
+                    </div>
+                </div>
+
+                <mat-divider style="margin-top:5px; margin-bottom: 5px;"></mat-divider>
+
+                <div class="character-skills">
+                    <div fxLayout="row" fxLayoutAlign="space-between center">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_1.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-1.png" alt="">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_2.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-2.png" alt="">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_3.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-3.png" alt="">
+                    </div>
+
+                    <div style="margin-top:10px;" fxLayout="row" fxLayoutAlign="space-between center">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_4.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-4.png" alt="">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_5.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-5.png" alt="">
+                        <img [matTooltip]="selectedCharacterData.Skill.Skill_6.Name"
+                            src="assets/character-skills/{{selectedCharacter}}-6.png" alt="">
+                    </div>
+                </div>
+
+                <mat-divider style="margin-top:5px; margin-bottom: 5px;"></mat-divider>
+
+                <div class="character-ascension-materials" fxLayout="row" fxLayoutAlign="space-between center">
+                    <img [matTooltip]="elementalJewelConstant[selectedCharacterData.Element].Item_4"
+                        src="assets/jewel/{{elementalJewelConstant[selectedCharacterData.Element].Item_4}}.png" alt="">
+
+                    <img [matTooltip]="elementalStone[selectedCharacterData.Ascensions.ElementalStone]"
+                        src="assets/elemental-stone/{{elementalStone[selectedCharacterData.Ascensions.ElementalStone]}}.png"
+                        alt="">
+
+                    <img [matTooltip]="commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial].Item_3"
+                        src="assets/common-material/{{commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial].Item_3}}.png"
+                        alt="">
+
+                    <img [matTooltip]="localMaterial[selectedCharacterData.Ascensions.LocalMaterial]"
+                        src="assets/local-material/{{localMaterial[selectedCharacterData.Ascensions.LocalMaterial]}}.png"
+                        alt="">
+
+                </div>
+
+                <mat-divider style="margin-top:5px; margin-bottom: 5px;"></mat-divider>
+
+                <div class="weapon-ascension-materials" fxLayout="row" fxLayoutAlign="space-between center">
+                    <img [matTooltip]="talentBook[selectedCharacterData.Ascensions.TalentBook].Item_3"
+                        src="assets/talent-book/{{talentBook[selectedCharacterData.Ascensions.TalentBook].Item_3}}.png"
+                        alt="">
+
+                    <img [matTooltip]="commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial].Item_3"
+                        src="assets/common-material/{{commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial].Item_3}}.png"
+                        alt="">
+
+                    <img [matTooltip]="talentMaterial[selectedCharacterData.Ascensions.TalentBoss][selectedCharacterData.Ascensions.TalentMaterial]"
+                        src="assets/talent-material/{{talentMaterial[selectedCharacterData.Ascensions.TalentBoss][selectedCharacterData.Ascensions.TalentMaterial]}}.png"
+                        alt="">
+
+                    <img [matTooltip]="talentMaterial.Crown.Item_1"
+                        src="assets/talent-material/{{talentMaterial.Crown.Item_1}}.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- #endregion Character Details Image -->
+
+        <!-- #region Character Details Info -->
+        <div fxFlex="100" class="character-details">
+            <h1 class="character-header">{{selectedCharacterData.Name}}</h1>
+
+            <div class='character-details-box' ngClass="{{selectedCharacterData.Name}}">
+                <p> <b>Full Name: </b> <span>{{selectedCharacterData.FullName}}</span> </p>
+                <p> <b>Sex: </b> <span>{{selectedCharacterData.Sex}}</span> </p>
+                <p> <b>Birthday: </b> <span>{{selectedCharacterData.Birthday}}</span> </p>
+                <p> <b>Constellation: </b> <span>{{selectedCharacterData.Constellation}}</span> </p>
+                <p> <b>Nation: </b> <span>{{selectedCharacterData.Nation}}</span> </p>
+                <p> <b>Affiliation: </b> <span>{{selectedCharacterData.Affiliation}}</span> </p>
+                <p> <b>Special Dish: </b> <span>{{selectedCharacterData.SpecialDish}}</span> </p>
+                <p> <b>Titles: </b> <span>{{selectedCharacterData.Titles}}</span> </p>
+            </div>
+
+            <!-- <mat-divider style="margin-bottom: 10px;"></mat-divider> -->
+
+            <p style="text-align: justify;">{{selectedCharacterData.Intro}}</p>
+
+            <h2 style="margin: 0px;">Introduction</h2>
+            <p style="text-align: justify;">{{selectedCharacterData.Introduction}}</p>
+            <mat-divider style="margin-bottom: 10px;"></mat-divider>
+
+            <h2 style="margin: 0px;">Personality</h2>
+            <p style="text-align: justify;" *ngFor="let p of selectedCharacterData.Personality">{{p}}</p>
+            <mat-divider style="margin-bottom: 10px;"></mat-divider>
+
+            <h2 style="margin: 0px;">Appearance</h2>
+            <p style="text-align: justify;" *ngFor="let p of selectedCharacterData.Appearance">{{p}}</p>
+        </div>
+        <!-- #endregion Character Details Info -->
+    </div>
+
+    <div fxFlex="100" *ngIf="selectedCharacterData">
+        <mat-divider style="margin-top:5px; margin-bottom: 5px;"></mat-divider>
+
+        <!-- #region Character Base Stats -->
+        <h2 style="font-size: 32px;">Base Stats</h2>
+        <mat-accordion>
+            <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        The character's base stats before and after each Ascension:
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="baseStats" mat-table
+                        [dataSource]="baseStats" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Level">
+                            <th mat-header-cell *matHeaderCellDef> Level </th>
+                            <td mat-cell *matCellDef="let stats"> {{ 'Level ' + stats.LEVEL }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="HP">
+                            <th mat-header-cell *matHeaderCellDef> HP </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.HP | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="ATK">
+                            <th mat-header-cell *matHeaderCellDef> ATK </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.ATK | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="DEF">
+                            <th mat-header-cell *matHeaderCellDef> DEF </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.DEF | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="ExtraStats">
+                            <th mat-header-cell *matHeaderCellDef> {{selectedCharacterData.ExtraStats}} (%)</th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.ExtraStatsValue}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="baseStatsDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: baseStatsDisplayColumns;"></tr>
+                    </table>
+                </div>
+            </mat-expansion-panel>
+        </mat-accordion>
+        <!-- #endregion Character Base Stats -->
+
+        <h2 style="font-size: 32px; margin-top: 20px;">Talents</h2>
+
+        <mat-accordion>
+            <!-- #region Normal Attack -->
+            <mat-expansion-panel [expanded]="true">
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        <h2 style="font-style: italic; margin-top:20px;">Normal Attack</h2>
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <div class="p-24" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-1.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_1.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_1.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <!-- #region Normal Attack Stats Table -->
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="normalAttackScale" mat-table
+                        [dataSource]="normalAttackScale" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Hits">
+                            <th mat-header-cell *matHeaderCellDef> Hits </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.HitCount }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level1">
+                            <th mat-header-cell *matHeaderCellDef> 1 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_1 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level2">
+                            <th mat-header-cell *matHeaderCellDef> 2 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_2 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level3">
+                            <th mat-header-cell *matHeaderCellDef> 3 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_3 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level4">
+                            <th mat-header-cell *matHeaderCellDef> 4 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_4 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level5">
+                            <th mat-header-cell *matHeaderCellDef> 5 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_5 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level6">
+                            <th mat-header-cell *matHeaderCellDef> 6 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_6 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level7">
+                            <th mat-header-cell *matHeaderCellDef> 7 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_7 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level8">
+                            <th mat-header-cell *matHeaderCellDef> 8 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_8 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level9">
+                            <th mat-header-cell *matHeaderCellDef> 9 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_9 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level10">
+                            <th mat-header-cell *matHeaderCellDef> 10 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_10 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level11">
+                            <th mat-header-cell *matHeaderCellDef> 11 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_11 | number}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="attackScalingDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: attackScalingDisplayColumns;"></tr>
+                    </table>
+                </div>
+                <!-- #endregion Normal Attack Stats Table -->
+
+                <!-- #region Charged Attack Stats Table -->
+                <h2 style="font-style: italic; margin-top:20px;">Charged Attack</h2>
+                <p>Stamina Cost: {{selectedCharacterData.ChargedAttackStaminaCost}}</p>
+                <p>Max Duration: {{selectedCharacterData.ChargedAttackMaxDuration}}</p>
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="chargedAttackScale" mat-table
+                        [dataSource]="chargedAttackScale" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Hits">
+                            <th mat-header-cell *matHeaderCellDef> Hits </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.HitCount }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level1">
+                            <th mat-header-cell *matHeaderCellDef> 1 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_1 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level2">
+                            <th mat-header-cell *matHeaderCellDef> 2 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_2 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level3">
+                            <th mat-header-cell *matHeaderCellDef> 3 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_3 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level4">
+                            <th mat-header-cell *matHeaderCellDef> 4 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_4 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level5">
+                            <th mat-header-cell *matHeaderCellDef> 5 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_5 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level6">
+                            <th mat-header-cell *matHeaderCellDef> 6 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_6 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level7">
+                            <th mat-header-cell *matHeaderCellDef> 7 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_7 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level8">
+                            <th mat-header-cell *matHeaderCellDef> 8 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_8 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level9">
+                            <th mat-header-cell *matHeaderCellDef> 9 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_9 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level10">
+                            <th mat-header-cell *matHeaderCellDef> 10 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_10 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level11">
+                            <th mat-header-cell *matHeaderCellDef> 11 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_11 | number}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="attackScalingDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: attackScalingDisplayColumns;"></tr>
+                    </table>
+                </div>
+                <!-- #endregion Charged Attack Stats Table -->
+
+                <!-- #region Plunging Attack Stats Table -->
+                <h2 style="font-style: italic; margin-top:20px;">Plunging Attack</h2>
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="plungingAttackScale" mat-table
+                        [dataSource]="plungingAttackScale" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Hits">
+                            <th mat-header-cell *matHeaderCellDef> Hits </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.HitCount }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level1">
+                            <th mat-header-cell *matHeaderCellDef> 1 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_1 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level2">
+                            <th mat-header-cell *matHeaderCellDef> 2 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_2 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level3">
+                            <th mat-header-cell *matHeaderCellDef> 3 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_3 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level4">
+                            <th mat-header-cell *matHeaderCellDef> 4 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_4 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level5">
+                            <th mat-header-cell *matHeaderCellDef> 5 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_5 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level6">
+                            <th mat-header-cell *matHeaderCellDef> 6 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_6 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level7">
+                            <th mat-header-cell *matHeaderCellDef> 7 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_7 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level8">
+                            <th mat-header-cell *matHeaderCellDef> 8 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_8 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level9">
+                            <th mat-header-cell *matHeaderCellDef> 9 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_9 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level10">
+                            <th mat-header-cell *matHeaderCellDef> 10 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_10 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level11">
+                            <th mat-header-cell *matHeaderCellDef> 11 </th>
+                            <td mat-cell *matCellDef="let stats"> {{stats.Level_11 | number}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="attackScalingDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: attackScalingDisplayColumns;"></tr>
+                    </table>
+                </div>
+                <!-- #endregion Plunging Attack Stats Table -->
+            </mat-expansion-panel>
+            <!-- #endregion Normal Attack -->
+
+            <!-- #region Elemental Skill -->
+            <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        <h2 style="font-style: italic; margin-top:20px;">Elemental Skill</h2>
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <div class="p-24" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-2.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_2.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_2.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="elementalSkillScale" mat-table
+                        [dataSource]="elementalSkillScale" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Hits">
+                            <th mat-header-cell *matHeaderCellDef> Hits </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.HitCount }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level1">
+                            <th mat-header-cell *matHeaderCellDef> 1 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_1 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level2">
+                            <th mat-header-cell *matHeaderCellDef> 2 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_2 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level3">
+                            <th mat-header-cell *matHeaderCellDef> 3 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_3 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level4">
+                            <th mat-header-cell *matHeaderCellDef> 4 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_4 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level5">
+                            <th mat-header-cell *matHeaderCellDef> 5 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_5 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level6">
+                            <th mat-header-cell *matHeaderCellDef> 6 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_6 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level7">
+                            <th mat-header-cell *matHeaderCellDef> 7 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_7 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level8">
+                            <th mat-header-cell *matHeaderCellDef> 8 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_8 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level9">
+                            <th mat-header-cell *matHeaderCellDef> 9 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_9 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level10">
+                            <th mat-header-cell *matHeaderCellDef> 10 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_10 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level11">
+                            <th mat-header-cell *matHeaderCellDef> 11 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_11 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level12">
+                            <th mat-header-cell *matHeaderCellDef> 12 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_12 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level13">
+                            <th mat-header-cell *matHeaderCellDef> 13 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_13 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level14">
+                            <th mat-header-cell *matHeaderCellDef> 14 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_14 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level15">
+                            <th mat-header-cell *matHeaderCellDef> 15 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_15 | number}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="elementalSkillScalingDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: elementalSkillScalingDisplayColumns;"></tr>
+                    </table>
+                </div>
+            </mat-expansion-panel>
+            <!-- #endregion Elemental Skill -->
+
+            <!-- #region Elemental Brust -->
+            <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        <h2 style="font-style: italic; margin-top:20px;">Elemental Brust</h2>
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <div class="p-24" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-3.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_3.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_3.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <div class='responsive-table'>
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="elementalBrustScale" mat-table
+                        [dataSource]="elementalBrustScale" class="mat-elevation-z0">
+                        <ng-container matColumnDef="Hits">
+                            <th mat-header-cell *matHeaderCellDef> Hits </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.HitCount }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level1">
+                            <th mat-header-cell *matHeaderCellDef> 1 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_1 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level2">
+                            <th mat-header-cell *matHeaderCellDef> 2 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_2 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level3">
+                            <th mat-header-cell *matHeaderCellDef> 3 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_3 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level4">
+                            <th mat-header-cell *matHeaderCellDef> 4 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_4 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level5">
+                            <th mat-header-cell *matHeaderCellDef> 5 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_5 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level6">
+                            <th mat-header-cell *matHeaderCellDef> 6 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_6 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level7">
+                            <th mat-header-cell *matHeaderCellDef> 7 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_7 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level8">
+                            <th mat-header-cell *matHeaderCellDef> 8 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_8 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level9">
+                            <th mat-header-cell *matHeaderCellDef> 9 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_9 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level10">
+                            <th mat-header-cell *matHeaderCellDef> 10 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_10 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level11">
+                            <th mat-header-cell *matHeaderCellDef> 11 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_11 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level12">
+                            <th mat-header-cell *matHeaderCellDef> 12 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_12 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level13">
+                            <th mat-header-cell *matHeaderCellDef> 13 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_13 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level14">
+                            <th mat-header-cell *matHeaderCellDef> 14 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_14 | number}} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Level15">
+                            <th mat-header-cell *matHeaderCellDef> 15 </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level_15 | number}} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="elementalBrustScalingDisplayColumns"></tr>
+                        <tr mat-row *matRowDef="let row; columns: elementalBrustScalingDisplayColumns;"></tr>
+                    </table>
+                </div>
+            </mat-expansion-panel>
+            <!-- #endregion Elemental Brust -->
+
+            <!-- #region Passive -->
+            <mat-expansion-panel>
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        <h2 style="font-style: italic; margin-top:20px;">Passive</h2>
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <div class="p-24" style="margin-bottom: 10px;" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-4.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_4.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_4.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <mat-divider></mat-divider>
+
+                <div class="p-24" style="margin-bottom: 10px;" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-5.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_5.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_5.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <mat-divider></mat-divider>
+
+                <div class="p-24" style="margin-bottom: 10px;" fxLayout="row" fxLayout.lt-md="column">
+                    <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                        <img src="assets/character-skills/{{selectedCharacter}}-6.png" alt="">
+                    </div>
+                    <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                        <h2 ngStyle.lt-md="text-align: center;">{{selectedCharacterData.Skill.Skill_6.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_6.Description">{{p}}</p>
+                    </div>
+                </div>
+
+                <div *ngIf="selectedCharacterData.Skill.Skill_7" class="p-24" style="margin-bottom: 10px;">
+                    <div fxFlex="20">
+                        <img src="assets/character-skills/{{selectedCharacter}}-7.png" alt="">
+                    </div>
+                    <div fxFlex="80">
+                        <h2>{{selectedCharacterData.Skill.Skill_7.Name}}</h2>
+                        <p *ngFor="let p of selectedCharacterData.Skill.Skill_6.Description">{{p}}</p>
+                    </div>
+                </div>
+            </mat-expansion-panel>
+            <!-- #endregion Passive -->
+        </mat-accordion>
+
+        <!-- #region Character Leveling -->
+        <h2 style="font-size: 32px; margin-top: 20px;">Character Leveling</h2>
+
+        <div class="responsive-table">
+            <table style="width: 100%; margin-bottom: 20px;" *ngIf="characterLevelUpCount" mat-table
+                [dataSource]="characterLevelUpCount" class="mat-elevation-z1">
+                <ng-container matColumnDef="Phase">
+                    <th mat-header-cell *matHeaderCellDef> Phase </th>
+                    <td mat-cell *matCellDef="let stats"> {{ stats.Phase | number}} </td>
+                </ng-container>
+
+                <ng-container matColumnDef="Mora">
+                    <th mat-header-cell *matHeaderCellDef> Mora </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px;  object-fit: contain;" src="assets/mora.png" alt="">
+                            <p style="margin: 0px">{{ stats.Mora | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="Jewel">
+                    <th mat-header-cell *matHeaderCellDef> Jewel </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;"
+                                src="assets/jewel/{{elementalJewelConstant[selectedCharacterData.Element][stats.JewelLevel]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.JewelCount | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="ElementalStone">
+                    <th mat-header-cell *matHeaderCellDef> Elemental Stone </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px;  object-fit: contain;"
+                                src="assets/elemental-stone/{{elementalStone[selectedCharacterData.Ascensions.ElementalStone]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.ElementalStoneCount | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="LocalSpecialty">
+                    <th mat-header-cell *matHeaderCellDef> Local Specialty</th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px;  object-fit: contain;"
+                                src="assets/local-material/{{localMaterial[selectedCharacterData.Ascensions.LocalMaterial]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.LocalSpecialtyCount | number }}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="CommonMaterial">
+                    <th mat-header-cell *matHeaderCellDef> Common Material</th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px;  object-fit: contain;"
+                                src="assets/common-material/{{commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial][stats.CommonMaterialLevel]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.CommonMaterilCount | number }}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <tr mat-header-row *matHeaderRowDef="characterLevelingDisplayColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: characterLevelingDisplayColumns;"></tr>
+            </table>
+        </div>
+        <!-- #endregion Character Leveling -->
+
+        <!-- #region Talent Leveling -->
+        <h2 style="font-size: 32px; margin-top: 20px;">Talents Leveling</h2>
+
+        <div class="responsive-table">
+            <table style="width: 100%; margin-bottom: 20px;" *ngIf="talentLevelUpCount" mat-table
+                [dataSource]="talentLevelUpCount" class="mat-elevation-z1">
+                <ng-container matColumnDef="Phase">
+                    <th mat-header-cell *matHeaderCellDef> Phase </th>
+                    <td mat-cell *matCellDef="let stats"> {{ stats.Phase | number}} </td>
+                </ng-container>
+
+                <ng-container matColumnDef="Mora">
+                    <th mat-header-cell *matHeaderCellDef> Mora </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;" src="assets/mora.png" alt="">
+                            <p style="margin: 0px">{{ stats.Mora | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="CommonMaterial">
+                    <th mat-header-cell *matHeaderCellDef> Common Material </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;"
+                                src="assets/common-material/{{commonCharacterAscensionMaterial[selectedCharacterData.Ascensions.CommonCharacterAscensionMaterial][stats.ItemLevel]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.CommonMeterialCount | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="TalentMaterial">
+                    <th mat-header-cell *matHeaderCellDef> Talent Book Material </th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;"
+                                src="assets/talent-book/{{talentBook[selectedCharacterData.Ascensions.TalentBook][stats.ItemLevel]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.TalentBookCount | number}}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="BossMaterial">
+                    <th mat-header-cell *matHeaderCellDef> Weekly Boss Material</th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;"
+                                src="assets/talent-material/{{talentMaterial[selectedCharacterData.Ascensions.TalentBoss][selectedCharacterData.Ascensions.TalentMaterial]}}.png"
+                                alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.TalentBossCount | number }}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <ng-container matColumnDef="Crown">
+                    <th mat-header-cell *matHeaderCellDef> Crown</th>
+                    <td mat-cell *matCellDef="let stats">
+                        <div fxLayout="row" fxLayoutAlign="start center">
+                            <img style="height: 40px; width: 40px; object-fit: contain;"
+                                src="assets/talent-material/{{talentMaterial.Crown.Item_1}}.png" alt="">
+                            <p style="margin: 0px">&nbsp;x&nbsp; {{ stats.Crown | number }}</p>
+                        </div>
+                    </td>
+                </ng-container>
+
+                <tr mat-header-row *matHeaderRowDef="talentLevelingDisplayColumns"></tr>
+                <tr mat-row *matRowDef="let row; columns: talentLevelingDisplayColumns;"></tr>
+            </table>
+        </div>
+        <!-- #endregion Talent Leveling -->
+
+        <!-- #region Constellation -->
+        <h2 style="font-size: 32px; margin-top: 20px;">Constellation</h2>
+
+        <mat-accordion>
+            <mat-expansion-panel [expanded]="true">
+                <mat-expansion-panel-header>
+                    <mat-panel-title>
+                        Each Constellation activation requires a Stella Fortuna.
+                    </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <div *ngFor="let item of constellationDetails">
+                    <div class="p-24" fxLayout="row" fxLayout.lt-md="column">
+                        <div fxFlex="20" fxLayoutAlign.lt-md="center center">
+                            <img src="assets/character-constellation/{{selectedCharacter}}-{{item.Level}}.png" alt="">
+                        </div>
+                        <div fxFlex="80" ngStyle.lt-md="margin-top: 20px;">
+                            <h2 ngStyle.lt-md="text-align: center;">{{item.Name}}</h2>
+                            <p *ngFor="let p of item.Details">{{p}}</p>
+                        </div>
+                    </div>
+                    <mat-divider></mat-divider>
+                </div>
+            </mat-expansion-panel>
+        </mat-accordion>
+        <!-- #endregion Constellation -->
+    </div>
+</div>

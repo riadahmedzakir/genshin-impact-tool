@@ -1,0 +1,487 @@
+{
+    "Name": "Diluc",
+    "FullName": "Diluc Ragnvindr",
+    "Sex": "Male",
+    "Element": "Pyro",
+    "Weapon": "Claymore",
+    "Birthday": "April 30th",
+    "Constellation": "Noctua",
+    "Nation": "Mondstadt",
+    "Affiliation": "Dawn Winery, Unnamed Intelligence Organization, Knights of Favonius (Formerly)",
+    "SpecialDish": "Once Upon a Time in Mondstadt",
+    "Titles": "The Dark Side of Dawn, Darknight Hero,The Uncrowned King of Mondstadt",
+    "Intro": "Born into the affluent Ragnvindr Family, Diluc is the current owner of the Dawn Winery and a nobleman of high esteem in Mondstadt society. While a past incident caused him to split ways with the Knights of Favonius, he continues to protect Mondstadt in his own way.",
+    "Introduction": "As the wealthiest gentleman in Mondstadt, the ever-dapper Diluc always presents himself as the epitome of perfection. But behind the courteous visage burns a zealous soul that has sworn to protect Mondstadt at all costs, allowing him to mercilessly vanquish all who threaten his city.",
+    "Personality": [
+        "The tycoon of a winery empire in Mondstadt, unmatched in every possible way",
+        "Kaeya calls himself and Diluc \"anti-heroes with attitude problems.\" Diluc was once an ideal young man, dedicated to his work with Knights of Favonius. When he was a member of the Knights, he adored his father, Crepus. But after his father's untimely death, Diluc grew aloof, bitter, and distant in part due to Inspector Eroch's mishandling of the case. Even after Eroch was discharged as a traitor, Diluc retained his resentment for the Knights, claiming that they are too complacent. Believing them to be unfit for the job, he became a vigilante known as the \"Darknight Hero\" to protect the people of Mondstadt.",
+        "Despite his complicated emotions towards the Knights, Diluc believes that both Lisa and Jean are some of their better members. He still respects them for all the work they do for the people. He has a bitter words but is a gentle and considerate nature.",
+        "Diluc is not fond of alcohol, stating that he doesn't like its taste, instead preferring grape juice. This does not appear to be well known by many however, most likely as a result of him being the current owner of Mondstadt's largest wine producer. He even expresses surprise when he learns that Diona also loathes alcohol, having initially believed that he was the only bartender in Mondstadt that did not like alcohol. And as he tends to part with his possessions, he sold father's private residence."
+    ],
+    "Appearance": [
+        "Diluc is a tall man of lean build with pale skin and scarlet-hued hair which is always worn in an abundant ponytail that extends to his mid-back. Usually, his expression appears to be bored, exasperated or unimpressed. His 3D model in the game may look different from his official art, in particular his hair and eyes.",
+        "Diluc wears a black shirt, a long white vest, and a black ascot with a red gem. Over this he dons a dark brown coat that is adorned with golden trimmings and tassels, ending with black fur-trims. He wears black pants which are embellished with chains on his right thigh; while his Vision, attached to a belt, is settled upon his left thigh, along with cuffed, dark brown boots held by multiple buckles. Diluc also wears gloves, which are black with crimson red undersides. Around his neck is a wide black tie pinned by a red brooch."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Tempered Sword",
+            "Description": [
+                "Normal Attack: Perform up to 4 consecutive strikes.",
+                "Charged Attack: Drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Searing Onslaught",
+            "Description": [
+                "Performs a forward slash that deals Pyro DMG.",
+                "This skill can be used 3 times consecutively. Enters CD if not cast again within a short period (5s)."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Dawn",
+            "Description": [
+                "Releases intense flames to knock nearby opponents back, dealing Pyro DMG. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive Pyro DMG to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of AoE Pyro DMG.",
+                "The searing flames that run down his blade cause it to be infused with Pyro."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Relentless",
+            "Description": [
+                "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Blessing of Phoenix",
+            "Description": [
+                "The Pyro Enchantment provided by Dawn lasts for 4s longer. Additionally. Diluc gains 20% Pyro DMG Bonus during the duration of this effect."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Tradition of the Dawn Knight",
+            "Description": [
+                "Refunds 15% of the ores used when crafting Claymore-type weapons."
+            ]
+        }
+    },
+    "Ascensions": {
+        "LocalMaterial": "Item_10",
+        "ElementalStone": "Item_0",
+        "CommonCharacterAscensionMaterial": "FatuiInsignia",
+        "TalentBook": "Resistance",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_2"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1011,
+            "ATK": 26,
+            "DEF": 61,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2621,
+            "ATK": 68,
+            "DEF": 158,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3488,
+            "ATK": 90,
+            "DEF": 211,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5219,
+            "ATK": 135,
+            "DEF": 315,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5834,
+            "ATK": 151,
+            "DEF": 352,
+            "ExtraStatsValue": 4.8
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6712,
+            "ATK": 173,
+            "DEF": 405,
+            "ExtraStatsValue": 4.8
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7533,
+            "ATK": 194,
+            "DEF": 455,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8421,
+            "ATK": 217,
+            "DEF": 509,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9036,
+            "ATK": 233,
+            "DEF": 546,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9932,
+            "ATK": 256,
+            "DEF": 600,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10547,
+            "ATK": 272,
+            "DEF": 637,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11453,
+            "ATK": 295,
+            "DEF": 692,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12068,
+            "ATK": 311,
+            "DEF": 729,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 90,
+            "HP": 12981,
+            "ATK": 335,
+            "DEF": 784,
+            "ExtraStatsValue": 19.2
+        }
+    ],
+    "ExtraStats": "Crit Rate",
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 89.7,
+            "Level_2": 97.0,
+            "Level_3": 104,
+            "Level_4": 115,
+            "Level_5": 122,
+            "Level_6": 130,
+            "Level_7": 142,
+            "Level_8": 153,
+            "Level_9": 165,
+            "Level_10": 177,
+            "Level_11": 192
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 87.6,
+            "Level_2": 94.8,
+            "Level_3": 102,
+            "Level_4": 112,
+            "Level_5": 119,
+            "Level_6": 127,
+            "Level_7": 139,
+            "Level_8": 150,
+            "Level_9": 161,
+            "Level_10": 173,
+            "Level_11": 187
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 98.8,
+            "Level_2": 107,
+            "Level_3": 115,
+            "Level_4": 126,
+            "Level_5": 134,
+            "Level_6": 144,
+            "Level_7": 156,
+            "Level_8": 169,
+            "Level_9": 182,
+            "Level_10": 195,
+            "Level_11": 211
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 134,
+            "Level_2": 145,
+            "Level_3": 156,
+            "Level_4": 171,
+            "Level_5": 182,
+            "Level_6": 195,
+            "Level_7": 212,
+            "Level_8": 229,
+            "Level_9": 246,
+            "Level_10": 265,
+            "Level_11": 286
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 68.8,
+            "Level_2": 74.4,
+            "Level_3": 80.0,
+            "Level_4": 88.0,
+            "Level_5": 93.6,
+            "Level_6": 100,
+            "Level_7": 109,
+            "Level_8": 118,
+            "Level_9": 126,
+            "Level_10": 136,
+            "Level_11": 147
+        },
+        {
+            "HitCount": "Final DMG%",
+            "Level_1": 125,
+            "Level_2": 135,
+            "Level_3": 145,
+            "Level_4": 160,
+            "Level_5": 170,
+            "Level_6": 181,
+            "Level_7": 197,
+            "Level_8": 213,
+            "Level_9": 229,
+            "Level_10": 247,
+            "Level_11": 266
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 89.5,
+            "Level_2": 96.8,
+            "Level_3": 104,
+            "Level_4": 114,
+            "Level_5": 122,
+            "Level_6": 130,
+            "Level_7": 142,
+            "Level_8": 153,
+            "Level_9": 164,
+            "Level_10": 177,
+            "Level_11": 189
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 179,
+            "Level_2": 194,
+            "Level_3": 208,
+            "Level_4": 229,
+            "Level_5": 243,
+            "Level_6": 260,
+            "Level_7": 283,
+            "Level_8": 306,
+            "Level_9": 329,
+            "Level_10": 354,
+            "Level_11": 379
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 224,
+            "Level_2": 242,
+            "Level_3": 260,
+            "Level_4": 286,
+            "Level_5": 304,
+            "Level_6": 325,
+            "Level_7": 354,
+            "Level_8": 382,
+            "Level_9": 411,
+            "Level_10": 442,
+            "Level_11": 473
+        }
+    ],
+    "ElementalSkill": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 94.4,
+            "Level_2": 101,
+            "Level_3": 109,
+            "Level_4": 118,
+            "Level_5": 125,
+            "Level_6": 132,
+            "Level_7": 142,
+            "Level_8": 151,
+            "Level_9": 160,
+            "Level_10": 170,
+            "Level_11": 179,
+            "Level_12": 189,
+            "Level_13": 201,
+            "Level_14": 0,
+            "Level_15": 0
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 97.6,
+            "Level_2": 105,
+            "Level_3": 112,
+            "Level_4": 122,
+            "Level_5": 129,
+            "Level_6": 137,
+            "Level_7": 146,
+            "Level_8": 156,
+            "Level_9": 166,
+            "Level_10": 176,
+            "Level_11": 185,
+            "Level_12": 195,
+            "Level_13": 207,
+            "Level_14": 0,
+            "Level_15": 0
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 129,
+            "Level_2": 138,
+            "Level_3": 148,
+            "Level_4": 161,
+            "Level_5": 171,
+            "Level_6": 180,
+            "Level_7": 193,
+            "Level_8": 203,
+            "Level_9": 219,
+            "Level_10": 232,
+            "Level_11": 245,
+            "Level_12": 258,
+            "Level_13": 274,
+            "Level_14": 0,
+            "Level_15": 0
+        },
+        {
+            "HitCount": "Total DMG%",
+            "Level_1": 321,
+            "Level_2": 344,
+            "Level_3": 369,
+            "Level_4": 401,
+            "Level_5": 425,
+            "Level_6": 449,
+            "Level_7": 481,
+            "Level_8": 513,
+            "Level_9": 545,
+            "Level_10": 578,
+            "Level_11": 609,
+            "Level_12": 642,
+            "Level_13": 682,
+            "Level_14": 0,
+            "Level_15": 0
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Slashing DMG%",
+            "Level_1": 204,
+            "Level_2": 219,
+            "Level_3": 235,
+            "Level_4": 255,
+            "Level_5": 270,
+            "Level_6": 286,
+            "Level_7": 306,
+            "Level_8": 326,
+            "Level_9": 347,
+            "Level_10": 367,
+            "Level_11": 388,
+            "Level_12": 408,
+            "Level_13": 434,
+            "Level_14": 459,
+            "Level_15": 0
+        },
+        {
+            "HitCount": "DoT DMG%",
+            "Level_1": 60,
+            "Level_2": 64.5,
+            "Level_3": 69,
+            "Level_4": 75,
+            "Level_5": 79.5,
+            "Level_6": 84,
+            "Level_7": 90,
+            "Level_8": 96,
+            "Level_9": 102,
+            "Level_10": 108,
+            "Level_11": 114,
+            "Level_12": 120,
+            "Level_13": 128,
+            "Level_14": 135,
+            "Level_15": 0
+        },
+        {
+            "HitCount": "Explosion DMG%",
+            "Level_1": 204,
+            "Level_2": 219,
+            "Level_3": 235,
+            "Level_4": 255,
+            "Level_5": 270,
+            "Level_6": 286,
+            "Level_7": 306,
+            "Level_8": 326,
+            "Level_9": 347,
+            "Level_10": 367,
+            "Level_11": 388,
+            "Level_12": 408,
+            "Level_13": 434,
+            "Level_14": 459,
+            "Level_15": 0
+        }
+    ],
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Conviction",
+            "Details": [
+                "Diluc deals 15% more DMG to opponents whose HP is above 50%."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Searing Ember",
+            "Details": [
+                "When Diluc takes DMG, his ATK increases by 10%, and his ATK SPD increases by 5%. Last for 10s.",
+                "This effect can stack up to 3 times and can only occur once every 1.5s."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Fire and Steel",
+            "Details": [
+                "Increases Searing Onslaught's skill level by 3. Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Flowing Flame",
+            "Details": [
+                "Casting Searing Onslaught in rhythm greatly increases damage dealt.",
+                "2s after casting Searing Onslaught, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Phoenix, Harbinger of Dawn",
+            "Details": [
+                "Increases Dawn's skill level by 3. Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Flaming Sword, Nemesis of Dark",
+            "Details": [
+                "After casting Searing Onslaught, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.",
+                "Additionally, Searing Onslaught will not interrupt the Normal Attack combo."
+            ]
+        }
+    ]
+}

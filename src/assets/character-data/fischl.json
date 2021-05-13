@@ -1,0 +1,442 @@
+{
+    "Name": "Fischl",
+    "FullName": "Fischl von Luftschloss Narfidort, Amy (Real Name)",
+    "Sex": "Female",
+    "Weapon": "Bow",
+    "Element": "Electro",
+    "Birthday": "May 27th",
+    "Constellation": "Corvus",
+    "Nation": "Mondstadt",
+    "Affiliation": "Adventurers' Guild",
+    "SpecialDish": "Die Heilige Sinfonie",
+    "Titles": "Prinzessin der Verurteilung, Ruler of the Ashen Darkness, Mein Fräulein (by Oz), Sovereign of Immernachtreich",
+    "Intro": "Fischl is an investigator for Mondstadt's Adventurers' Guild, accompanied by the night raven Oz. Fischl claims to hail from a world beyond Teyvat. She is a daring adventurer with seemly outlandish theories that happen to turn out to be true.\n",
+    "Introduction": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz. Currently serves as an investigator in the Adventurers' Guild. Through her unique abilities, eccentric character, and (while she would never admit it herself) hard work, Fischl has become a rising star among the Adventurers' Guild's investigators, earning the recognition of all.",
+    "Personality": [
+        "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+        "Due to her upbringing as a child, Fischl is obsessed with fantasy stories and roleplays as a benevolent princess. Her speaking manner can confuse those unfamiliar with her, which results in Oz having to translate to whoever she is speaking with to understand what she means. She is used to talking this way that even breaking character confuses them just as much. Most people generally shun her for her childish behavior, making Fischl upset, but it does not dismay her. She appreciates company that is willing to go along with her roleplaying, as she has very few friends.",
+        "Fischl also has a knack for investigating in part due to her own theories and Oz, which has allowed her to quickly climb up the ranks of the Adventurer's Guild. Even when her ideas sound outlandish (such as claiming a meteor shower to be the result of a curse), Oz is quick to ask others not to underestimate her intuition, as her instincts are very keen."
+    ],
+    "Appearance": [
+        "Fischl has blonde hair, light green eyes, and a petite build with fair skin. Two sections of her hair are tied into twin tails with a black ribbon, the left of which is decorated with a bat wing pattern. Fischl wears a black eyepatch that is worn to not obstruct her view when possessing Oz.",
+        "Overall, Fischl seems to have designed her outfit to be as asymmetrical as physically possible. She wears a sleeveless black lace dress-like leotard with a black lace collar and purple bow tie, crosses stitched in, and black and violet tailcoats. Fischl's vision is tied to the back of this dress with a bat wing-style purple ribbon. She wears a shoulder-length black glove on her left hand and a black and purple sleeve on her right arm. Fischl wears a transparent black stocking on her right leg and a similar thigh-high black sock held up by a garter on her left. Fischl wears black boots with a light purple lining, gold heels, and bat wing decorations.",
+        "In general, Fischl seems to style herself after the titular character of the book \"Flowers for Princess Fischl.\""
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Bolts of Downfall",
+            "Description": [
+                "Normal Attack: Perform up to 5 consecutive shots with a bow.",
+                "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense Electro DMG.",
+                "Plunging Attack: Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Nightrider",
+            "Description": [
+                "Summons Oz. The night raven forged of darkness and lightning descends upon the land, dealing Electro DMG in a small AoE.",
+                "For the ability's duration, Oz will continuously attack nearby opponents with Freikugel.",
+                "Hold to adjust the location Oz will be summoned to.",
+                "Press again any time during the ability's duration to once again summon him to Fischl's side."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Midnight Phantasmagoria",
+            "Description": [
+                "Summons Oz to spread his twin wings of twilight and defend Fischl. Has the following properties during the ability's duration:",
+                "Fischl takes on Oz's form, greatly increasing her Movement Speed.",
+                "Strikes nearby opponents with lightning, dealing Electro DMG to opponents she comes in contact with. Each opponent can only be struck once.",
+                "Once this ability's effects end, Oz will remain on the battlefield and attack his Prinzessin's foes. If Oz is already on the field, then this will reset the duration of his presence."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Stellar Predator",
+            "Description": [
+                "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing AoE Electro DMG equal to 152.7% of the arrow's DMG."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Undone Be Thy Sinful Hex",
+            "Description": [
+                "If your active character triggers an Electro-related Elemental Reaction when Oz is on the field, the opponent shall be stricken with Thundering Retribution, dealing Electro DMG equal to 80% of Fischl's ATK."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Mein Hausgarten",
+            "Description": [
+                "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Ballad",
+        "CommonCharacterAscensionMaterial": "Arrowhead",
+        "TalentBoss": "Boreas",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_10",
+        "ElementalStone": "Item_2"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 770,
+            "ATK": 20,
+            "DEF": 50,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 1979,
+            "ATK": 53,
+            "DEF": 128,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2555,
+            "ATK": 68,
+            "DEF": 165,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 3827,
+            "ATK": 102,
+            "DEF": 247,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4236,
+            "ATK": 113,
+            "DEF": 274,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 4872,
+            "ATK": 130,
+            "DEF": 315,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5418,
+            "ATK": 144,
+            "DEF": 350,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6054,
+            "ATK": 161,
+            "DEF": 391,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6463,
+            "ATK": 172,
+            "DEF": 418,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7099,
+            "ATK": 189,
+            "DEF": 459,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7508,
+            "ATK": 200,
+            "DEF": 485,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8144,
+            "ATK": 216,
+            "DEF": 526,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8553,
+            "ATK": 227,
+            "DEF": 553,
+            "ExtraStatsValue": 24
+        },
+        {
+            "LEVEL": 90,
+            "HP": 9189,
+            "ATK": 244,
+            "DEF": 594,
+            "ExtraStatsValue": 24
+        }
+    ],
+    "ExtraStats": "ATK",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Gaze of the Deep",
+            "Details": [
+                "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a joint attack, dealing DMG equal to 22% of Fischl's ATK."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Devourer of All Sins",
+            "Details": [
+                "When Nightrider is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Wings of Nightmare",
+            "Details": [
+                "Increases the Level of Nightrider by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Her Pilgrimage of Bleak",
+            "Details": [
+                "When Midnight Phantasmagoria is used, it deals 222% of ATK as Electro DMG to surrounding opponents.When the skill duration ends, Fischl regenerates 20% of her HP."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Against the Fleeing Light",
+            "Details": [
+                "Increases the Level of Midnight Phantasmagoria by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Evernight Raven",
+            "Details": [
+                "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs joint attacks with your active character when present, dealing 30% of Fischl's ATK as Electro DMG."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 44.1,
+            "Level_2": 47.7,
+            "Level_3": 51.3,
+            "Level_4": 56.4,
+            "Level_5": 60,
+            "Level_6": 64.1,
+            "Level_7": 69.8,
+            "Level_8": 75.4,
+            "Level_9": 81.1,
+            "Level_10": 87.2,
+            "Level_11": 93.4
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 46.8,
+            "Level_2": 50.6,
+            "Level_3": 54.4,
+            "Level_4": 59.8,
+            "Level_5": 63.6,
+            "Level_6": 68,
+            "Level_7": 74,
+            "Level_8": 80,
+            "Level_9": 86,
+            "Level_10": 92.5,
+            "Level_11": 99
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 58.1,
+            "Level_2": 62.9,
+            "Level_3": 67.6,
+            "Level_4": 74.4,
+            "Level_5": 79.1,
+            "Level_6": 84.5,
+            "Level_7": 91.9,
+            "Level_8": 99.4,
+            "Level_9": 107,
+            "Level_10": 115,
+            "Level_11": 123
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 57.7,
+            "Level_2": 62.4,
+            "Level_3": 67.1,
+            "Level_4": 73.8,
+            "Level_5": 78.5,
+            "Level_6": 83.9,
+            "Level_7": 91.3,
+            "Level_8": 98.6,
+            "Level_9": 106,
+            "Level_10": 114,
+            "Level_11": 122
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 72.1,
+            "Level_2": 77.9,
+            "Level_3": 83.8,
+            "Level_4": 92.2,
+            "Level_5": 98,
+            "Level_6": 105,
+            "Level_7": 114,
+            "Level_8": 123,
+            "Level_9": 132,
+            "Level_10": 142,
+            "Level_11": 153
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 43.9,
+            "Level_2": 47.4,
+            "Level_3": 51,
+            "Level_4": 56.1,
+            "Level_5": 59.7,
+            "Level_6": 63.8,
+            "Level_7": 69.4,
+            "Level_8": 75,
+            "Level_9": 80.6,
+            "Level_10": 86.7,
+            "Level_11": 92.8
+        },
+        {
+            "HitCount": "Fully-Charged DMG%",
+            "Level_1": 124,
+            "Level_2": 133,
+            "Level_3": 143,
+            "Level_4": 155,
+            "Level_5": 164,
+            "Level_6": 174,
+            "Level_7": 186,
+            "Level_8": 198,
+            "Level_9": 211,
+            "Level_10": 223,
+            "Level_11": 236
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 56.8,
+            "Level_2": 61.5,
+            "Level_3": 66.1,
+            "Level_4": 72.7,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.9,
+            "Level_8": 97.1,
+            "Level_9": 104,
+            "Level_10": 112,
+            "Level_11": 120
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 114,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 155,
+            "Level_6": 165,
+            "Level_7": 180,
+            "Level_8": 194,
+            "Level_9": 209,
+            "Level_10": 225,
+            "Level_11": 240
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 142,
+            "Level_2": 153,
+            "Level_3": 165,
+            "Level_4": 182,
+            "Level_5": 193,
+            "Level_6": 206,
+            "Level_7": 224,
+            "Level_8": 243,
+            "Level_9": 261,
+            "Level_10": 281,
+            "Level_11": 300
+        }
+    ],
+    "ChargedAttackStaminaCost": 0,
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Oz ATK DMG%(x9)",
+            "Level_1": 88.8,
+            "Level_2": 95.5,
+            "Level_3": 102,
+            "Level_4": 111,
+            "Level_5": 118,
+            "Level_6": 124,
+            "Level_7": 133,
+            "Level_8": 142,
+            "Level_9": 151,
+            "Level_10": 160,
+            "Level_11": 169,
+            "Level_12": 178,
+            "Level_13": 189
+        },
+        {
+            "HitCount": "Summoning DMG%",
+            "Level_1": 115,
+            "Level_2": 124,
+            "Level_3": 133,
+            "Level_4": 144,
+            "Level_5": 153,
+            "Level_6": 162,
+            "Level_7": 173,
+            "Level_8": 185,
+            "Level_9": 196,
+            "Level_10": 208,
+            "Level_11": 219,
+            "Level_12": 231,
+            "Level_13": 245
+        },
+        {
+            "HitCount": "Total DMG%",
+            "Level_1": 914.2,
+            "Level_2": 983.5,
+            "Level_3": 1051,
+            "Level_4": 1143,
+            "Level_5": 1215,
+            "Level_6": 1278,
+            "Level_7": 1370,
+            "Level_8": 1463,
+            "Level_9": 1555,
+            "Level_10": 1648,
+            "Level_11": 1740,
+            "Level_12": 1833,
+            "Level_13": 1946
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Falling Thunder DMG",
+            "Level_1": 208,
+            "Level_2": 223.6,
+            "Level_3": 239.2,
+            "Level_4": 260,
+            "Level_5": 275.6,
+            "Level_6": 291.2,
+            "Level_7": 312,
+            "Level_8": 332.8,
+            "Level_9": 353.6,
+            "Level_10": 374.4,
+            "Level_11": 395.2,
+            "Level_12": 416,
+            "Level_13": 442,
+            "Level_14": 468,
+            "Level_15": 494
+        }
+    ]
+}

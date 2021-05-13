@@ -1,0 +1,443 @@
+{
+    "Name": "Amber",
+    "FullName": "",
+    "Sex": "Female",
+    "Birthday": "August 10th",
+    "Weapon": "Bow",
+    "Element": "Pyro",
+    "Constellation": "Lepus",
+    "Nation": "Mondstadt",
+    "Affiliation": "Knights of Favonius",
+    "SpecialDish": "Outrider's Champion Steak!",
+    "Titles": "Gliding Champion, Outrider",
+    "Intro": "Amber is the only remaining Outrider of the Knights of Favonius. She is always ready to help the citizens of Mondstadt—whether it be something simple or perhaps a more challenging task.",
+    "Introduction": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks.",
+    "Personality": [
+        "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius.",
+        "Amber is described as an \"exemplary of justice\" by Kaeya. A righteous and accomplished knight, she fulfills her duties and does things by the Knights of Favonius handbook. She is as charismatic as she is kind, being able to see others' efforts to turn over a new leaf.",
+        "Cheerful and friendly, Amber has no problem talking to strangers as if she's already acquainted with them. She is passionate in all things she does, be it when it comes to helping others as an Outrider or taking out hilichurl camps. She is not a particularly skilled cook, stating that she is not good at the kitchen and is further supported with her signature dish, which states that it is half raw and half burnt.",
+        "Although she gets along well with her fellow members, she fails to see Kaeya in such a way, considering him to be very suspicious, but for the completely opposite reasons, such as not helping his fellow members out in times of need. She is also a bit of a troublemaker, as she has had her gliding license revoked numerous times."
+    ],
+    "Appearance": [
+        "Amber has long, dark brown hair, gold eyes, and fair skin. She wears a jumper-like outfit composed of dark brown leather shorts, a red hoodie-like top, red stockings, and white thigh-high boots embellished with gold linings and symbols.",
+        "Amber's accessories include a leather belt with two small bags, and her Pyro Vision, attached, gloves, a small belt on her right thigh, and gold-framed goggles. Her most distinguishing feature is the headband with the large red bow that rests on her head, resembling the shape of bunny ears. Additionally her Vision has two red feathers attached below it."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Sharpshooter",
+            "Description": [
+                "Normal Attack: Perform up to 5 consecutive shots with a bow.",
+                "Charged Attack: Perform a more precise Aimed Shot with increased DMG. While aiming, flames will accumulate on the arrowhead. A fully charged flaming arrow will deal Pyro DMG.",
+                "Plunging Attack: Fires off a shower of arrows in mid-air before falling an striking the ground, dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Explosive Puppet",
+            "Description": [
+                "The ever-reliable Baron Bunny takes the stage. ",
+                "Baron Bunny:",
+                "Continuously taunts the enemy, drawing their fire.",
+                "Baron Bunny's HP scales with Amber's Max HP.",
+                "When destroyed or when its timer expires, Baron Bunny explodes, dealing AoE Pyro DMG.",
+                "Hold: Adjusts the throwing direction of Baron Bunny. The longer the button is held, the further the throw."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Fiery Rain",
+            "Description": [
+                "Fires off a shower of arrows, dealing continuous AoE Pyro DMG."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Every Arrow Finds Its Target",
+            "Description": [
+                "Increases the CRIT Rate of Fiery Rain by 10% and widens its AoE by 30%."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Precise Shot",
+            "Description": [
+                "Aimed Shot hits on weak spots increase ATK by 15% for 10s."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Gliding Champion",
+            "Description": [
+                "Decreases gliding Stamina consumption for your own party members by 20%.Not stackable with Passive Talents that provide the exact same effects."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Freedom",
+        "CommonCharacterAscensionMaterial": "Arrowhead",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_10",
+        "ElementalStone": "Item_0"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 793,
+            "ATK": 19,
+            "DEF": 50,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2038,
+            "ATK": 48,
+            "DEF": 129,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2630,
+            "ATK": 62,
+            "DEF": 167,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 3940,
+            "ATK": 93,
+            "DEF": 250,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4361,
+            "ATK": 103,
+            "DEF": 277,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5016,
+            "ATK": 118,
+            "DEF": 318,
+            "ExtraStatsValue": 6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 5578,
+            "ATK": 131,
+            "DEF": 354,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6233,
+            "ATK": 147,
+            "DEF": 396,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 60,
+            "HP": 6654,
+            "ATK": 157,
+            "DEF": 422,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7309,
+            "ATK": 172,
+            "DEF": 464,
+            "ExtraStatsValue": 12
+        },
+        {
+            "LEVEL": 70,
+            "HP": 7730,
+            "ATK": 182,
+            "DEF": 491,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8385,
+            "ATK": 198,
+            "DEF": 532,
+            "ExtraStatsValue": 18
+        },
+        {
+            "LEVEL": 80,
+            "HP": 8806,
+            "ATK": 208,
+            "DEF": 559,
+            "ExtraStatsValue": 24
+        },
+        {
+            "LEVEL": 90,
+            "HP": 9461,
+            "ATK": 223,
+            "DEF": 601,
+            "ExtraStatsValue": 24
+        }
+    ],
+    "ExtraStats": "ATK",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "One Arrow to Rule Them All",
+            "Details": [
+                "Fires 2 arrows per Aimed Shot. The second arrow deals 20% of the first arrow's DMG."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Bunny Triggered",
+            "Details": [
+                "Baron Bunny, new and improved! Hitting Baron Bunny's foot with a fully-charged Aimed Shot manually detonates it.Explosion via manual detonation deals 200% additional DMG."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "It Burns!",
+            "Details": [
+                "Increases the Level of Fiery Rain by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "It's Not Just Any Doll...",
+            "Details": [
+                "Decreases Explosive Puppet's CD by 20%. Adds 1 additional charge."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "It's Baron Bunny!",
+            "Details": [
+                "Increases the Level of Explosive Puppet by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Wildfire",
+            "Details": [
+                "Fiery Rain increases all party members' Movement SPD by 15% and ATK by 15% for 10s."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 36.1,
+            "Level_2": 39.1,
+            "Level_3": 42,
+            "Level_4": 46.2,
+            "Level_5": 49.1,
+            "Level_6": 52.5,
+            "Level_7": 57.1,
+            "Level_8": 61.7,
+            "Level_9": 66.4,
+            "Level_10": 71.4,
+            "Level_11": 76.4
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 36.1,
+            "Level_2": 39.1,
+            "Level_3": 42,
+            "Level_4": 46.2,
+            "Level_5": 49.1,
+            "Level_6": 52.5,
+            "Level_7": 57.1,
+            "Level_8": 61.7,
+            "Level_9": 66.4,
+            "Level_10": 71.4,
+            "Level_11": 76.4
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 46.4,
+            "Level_2": 50.2,
+            "Level_3": 54,
+            "Level_4": 59.4,
+            "Level_5": 63.2,
+            "Level_6": 67.5,
+            "Level_7": 73.4,
+            "Level_8": 79.4,
+            "Level_9": 85.3,
+            "Level_10": 91.8,
+            "Level_11": 98.3
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 47.3,
+            "Level_2": 51.2,
+            "Level_3": 55,
+            "Level_4": 60.5,
+            "Level_5": 64.4,
+            "Level_6": 68.8,
+            "Level_7": 74.8,
+            "Level_8": 80.9,
+            "Level_9": 86.9,
+            "Level_10": 93.5,
+            "Level_11": 100
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 59.3,
+            "Level_2": 64.2,
+            "Level_3": 69,
+            "Level_4": 75.9,
+            "Level_5": 80.7,
+            "Level_6": 86.3,
+            "Level_7": 93.8,
+            "Level_8": 101,
+            "Level_9": 109,
+            "Level_10": 117,
+            "Level_11": 126
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 43.9,
+            "Level_2": 47.4,
+            "Level_3": 51,
+            "Level_4": 56.1,
+            "Level_5": 59.7,
+            "Level_6": 63.8,
+            "Level_7": 69.4,
+            "Level_8": 75,
+            "Level_9": 80.6,
+            "Level_10": 86.7,
+            "Level_11": 92.8
+        },
+        {
+            "HitCount": "Fully-Charged DMG%",
+            "Level_1": 124,
+            "Level_2": 133,
+            "Level_3": 143,
+            "Level_4": 155,
+            "Level_5": 164,
+            "Level_6": 174,
+            "Level_7": 186,
+            "Level_8": 198,
+            "Level_9": 211,
+            "Level_10": 223,
+            "Level_11": 236
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 56.8,
+            "Level_2": 61.5,
+            "Level_3": 66.1,
+            "Level_4": 72.7,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.9,
+            "Level_8": 97.1,
+            "Level_9": 104,
+            "Level_10": 112,
+            "Level_11": 120
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 114,
+            "Level_2": 123,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 155,
+            "Level_6": 165,
+            "Level_7": 180,
+            "Level_8": 194,
+            "Level_9": 209,
+            "Level_10": 225,
+            "Level_11": 240
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 142,
+            "Level_2": 153,
+            "Level_3": 165,
+            "Level_4": 182,
+            "Level_5": 193,
+            "Level_6": 206,
+            "Level_7": 224,
+            "Level_8": 243,
+            "Level_9": 261,
+            "Level_10": 281,
+            "Level_11": 300
+        }
+    ],
+    "ChargedAttackStaminaCost": 0,
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Inherited HP%",
+            "Level_1": 41.4,
+            "Level_2": 44.5,
+            "Level_3": 47.6,
+            "Level_4": 51.7,
+            "Level_5": 54.8,
+            "Level_6": 57.9,
+            "Level_7": 62,
+            "Level_8": 66.2,
+            "Level_9": 70.3,
+            "Level_10": 74.5,
+            "Level_11": 78.6,
+            "Level_12": 93.1,
+            "Level_13": 98.2
+        },
+        {
+            "HitCount": "Explosion DMG%",
+            "Level_1": 123,
+            "Level_2": 132,
+            "Level_3": 142,
+            "Level_4": 154,
+            "Level_5": 163,
+            "Level_6": 172,
+            "Level_7": 185,
+            "Level_8": 197,
+            "Level_9": 209,
+            "Level_10": 222,
+            "Level_11": 234,
+            "Level_12": 277,
+            "Level_13": 293
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Fiery Rain DMG Per Wave",
+            "Level_1": 28.08,
+            "Level_2": 30.19,
+            "Level_3": 32.29,
+            "Level_4": 35.1,
+            "Level_5": 37.21,
+            "Level_6": 39.31,
+            "Level_7": 42.12,
+            "Level_8": 44.93,
+            "Level_9": 47.74,
+            "Level_10": 50.54,
+            "Level_11": 53.35,
+            "Level_12": 56.16,
+            "Level_13": 59.67,
+            "Level_14": 63.18,
+            "Level_15": 66.69
+        },
+        {
+            "HitCount": "Total Fiery Rain DMG",
+            "Level_1": 505.44,
+            "Level_2": 543.35,
+            "Level_3": 581.26,
+            "Level_4": 631.8,
+            "Level_5": 669.71,
+            "Level_6": 707.62,
+            "Level_7": 758.16,
+            "Level_8": 808.7,
+            "Level_9": 859.25,
+            "Level_10": 909.79,
+            "Level_11": 960.34,
+            "Level_12": 1010.88,
+            "Level_13": 1074.06,
+            "Level_14": 1137.24,
+            "Level_15": 1200.42
+        }
+    ]
+}

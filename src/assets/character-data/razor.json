@@ -1,0 +1,450 @@
+{
+    "Name": "Razor",
+    "FullName": "",
+    "Sex": "Male",
+    "Birthday": "September 9th",
+    "Weapon": "Claymore",
+    "Element": "Electro",
+    "Constellation": "Lupus Minor",
+    "Nation": "Mondstadt",
+    "Affiliation": "Wolvendom (Andrius)",
+    "SpecialDish": "Puppy-Paw Hash Brown",
+    "Titles": "Wolf Boy, Legend of Wolvendom, Little Wolfie(小狼狼 Xiǎo Lángláng)(by Lisa)",
+    "Intro": "Abandoned as an infant, Razor was taken in by the Wolf of the North, Andrius, and raised by his wolf pack in Wolvendom. After a chance encounter with Varka, the current Grand Master of the Knights of Favonius and the Knight of Boreas, he has slowly started integrating with humans again.\n",
+    "Introduction": "Some say he is an orphan raised by wolves. Others say he is a wolf spirit in human form. He is most at home in the wild, fighting with claw and thunder. To this day the wolf boy can be found prowling the forest, where he and his wolf pack hunt to survive using nothing more than their animal instincts.",
+    "Personality": [
+        "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+        "Razor is a generally good-natured person who considers his wolf pack his family. He seeks revenge on those who hurt his family, but usually considers the few people he encounters in the woods as friends. Razor goes out of his way to protect those he sees in danger, even letting multiple boars — his and his pack's dinner — get away in order to protect the Traveler and Paimon.",
+        "Razor is honest and forthright, due to his limited exposure to Mondstadt's social rules and formalities. He isn't one for flowery language and usually speaks in short statements with few words."
+    ],
+    "Appearance": [
+        "Razor is a boy with long, spiky grey hair; bright red eyes; and pale skin. He has several scars on his body, including one on his left cheek and several on his arms, as a result of his time living in the wild with his wolf family.",
+        "Razor wears green camouflage pants, an orange poncho-like shirt, dark boots, and a dark hooded coat decorated with belts. His accessories are a tooth necklace, thumb-less orange gloves, and one gold earring on his left ear."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Steel Fang",
+            "Description": [
+                "Normal Attack: Perform up to 4 consecutive strikes.",
+                "Charged Attack: Drains Stamina over time to perform continuous swirling attacks against all nearby opponents. At end of the sequence, perform a more powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Claw and Thunder",
+            "Description": [
+                "Hunts his prey using the techniques taught to him by his master and his Lupical.",
+                "Press: Swings the Thunder Wolf Claw, dealing Electro DMG to opponents in front of Razor.Upon striking an opponent, Razor gains an Electro Sigil, which increases his Energy Recharge rate.Razor can have up to 3 Electro Sigils simultaneously, and gaining a new Electro Sigil refreshes their duration.",
+                "Hold: Gathers Electro energy to unleash a lightning storm over a small AoE, causing massive Electro DMG, and clears all of Razor's Electro Sigils. Each Electro Sigil cleared in this manner will be converted into Energy for Razor."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Lightning Fang",
+            "Description": [
+                "Summons the Wolf Within which deals Electro DMG to all nearby opponents. This clears all of Razor's Electro Sigils, which will be converted into elemental energy for him.The Wolf Within will fight alongside Razor for the skill's duration.",
+                "The Wolf Within:",
+                "Strikes alongside Razor's normal attacks, dealing Electro DMG.",
+                "Raises Razor's ATK SPD and Electro RES.",
+                "Causes Razor to be immune to DMG inflicted by the Electro-Charged status.",
+                "Disables Razor's Charged Attacks.",
+                "Increases Razor's resistance to interruption"
+            ]
+        },
+        "Skill_4": {
+            "Name": "Awakening",
+            "Description": [
+                "Decreases Claw and Thunder's CD by 18%. Using Lightning Fang resets the CD of Claw and Thunder."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Hunger",
+            "Description": [
+                "When Razor's Energy is below 50%, increases Energy Recharge by 30%."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Wolvensprint",
+            "Description": [
+                "Decreases sprinting Stamina consumption of your characters in the party by 20%.",
+                "Not stackable with Passive Talents that provide the exact same effects."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Resistance",
+        "CommonCharacterAscensionMaterial": "Mask",
+        "TalentBoss": "Davalin",
+        "TalentMaterial": "Item_1",
+        "LocalMaterial": "Item_14",
+        "ElementalStone": "Item_2"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1003,
+            "ATK": 20,
+            "DEF": 63,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2577,
+            "ATK": 50,
+            "DEF": 162,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3326,
+            "ATK": 65,
+            "DEF": 209,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 4982,
+            "ATK": 97,
+            "DEF": 313,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5514,
+            "ATK": 108,
+            "DEF": 346,
+            "ExtraStatsValue": 7.5
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6343,
+            "ATK": 124,
+            "DEF": 398,
+            "ExtraStatsValue": 7.5
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7052,
+            "ATK": 138,
+            "DEF": 443,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 60,
+            "HP": 7881,
+            "ATK": 154,
+            "DEF": 495,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8413,
+            "ATK": 164,
+            "DEF": 528,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9241,
+            "ATK": 180,
+            "DEF": 580,
+            "ExtraStatsValue": 15
+        },
+        {
+            "LEVEL": 70,
+            "HP": 9773,
+            "ATK": 191,
+            "DEF": 613,
+            "ExtraStatsValue": 22.5
+        },
+        {
+            "LEVEL": 80,
+            "HP": 10602,
+            "ATK": 207,
+            "DEF": 665,
+            "ExtraStatsValue": 22.5
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11134,
+            "ATK": 217,
+            "DEF": 699,
+            "ExtraStatsValue": 30
+        },
+        {
+            "LEVEL": 90,
+            "HP": 11962,
+            "ATK": 234,
+            "DEF": 751,
+            "ExtraStatsValue": 30
+        }
+    ],
+    "ExtraStats": "Physical DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Wolf's Instinct",
+            "Details": [
+                "Picking up an Elemental Orb or Particle increases Razor's DMG by 10% for 8s."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Suppression",
+            "Details": [
+                "Increases CRIT Rate against opponents with less than 30% HP by 10%."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Soul Companion",
+            "Details": [
+                "Increases the Level of Lightning Fang by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Bite",
+            "Details": [
+                "#When casting Claw and Thunder (Press), opponents hit will have their DEF decreased by 15% for 7s."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Sharpened Claws",
+            "Details": [
+                "Increases the Level of Claw and Thunder by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Lupus Fulguris",
+            "Details": [
+                "Every 10s, Razor's sword charges up, causing the next Normal Attack to release lightning that deals 100% of Razor's ATK as Electro DMG.When Razor is not using Lightning Fang, a lightning strike on an opponent will grant Razor an Electro Sigil for Claw and Thunder."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 95.9,
+            "Level_2": 102,
+            "Level_3": 109,
+            "Level_4": 118,
+            "Level_5": 124,
+            "Level_6": 132,
+            "Level_7": 142,
+            "Level_8": 152,
+            "Level_9": 161,
+            "Level_10": 171,
+            "Level_11": 181
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 82.6,
+            "Level_2": 88.3,
+            "Level_3": 93.9,
+            "Level_4": 101,
+            "Level_5": 107,
+            "Level_6": 114,
+            "Level_7": 122,
+            "Level_8": 131,
+            "Level_9": 139,
+            "Level_10": 147,
+            "Level_11": 156
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 103,
+            "Level_2": 110,
+            "Level_3": 117,
+            "Level_4": 127,
+            "Level_5": 134,
+            "Level_6": 142,
+            "Level_7": 153,
+            "Level_8": 163,
+            "Level_9": 174,
+            "Level_10": 184,
+            "Level_11": 195
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 136,
+            "Level_2": 145,
+            "Level_3": 155,
+            "Level_4": 167,
+            "Level_5": 176,
+            "Level_6": 187,
+            "Level_7": 201,
+            "Level_8": 215,
+            "Level_9": 229,
+            "Level_10": 243,
+            "Level_11": 257
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 62.5,
+            "Level_2": 67.6,
+            "Level_3": 72.7,
+            "Level_4": 80,
+            "Level_5": 85.1,
+            "Level_6": 90.9,
+            "Level_7": 98.9,
+            "Level_8": 107,
+            "Level_9": 115,
+            "Level_10": 124,
+            "Level_11": 132
+        },
+        {
+            "HitCount": "Final DMG%",
+            "Level_1": 113,
+            "Level_2": 122,
+            "Level_3": 132,
+            "Level_4": 145,
+            "Level_5": 154,
+            "Level_6": 164,
+            "Level_7": 179,
+            "Level_8": 193,
+            "Level_9": 208,
+            "Level_10": 224,
+            "Level_11": 239
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 82,
+            "Level_2": 89,
+            "Level_3": 95,
+            "Level_4": 105,
+            "Level_5": 112,
+            "Level_6": 119,
+            "Level_7": 130,
+            "Level_8": 140,
+            "Level_9": 151,
+            "Level_10": 162,
+            "Level_11": 174
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 164,
+            "Level_2": 177,
+            "Level_3": 191,
+            "Level_4": 210,
+            "Level_5": 223,
+            "Level_6": 238,
+            "Level_7": 259,
+            "Level_8": 280,
+            "Level_9": 301,
+            "Level_10": 324,
+            "Level_11": 347
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 205,
+            "Level_2": 222,
+            "Level_3": 238,
+            "Level_4": 262,
+            "Level_5": 279,
+            "Level_6": 298,
+            "Level_7": 324,
+            "Level_8": 350,
+            "Level_9": 376,
+            "Level_10": 405,
+            "Level_11": 434
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "ElementalSkill": [
+        {
+            "HitCount": "Press Skill DMG%",
+            "Level_1": 199,
+            "Level_2": 214,
+            "Level_3": 229,
+            "Level_4": 249,
+            "Level_5": 264,
+            "Level_6": 279,
+            "Level_7": 299,
+            "Level_8": 319,
+            "Level_9": 339,
+            "Level_10": 359,
+            "Level_11": 378,
+            "Level_12": 398,
+            "Level_13": 423
+        },
+        {
+            "HitCount": "Hold Skill DMG%",
+            "Level_1": 295,
+            "Level_2": 317,
+            "Level_3": 339,
+            "Level_4": 369,
+            "Level_5": 391,
+            "Level_6": 413,
+            "Level_7": 443,
+            "Level_8": 472,
+            "Level_9": 502,
+            "Level_10": 531,
+            "Level_11": 561,
+            "Level_12": 590,
+            "Level_13": 627
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Elemental Burst DMG",
+            "Level_1": 160,
+            "Level_2": 172,
+            "Level_3": 184,
+            "Level_4": 200,
+            "Level_5": 212,
+            "Level_6": 224,
+            "Level_7": 240,
+            "Level_8": 256,
+            "Level_9": 272,
+            "Level_10": 288,
+            "Level_11": 304,
+            "Level_12": 320,
+            "Level_13": 340,
+            "Level_14": 360,
+            "Level_15": 380
+        },
+        {
+            "HitCount": "Soul Companion DMG",
+            "Level_1": 24,
+            "Level_2": 25.8,
+            "Level_3": 27.6,
+            "Level_4": 30,
+            "Level_5": 31.8,
+            "Level_6": 33.6,
+            "Level_7": 36,
+            "Level_8": 38.4,
+            "Level_9": 40.8,
+            "Level_10": 43.2,
+            "Level_11": 45.6,
+            "Level_12": 48,
+            "Level_13": 51,
+            "Level_14": 54,
+            "Level_15": 57
+        },
+        {
+            "HitCount": "Normal ATK SPD Bonus",
+            "Level_1": 26,
+            "Level_2": 28,
+            "Level_3": 30,
+            "Level_4": 32,
+            "Level_5": 34,
+            "Level_6": 36,
+            "Level_7": 37,
+            "Level_8": 38,
+            "Level_9": 39,
+            "Level_10": 40,
+            "Level_11": 40,
+            "Level_12": 40,
+            "Level_13": 40,
+            "Level_14": 40,
+            "Level_15": 40
+        }
+    ]
+}
