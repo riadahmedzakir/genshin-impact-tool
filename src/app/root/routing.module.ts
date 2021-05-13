@@ -42,6 +42,10 @@ const routes: Routes = [
     {
         path: 'polearm',
         loadChildren: () => import('../weapon/weapon.module').then(m => m.WeaponModule)
+    },
+    {
+        path: '**',
+        redirectTo: '/404'
     }
 ];
 
