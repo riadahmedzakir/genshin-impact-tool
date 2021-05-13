@@ -7,6 +7,7 @@ import { forEach as _forEach } from 'lodash';
 import { first } from 'rxjs/operators';
 
 import { INavigation, navigations } from '../../navigation';
+import { AnalyticsService } from '../../services/analytics.service';
 
 @Component({
   selector: 'app-root-default',
@@ -22,8 +23,10 @@ export class RootDefaultComponent implements OnInit {
 
   constructor(
     private router: Router,
-    private mediaObserver: MediaObserver
+    private mediaObserver: MediaObserver,
+    private analyticsService: AnalyticsService
   ) {
+    // tslint:disable-next-line: deprecation
     this.mediaObserver.media$.subscribe((change: MediaChange) => {
       if (change.mqAlias === 'xs' || change.mqAlias === 'sm') {
         this.sideNavMode = 'over';
@@ -36,6 +39,7 @@ export class RootDefaultComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.analyticsService.trackPage({ title: 'Genshin Impact Tool' });
   }
 
   onNavigation(selectedNavigation: INavigation): void {
