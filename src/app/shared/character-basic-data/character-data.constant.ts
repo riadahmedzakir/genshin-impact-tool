@@ -341,5 +341,16 @@ export const CharacterData: ICharacterData[] = [
         Element: 'Pyro',
         Constellation: 'Bestia Iustitia',
         Rarity: 4
+    },
+    {
+        Name: 'Eula',
+        img: 'eula',
+        Title: 'Spindrift Knight',
+        Allegiance: 'Knights of Favonius',
+        WeaponType: 'Claymore',
+        Birthday: '18 May',
+        Element: 'Cryo',
+        Constellation: 'Aphros Delos',
+        Rarity: 5
     }
 ];
