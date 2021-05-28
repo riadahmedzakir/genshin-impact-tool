@@ -1,0 +1,519 @@
+{
+    "Name": "Eula",
+    "FullName": "Eula Lawrence",
+    "Sex": "Female",
+    "Weapon": "Claymore",
+    "Element": "Cryo",
+    "Birthday": "October 25th",
+    "Constellation": "Aphros Delos",
+    "Nation": "Mondstadt",
+    "Affiliation": "Knights of Favonius, Lawrence Clan",
+    "SpecialDish": "Stormcrest Pie",
+    "Titles": "Dance of the Shimmering Wave, Spindrift Knight, Captain of the Knights of Favonius Reconnaissance Company",
+    "Intro": "A descendant of the infamous and tyrannical Lawrence Clan and niece of Schubert, Eula is the captain of the Reconnaissance Company with the Knights of Favonius. \n",
+    "Introduction": "A rebellious descendant of the old aristocracy who is always out on the battlefield.As one born into the old aristocracy, carrying the bloodline of sinners, Eula has needed a unique approach to the world to navigate the towering walls of prejudice peacefully. Of course, this did not prevent her from severing ties with her clan. As the outstanding Spindrift Knight, she hunts down Mondstadt's enemies in the wild to exact her unique \"vengeance.\"",
+    "Personality": [
+        "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+        "Eula is a descendant of Mondstadt's old aristocracy, being from the now-overthrown Lawrence Clan infamous for their tyrannical rule over Mondstadt. She dislikes people who view her similarly to the rest of her clan due to this mistrust, which has not been forgotten. She has a habit of declaring and getting \"vengeance\" against her enemies to redeem her family name.",
+        "Eula is one of the few Lawrence Clan nobles who realize that their actions against the people of Mondstadt were unjustified, rather than the other way around. As a young child, she was forced by her family to learn noble etiquette as part of an educational regime so harsh that it is considered borderline abusive. Although Eula considers most of her clan's customs despicable, she personally enjoys the traditional \"Dance of Sacrifice\" and incorporates it into her style of \"Favonius Bladework.\"She has a strained relationship with her family, who denounce her as a traitor for leaving the clan. She has stated that she would not hesitate to destroy her own family if they endangered Mondstadt, even finding it fitting. While she still tends to act like a clan noble on the outside, inside she is actually a kind-hearted person, echoed by both Amber and Sara.",
+        "Despite her family's infamous history, her acquaintances consider her a reliable ally and friend[10] with a unique sense of humor[11], and they have grown to understand that her controversial statements are but a product of her personality.[10] The Knights under her command also support her unconditionally.",
+        "She is good friends with Yanfei after saving her from the Abyss Order, who compares her similarly in the way that they're both not bound by convention and solve problems their own way.[13]",
+        "Possibly in part due to her Cryo Vision, Eula loves the cool and cold, such as ice-cold drinks which she drinks all-year round, something which is considered rare for a Mondstadter."
+    ],
+    "Appearance": [
+        "Eula is an elegant woman with pale skin and purple-yellow eyes. She has light blue hair that is longer on the left side of her face and bangs reaching her eyebrows. Above her bangs, Eula wears a black headband and a hairpin to her left. She wears a blue cape, with her Cryo Vision pinned to it, that glows when she uses her Cryo abilities.",
+        "Her outfit consist of a black leotard which has a silver symbol of her clan at the sides of the bottom and the back cut out, with the center translucent and the upper body and sleeves, which ruffles out into blue, colored white, which have the sides of the shoulders cut out, held by a belt hung below her breasts.",
+        "Additionally she wears a blue tie, a pair of black gloves, which are colored blue at the palm area, and blue stockings with black, highlighted with silver, thigh-high boots which have an additional strap, silver heels with spurs, and blue soles."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Favonius Bladework - Edel",
+            "Description": [
+                "Normal Attack: Perform up to five consecutive strikes.",
+                "Charged Attack: Drains Stamina over time to perform continuous slashes. At the end of the sequence, perform a more powerful slash.",
+                "Plunging Attack: Plunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Icetide Vortex",
+            "Description": [
+                "Sharp frost, swift blade.",
+                "Press: Slashes swiftly, dealing Cryo DMG. When it hits an opponent, Eula gains a stack of Grimheart that stacks up to two times. These stats can only be gained once every 0.3s.",
+                "Grimheart: Increases Eula's resistance to interruption and DEF.",
+                "Hold: Wielding her sword, Eula consumes all the stacks of Grimheart and lashes forward, dealing AoE Cryo DMG to opponents in front of her.",
+                "If Grimheart stacks are consumed, surrounding opponents will have their Physical RES and Cryo RES decreased.",
+                "Each consumed stack of Grimheart will be converted into an Icewhirl Brand that deals Cryo DMG to nearby opponents."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Glacial Illumination",
+            "Description": [
+                "Brandishes her greatsword, dealing Cryo DMG to nearby opponents and creating a Lightfall Sword that follows her around for a duration of up to 7s.",
+                "While present, the Lightfall Sword increases Eula's resistance to interruption. When Eula's own Normal Attack, Elemental Skill, and Elemental Burst deal DMG to opponents, they will charge the Lightfall Sword, which can gain an energy stack once every 0.1s.",
+                "Once its duration ends, the Lightfall Sword will descend and explode violently, dealing Physical DMG to nearby opponents.",
+                "This DMG scales on the number of energy stacks the Lightfall Sword has accumulated. ",
+                "If Eula leaves the field, the Lightfall Sword will immediately explode."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Roiling Rime",
+            "Description": [
+                "If 2 stacks of Grimheart are consumed upon unleashing the Holding Mode of Icetide Vortex, a Shattered Lightfall Sword will be created that will explode immediately, dealing 50% of the basic Physical DMG dealt by a Lightfall Sword created by Glacial Illumination."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Wellspring of War-Lust",
+            "Description": [
+                "When Glacial Illumination is cast, the CD of Icetide Vortex is reset and Eula gains 1 stack of Grimheart."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Aristocratic Introspection",
+            "Description": [
+                "When Eula crafts Character Talent Materials, she has a 10% chance to receive double the product."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Resistance",
+        "CommonCharacterAscensionMaterial": "Mask",
+        "TalentBoss": "Azhdaha",
+        "TalentMaterial": "Item_2",
+        "LocalMaterial": "Item_4",
+        "ElementalStone": "Item_7"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1030,
+            "ATK": 27,
+            "DEF": 58,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2671,
+            "ATK": 69,
+            "DEF": 152,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3554,
+            "ATK": 92,
+            "DEF": 202,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5317,
+            "ATK": 138,
+            "DEF": 302,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5944,
+            "ATK": 154,
+            "DEF": 337,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6839,
+            "ATK": 177,
+            "DEF": 388,
+            "ExtraStatsValue": 9.6
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7675,
+            "ATK": 199,
+            "DEF": 436,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8579,
+            "ATK": 222,
+            "DEF": 487,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9207,
+            "ATK": 238,
+            "DEF": 523,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10119,
+            "ATK": 262,
+            "DEF": 574,
+            "ExtraStatsValue": 19.2
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10746,
+            "ATK": 278,
+            "DEF": 610,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11669,
+            "ATK": 302,
+            "DEF": 662,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12296,
+            "ATK": 318,
+            "DEF": 698,
+            "ExtraStatsValue": 38.4
+        },
+        {
+            "LEVEL": 90,
+            "HP": 13226,
+            "ATK": 342,
+            "DEF": 751,
+            "ExtraStatsValue": 38.4
+        }
+    ],
+    "ExtraStats": "CRIT DMG",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Tidal Illusion",
+            "Details": [
+                "Every time Icetide Vortex's Grimheart stacks are consumed, Eula's Physical DMG is increased by 30% for 6s. Each stack consumed will increase the duration of this effect by 6s up to a maximum of 18s."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Lady of Seafoam",
+            "Details": [
+                "Decreases the CD of Icetide Vortex's Holding Mode, rendering it identical to Tapping CD."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Lawrence Pedigree",
+            "Details": [
+                "Increases the Level of Glacial Illumination by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "The Obstinacy of One's Inferiors",
+            "Details": [
+                "Lightfall Swords deal 25% increased DMG against opponents with less than 50% HP."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Chivalric Quality",
+            "Details": [
+                "Increases the Level of Icetide Vortex by 3. Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Noble Obligation",
+            "Details": [
+                "Lightfall Swords created by Glacial Illumination start with 5 stacks of energy. Normal Attacks, Elemental Skills, and Elemental Bursts have a 50% chance to grant the Lightning Sword an additional stack of energy."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 89.7,
+            "Level_2": 97,
+            "Level_3": 104.3,
+            "Level_4": 114.8,
+            "Level_5": 122.1,
+            "Level_6": 130.4,
+            "Level_7": 141.9,
+            "Level_8": 153.4,
+            "Level_9": 164.9,
+            "Level_10": 177.4,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 93.6,
+            "Level_2": 101.2,
+            "Level_3": 108.8,
+            "Level_4": 119.7,
+            "Level_5": 127.3,
+            "Level_6": 136,
+            "Level_7": 147.9,
+            "Level_8": 159.9,
+            "Level_9": 171.9,
+            "Level_10": 184.9,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "3-Hit DMG% (x2)",
+            "Level_1": 56.8,
+            "Level_2": 61.4,
+            "Level_3": 66,
+            "Level_4": 72.6,
+            "Level_5": 77.3,
+            "Level_6": 82.6,
+            "Level_7": 89.8,
+            "Level_8": 97.1,
+            "Level_9": 104.4,
+            "Level_10": 112.3,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 112.6,
+            "Level_2": 121.8,
+            "Level_3": 131,
+            "Level_4": 144.1,
+            "Level_5": 153.2,
+            "Level_6": 163.7,
+            "Level_7": 178.1,
+            "Level_8": 192.5,
+            "Level_9": 206.9,
+            "Level_10": 222.7,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "5-Hit DMG% (x2)",
+            "Level_1": 71.8,
+            "Level_2": 77.7,
+            "Level_3": 83.5,
+            "Level_4": 91.9,
+            "Level_5": 97.7,
+            "Level_6": 104.4,
+            "Level_7": 113.6,
+            "Level_8": 122.8,
+            "Level_9": 132,
+            "Level_10": 142,
+            "Level_11": 0
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Spinning DMG%",
+            "Level_1": 68.8,
+            "Level_2": 74.4,
+            "Level_3": 80,
+            "Level_4": 88,
+            "Level_5": 93.6,
+            "Level_6": 100,
+            "Level_7": 108.8,
+            "Level_8": 117.6,
+            "Level_9": 126.4,
+            "Level_10": 136,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Spinning Final DMG%",
+            "Level_1": 124,
+            "Level_2": 135,
+            "Level_3": 145,
+            "Level_4": 159,
+            "Level_5": 169,
+            "Level_6": 181,
+            "Level_7": 197,
+            "Level_8": 213,
+            "Level_9": 229,
+            "Level_10": 246,
+            "Level_11": 0
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "Plunge DMG%",
+            "Level_1": 74.6,
+            "Level_2": 80.7,
+            "Level_3": 86.7,
+            "Level_4": 95.4,
+            "Level_5": 101.5,
+            "Level_6": 108.4,
+            "Level_7": 118,
+            "Level_8": 127.5,
+            "Level_9": 137,
+            "Level_10": 147.4,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "Low Plunge DMG%",
+            "Level_1": 149,
+            "Level_2": 161,
+            "Level_3": 173,
+            "Level_4": 191,
+            "Level_5": 203,
+            "Level_6": 217,
+            "Level_7": 236,
+            "Level_8": 255,
+            "Level_9": 274,
+            "Level_10": 295,
+            "Level_11": 0
+        },
+        {
+            "HitCount": "High Plunge DMG%",
+            "Level_1": 186,
+            "Level_2": 201,
+            "Level_3": 217,
+            "Level_4": 238,
+            "Level_5": 253,
+            "Level_6": 271,
+            "Level_7": 295,
+            "Level_8": 318,
+            "Level_9": 342,
+            "Level_10": 368,
+            "Level_11": 0
+        }
+    ],
+    "ChargedAttackStaminaCost": "40/s",
+    "ChargedAttackMaxDuration": "5s",
+    "ElementalSkill": [
+        {
+            "HitCount": "Tap DMG%",
+            "Level_1": 146,
+            "Level_2": 157,
+            "Level_3": 168,
+            "Level_4": 183,
+            "Level_5": 194,
+            "Level_6": 205,
+            "Level_7": 220,
+            "Level_8": 234,
+            "Level_9": 249,
+            "Level_10": 264,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        },
+        {
+            "HitCount": "Hold DMG%",
+            "Level_1": 246,
+            "Level_2": 264,
+            "Level_3": 282,
+            "Level_4": 307,
+            "Level_5": 325,
+            "Level_6": 344,
+            "Level_7": 368,
+            "Level_8": 393,
+            "Level_9": 418,
+            "Level_10": 442,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        },
+        {
+            "HitCount": "Icewhirl Brand DMG&nbsp;%",
+            "Level_1": 96,
+            "Level_2": 103,
+            "Level_3": 110,
+            "Level_4": 120,
+            "Level_5": 127,
+            "Level_6": 134,
+            "Level_7": 144,
+            "Level_8": 154,
+            "Level_9": 163,
+            "Level_10": 173,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        },
+        {
+            "HitCount": "Physical RES Decrease",
+            "Level_1": 16,
+            "Level_2": 17,
+            "Level_3": 18,
+            "Level_4": 19,
+            "Level_5": 20,
+            "Level_6": 21,
+            "Level_7": 22,
+            "Level_8": 23,
+            "Level_9": 24,
+            "Level_10": 25,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        },
+        {
+            "HitCount": "Cryo RES Decrease",
+            "Level_1": 16,
+            "Level_2": 17,
+            "Level_3": 18,
+            "Level_4": 19,
+            "Level_5": 20,
+            "Level_6": 21,
+            "Level_7": 22,
+            "Level_8": 23,
+            "Level_9": 24,
+            "Level_10": 25,
+            "Level_11": 0,
+            "Level_12": 0,
+            "Level_13": 0
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Skill DMG",
+            "Level_1": 245.6,
+            "Level_2": 264.02,
+            "Level_3": 282.44,
+            "Level_4": 307,
+            "Level_5": 325.42,
+            "Level_6": 343.84,
+            "Level_7": 368.4,
+            "Level_8": 392.96,
+            "Level_9": 417.52,
+            "Level_10": 442.08,
+            "Level_11": 466.64,
+            "Level_12": 491.2,
+            "Level_13": 521.9,
+            "Level_14": 552.6,
+            "Level_15": 583.3,
+            "Level_16": 0
+        },
+        {
+            "HitCount": "Lightfall Sword Base DMG",
+            "Level_1": 367.05,
+            "Level_2": 396.92,
+            "Level_3": 426.8,
+            "Level_4": 469.48,
+            "Level_5": 499.36,
+            "Level_6": 533.5,
+            "Level_7": 580.45,
+            "Level_8": 627.4,
+            "Level_9": 674.34,
+            "Level_10": 725.56,
+            "Level_11": 784.25,
+            "Level_12": 853.26,
+            "Level_13": 922.27,
+            "Level_14": 991.29,
+            "Level_15": 1066.57,
+            "Level_16": 0
+        },
+        {
+            "HitCount": "DMG Per Stack",
+            "Level_1": 74.99,
+            "Level_2": 81.1,
+            "Level_3": 87.2,
+            "Level_4": 95.92,
+            "Level_5": 102.02,
+            "Level_6": 109,
+            "Level_7": 118.59,
+            "Level_8": 128.18,
+            "Level_9": 137.78,
+            "Level_10": 148.24,
+            "Level_11": 160.23,
+            "Level_12": 174.33,
+            "Level_13": 188.43,
+            "Level_14": 202.53,
+            "Level_15": 217.91,
+            "Level_16": 0
+        }
+    ]
+}
