@@ -1,0 +1,16 @@
+{
+    "baseUrl": "http://localhost:8080",
+    "integrationFolder": "cypress/integration/pages",
+    "testFiles": [
+        "**/*.spec.ts"
+    ],
+    "viewportHeight": 1024,
+    "viewportWidth": 1920,
+    "video": false,
+    "reporter": "../node_modules/mochawesome/src/mochawesome.js",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": false,
+        "json": true
+    }
+}
