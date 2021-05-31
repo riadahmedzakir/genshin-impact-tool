@@ -2,13 +2,13 @@
     <mat-toolbar fxFlex="100" fxHide.lt-md>
         <div fxFlex="40" fxLayout="row" fxLayoutAlign="start center">
             <button class="element-button" mat-icon-button *ngFor="let class of weaponClass"
-                (click)="filterWeapon(class)">
+                (click)="filterWeapon(class)" ngClass="{{class}}">
                 <img src="assets/weapon-class/{{class}}.png" alt="">
             </button>
         </div>
 
         <div fxFlex="20" fxLayout="row" fxLayoutAlign="center center">
-            <button class="element-button" color="warn" mat-icon-button (click)="reset()">
+            <button class="element-button reset" color="warn" mat-icon-button (click)="reset()">
                 <mat-icon class="material-icons-outlined">
                     refresh
                 </mat-icon>
@@ -17,7 +17,7 @@
 
         <div fxFlex="40" fxLayout="row" fxLayoutAlign="end center">
             <button class="element-button" mat-icon-button *ngFor="let element of elements"
-                (click)="filterElement(element)">
+                (click)="filterElement(element)" ngClass={{element}}>
                 <img src="assets/element-logo/{{element}}.png" alt="">
             </button>
         </div>
@@ -35,7 +35,7 @@
     <mat-toolbar fxHide.md fxHide.gt-md fxShow.lt-md>
         <div fxFlex="100" fxLayout="row" fxLayoutAlign="space-between center">
             <button class="element-button" mat-icon-button *ngFor="let element of elements"
-                (click)="filterElement(element)">
+                (click)="filterElement(element)" ngClass={{element}}>
                 <img src="assets/element-logo/{{element}}.png" alt="">
             </button>
         </div>
