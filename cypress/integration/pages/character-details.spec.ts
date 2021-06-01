@@ -29,7 +29,6 @@ describe('Details page', () => {
                     expect(elements).to.have.length(14);
 
                     _forEach(elements, element => {
-                        debugger;
                         _forEach(element.children, (child, childIndex) => {
                             if (childIndex === 0) {
                                 expect(child.innerHTML).to.have.length.greaterThan(0);
@@ -37,7 +36,6 @@ describe('Details page', () => {
                                 const htmlText = (child.innerHTML) ? child.innerHTML.replace(/<[^>]+>/g, '').trim() : undefined;
                                 const value = parseInt(htmlText);
                                 const isTrue = (value >= 0) ? true : false;
-                                debugger;
                                 expect(isTrue).to.be.true;
                             }
                         });
