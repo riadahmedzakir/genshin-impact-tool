@@ -1,0 +1,91 @@
+<div>
+    <div class="agenda" fxLayout="row" fxLayoutAlign="space-between center">
+        <div fxFlex="50" fxLayout="column">
+            <h1>Agenda</h1>
+            <p>
+                The project was inspired by my Experience of inconvenience playing this game. But build something adds
+                no value to life. Instead of build just another tool, the idea is to create a tool that
+                is useful, unique and in the process introduce me with new technology.
+            </p>
+            <p>
+                While building the project itself is fun, I'll not be focusing on the idea of the project itself, but
+                will focus on the new technology i can
+                implement bits by bits here and there in the project.
+            </p>
+            <p>
+                That being said, why not make a list of things i want to do in this project.
+            </p>
+            <!-- <p>
+                The main idea of this project is to main a databse of Genshin impact, That includes Character data,
+                weapon data, resource data.
+            </p>
+
+            <p>
+                Initially I have extracted the charater data. Weapon and resources are in progress.
+            </p> -->
+        </div>
+        <div class="agenda-image" fxFlex="50">
+        </div>
+    </div>
+
+    <div fxLayout="column" class="learning-goals">
+        <div>
+            <h1>
+                Learning goals
+            </h1>
+            <h2>Things i want to learn by the time i finish thie project</h2>
+        </div>
+
+        <div fxLayout="row wrap" fxLayoutGap="20px">
+            <div class="learning-goals-theme" *ngFor="let item of learningGoalList"
+                style="background-color: {{item.color}}" fxFlex="31" fxLayout="column" fxLayoutAlign="center center">
+                <mat-icon>{{item.Icon}}</mat-icon>
+                <p>{{item.Title}}</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="character-builder-plan" fxLayout="row" fxLayoutAlign="space-between center">
+        <div class="character-builder-plan-header" fxFlex="40" fxLayout="column" fxLayoutAlign="center center">
+            <h1>Character builder</h1>
+            <img src="assets/data-visual.jpg" alt="">
+        </div>
+
+        <div fxFlex="60">
+            <p>Future plan for character builder. (Main focus of the project)</p>
+            <ul>
+                <li>Players can select a weapon for specific character. A datasheet will show calulated stats scaling
+                    for each level.</li>
+                <li>Players can select a artifact for specific character. A datasheet will show calulated stats scaling
+                    for each level.</li>
+                <li>Stats scaling for level and ascension.</li>
+                <li>Potential damage graph.</li>
+                <li>Reaction calculation and damage graph scaling with each type of reaction.</li>
+                <li>Show farming route and date in calendar view. (Character ascension, talent ascension and selected
+                    weapon ascension.)</li>
+                <li>(Maybe) Show common and local material routes.</li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div class="future-total-plan" fxLayout="row" fxLayoutAlign="space-between center">
+        <div fxFlex="60">
+            <h1>Features to introduce</h1>
+            <ul>
+                <li>
+                    Character comparison
+                    <ul>
+                        <li>Basic comparison of multiple characters without any weapon, artifacts or
+                            buffs.</li>
+                        <li>Character build comparison.</li>
+                    </ul>
+                </li>
+                <li>Weapon comparison.</li>
+                <li>Artifact builder.</li>
+                <li>Build comparsion backup. (Introducing databse, rest-api and a login/registration system)</li>
+            </ul>
+        </div>
+        <div class="future-plan-image" fxFlex="40"></div>
+    </div>
+</div>

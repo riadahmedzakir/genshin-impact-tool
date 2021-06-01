@@ -1,0 +1,113 @@
+.agenda {
+    color: #ffffff;
+    background-color: #3c065e;
+    height: 500px;
+    padding: 40px;
+
+    h1 {
+        font-weight: bold;
+        font-size: 32px;
+        text-align: center;
+    }
+
+    p {
+        font-size: 18px;
+        font-style: i;
+    }
+
+    .agenda-image {
+        background-image: url(./../../../assets/laptop-code.png);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    img {
+        height: 400px;
+        object-fit: contain;
+    }
+}
+
+.learning-goals {
+    padding: 40px;
+    background-color: #ffffff;
+
+    h1 {
+        font-weight: bold;
+        font-size: 32px;
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+
+    .learning-goals-theme {
+        margin-bottom: 20px;
+        position: relative;
+        height: 200px;
+        box-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%),
+            0px 1px 3px 0px rgb(0 0 0 / 12%);
+        border-radius: 10px;
+
+        p {
+            width: 100%;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        mat-icon {
+            color: #ffffff;
+            font-size: 50px;
+            position: absolute;
+            top: 50px;
+            left: 45%;
+        }
+    }
+}
+
+.character-builder-plan {
+    color: #ffffff;
+    background-color: #3c065e;
+
+    .character-builder-plan-header {
+        padding: 40px;
+        h1 {
+            font-size: 36px;
+            font-weight: bold;
+        }
+
+        img {
+            height: 300px;
+            width: 500px;
+        }
+    }
+
+    p {
+        font-size: 24px;
+    }
+    li {
+        font-size: 16px;
+    }
+}
+
+.future-total-plan {
+    height: 500px;
+    padding: 40px;
+    background-color: #ffffff;
+
+    h1 {
+        font-size: 32px;
+        font-weight: bold;
+    }
+
+    li {
+        font-size: 16px;
+    }
+
+    .future-plan-image {
+        background-image: url(./../../../assets/design-list.jpg);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+}

@@ -44,6 +44,10 @@ const routes: Routes = [
         loadChildren: () => import('../weapon/weapon.module').then(m => m.WeaponModule)
     },
     {
+        path: 'future-plans',
+        loadChildren: () => import('../future-plans/future-plans.module').then(m => m.FuturePlansModule)
+    },
+    {
         path: '**',
         redirectTo: '/404'
     }

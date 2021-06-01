@@ -1,8 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: "GenshinToolsFont";
+    src: url("assets/fonts/Cabin-Regular.ttf");
+}
 
 html,
 body {
     height: 100%;
+    font-family: "GenshinToolsFont" !important;
 }
 body {
     margin: 0;

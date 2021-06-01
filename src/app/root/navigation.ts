@@ -81,9 +81,9 @@ export const navigations: INavigation[] = [
         ]
     },
     {
-        id: 'recepie',
-        title: 'Recepie',
-        url: '/recepie',
+        id: 'future-plans',
+        title: 'Future plans',
+        url: '/future-plans',
         icon: 'menu_book',
         isParent: true,
         showChild: false,
