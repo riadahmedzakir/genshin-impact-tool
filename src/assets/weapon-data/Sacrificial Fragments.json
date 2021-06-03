@@ -1,0 +1,158 @@
+{
+    "Name": "Sacrificial Fragments",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 48
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 56
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 65
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 75
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 85
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 85
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 95
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 104
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 114
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 124
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 124
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 133
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 143
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 143
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 153
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 162
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 162
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 172
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 182
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 182
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 191
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 201
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 201
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 211
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 221
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s."
+        }
+    ],
+    "Story": "In the early days, the people of Mondstadt had a tradition of building theaters on top of windy cliffs to please the gods.Rituals took the form of performances, for they believed the gods enjoyed stories and ballads.This script is millennia old, and is no longer legible.Long ago, a war waged between the Lord of Storm and the Great Wolf King of the North. Mondstadt was engulfed in blizzards, and the snow stung like sand.A group who could bear the cold no longer built a shrine high on a clifftop in the east. There, they prayed for divine mercy and protection.The wind blows for a moment, but the ravages of time are constant, unrelenting and irreversible.A god of the winds may move between the pages of a book, but in the end the merciless god of time will eat away at them until not a single legible word remains.Yet, time's assault and that of the wind often take their toll the same upon the heart.Perhaps that is why later generations presumed the shrine to have always been to the wind, and the wind alone."
+}

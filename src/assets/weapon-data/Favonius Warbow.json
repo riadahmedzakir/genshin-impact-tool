@@ -1,0 +1,158 @@
+{
+    "Name": "Favonius Warbow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 13.3
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 20.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 28.9
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 31.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 37
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 42.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 47.8
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 53.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 58.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 61.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s."
+        }
+    ],
+    "Story": "A standard recurve bow wielded by the Knights of Favonius. Only issued to the best archers long in service of the order.Expertly crafted, the oak frame provides superior strength while the addition of metal parts makes it easy to use.The bowstring is enchanted with the secrets of alchemy and magic, granting protection to the fingers of the archer.This bow serves as a reward to worthy guardians of Mondstadt, and a fine tool with which for them to continue in their guardianship.The Knights of Favonius once had a formidable team of archer scouts known as the Outriders.The team was founded by a mercenary leader from Liyue, who passed on his lifetime's worth of knowledge to the Outriders.The tracking skills they acquired, along with the ability to sense when danger was afoot, were unique among all the knights.Hence, the skills of the Outriders were invaluable to the Knights of Favonius.This lasted until the first of the Outriders, for reasons unknown to the Knights, ultimately left the order.From that day, the Outrider team was a shell of its former self. Its expertise was gone, though its structure and name have been preserved.Nevertheless, there are still those who work tirelessly to maintain the dignity of the Outrider title."
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Amos' Bow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 46,
+            "SubStats": 10.8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 12.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 82,
+            "SubStats": 14.7
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 102,
+            "SubStats": 16.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 122,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 153,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 173,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 194,
+            "SubStats": 23.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 214,
+            "SubStats": 25.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 235,
+            "SubStats": 27.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 266,
+            "SubStats": 27.8
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 287,
+            "SubStats": 30
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 308,
+            "SubStats": 32.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 340,
+            "SubStats": 32.2
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 361,
+            "SubStats": 34.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 382,
+            "SubStats": 36.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 414,
+            "SubStats": 36.5
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 435,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 457,
+            "SubStats": 40.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 488,
+            "SubStats": 40.9
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 510,
+            "SubStats": 43.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 532,
+            "SubStats": 45.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 563,
+            "SubStats": 45.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 586,
+            "SubStats": 47.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 608,
+            "SubStats": 49.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases Normal and Charged Attack DMG by 12%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 8% every 0.1s the arrow is in the air for up to 5 times."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases Normal and Charged Attack DMG by 15%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 10% every 0.1s the arrow is in the air for up to 5 times."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases Normal and Charged Attack DMG by 18%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 12% every 0.1s the arrow is in the air for up to 5 times."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases Normal and Charged Attack DMG by 21%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 14% every 0.1s the arrow is in the air for up to 5 times."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases Normal and Charged Attack DMG by 24%. After a Normal or Charged Attack is fired, DMG dealt increases by a further 16% every 0.1s the arrow is in the air for up to 5 times."
+        }
+    ],
+    "Story": "In a barren ancient time, when the now-verdant land was still but a wasteland,A maiden, barefoot in the snow, followed the footsteps of the Lord of the Tower.He once was her love, but the unforgiving winds could never understand the softness of mortal flesh.He once was her foe, but her hunt was for more than simple vengeance.\"I dreamt of ocean waves and sand, of lush forests and land.\"\"I dreamt of boars playing in berry bushes, of a towering spire.\"These words she spoke to the God King in a soft tone, but they were left unheard.Awoken from blind love, she realized she was the only one who spoke with sincerity.For he spoke of love, but was only accompanied by razor winds.He looked down at the bent backs of his subjects in the howling wind,Believing it to be a sign of their adoration and unwavering obedience.It was the era when the Tyrant of the North Wind warred with the Lord of the Tower.The huntress thought herself loved by the slavemaster.At the end of the war, and when the wind of resistance first blew,In the company of a nameless young man, elf, and knight,She scaled the towering spire and challenged the eccentric Lord.\"Finally, I shall hold his gaze.\"But it was not until the moment when her arrow flew toward him,And when the piercing wind was about to rip her asunder,That she finally realized their distance apart."
+}

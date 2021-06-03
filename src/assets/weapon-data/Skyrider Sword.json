@@ -1,0 +1,158 @@
+{
+    "Name": "Skyrider Sword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 38,
+            "SubStats": 11.3
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 48,
+            "SubStats": 13.2
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 61,
+            "SubStats": 15.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 73,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 86,
+            "SubStats": 20
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 105,
+            "SubStats": 20
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 117,
+            "SubStats": 22.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 129,
+            "SubStats": 24.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 140,
+            "SubStats": 26.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 29.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 171,
+            "SubStats": 29.2
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 182,
+            "SubStats": 31.5
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 193,
+            "SubStats": 33.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 212,
+            "SubStats": 33.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 223,
+            "SubStats": 36.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 234,
+            "SubStats": 38.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 253,
+            "SubStats": 38.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 264,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 274,
+            "SubStats": 42.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 294,
+            "SubStats": 42.9
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 304,
+            "SubStats": 45.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 314,
+            "SubStats": 47.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 334,
+            "SubStats": 47.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 344,
+            "SubStats": 49.8
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 354,
+            "SubStats": 52.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Aerosiderite",
+        "CommonCharacterAscensionMaterial": "BoneShard",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Using an Elemental Burst grants a 12% increase in ATK and Movement SPD for 15s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Using an Elemental Burst grants a 15% increase in ATK and Movement SPD for 15s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Using an Elemental Burst grants a 18% increase in ATK and Movement SPD for 15s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Using an Elemental Burst grants a 21% increase in ATK and Movement SPD for 15s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Using an Elemental Burst grants a 24% increase in ATK and Movement SPD for 15s."
+        }
+    ],
+    "Story": "Leap, the master swordsman Skyrider did, from the heights of Jueyun Karst.He pierced the clouds as the winds hollered by his ears,But what followed was the sound of bones shattering.What he had hoped for was something swordsmanship could not bring him.He pawned the sword for medicine,But die it did not, his dream of flight."
+}

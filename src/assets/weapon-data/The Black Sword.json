@@ -1,0 +1,158 @@
+{
+    "Name": "The Black Sword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG dealt by Normal and Charged Attacks by 20%. Additionally, regenerates 60% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG dealt by Normal and Charged Attacks by 25%. Additionally, regenerates 70% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG dealt by Normal and Charged Attacks by 30%. Additionally, regenerates 80% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG dealt by Normal and Charged Attacks by 35%. Additionally, regenerates 90% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG dealt by Normal and Charged Attacks by 40%. Additionally, regenerates 100% of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s."
+        }
+    ],
+    "Story": "A blade that thirsts after fresh blood will be awakened by its scent.Those who possess, wield, and nourish it will keep killing.Till even a pure soul is blackened by bloodshed...There once was a bright white knight, who longed ever for the path of justice.Clad in burnished armor, a mirror-sheen sword hung from his hip.Wherever there was injustice, man-eating beast, or fire in the distance,The Knight would ride up in haste, to cut, slash, and pierce.Following the teachings of the Wolf Pup, who taught him chivalry, justice and swordsmanship,He cut, slashed, and pierced them from head to toe...Till justice had run its course, and the monster moved no more.\"I began to lose myself in cutting, slashing, and piercing.\"\"When my blade's edge met my foe's flesh, it sent a tingle up my spine.\"\"Ah. This must be the feeling of justice getting its dues.\"\"As long as I cut, slash, and pierce the evil in this twisted world,\"\"Someday, someday, it shall all be cleansed.\"\"O, foolish knight, slaughter in the name of justice is slaughter still.\"\"Nay. Slaughter in the name of justice is justice.\"Cut. Slash. Pierce. Thus will you see justice done!Though the white flowers the maidens offer you should be bloodied black, though your sword should no longer gleam bright,Though your fair countenance should turn hideous, and you should be forced to don an iron mask,Though those you defend cannot understand you, cease never!And so, the black-stained knight persisted on his path, pursuing monsters in the name of justice,Until he came upon an ancient, ruined realm, where he discovered the ultimate injustice..."
+}

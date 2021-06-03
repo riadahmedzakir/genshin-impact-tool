@@ -1,0 +1,116 @@
+{
+    "Name": "Compound Bow",
+    "Stats": [],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "",
+        "CommonCharacterAscensionMaterial": "",
+        "CommonWeaponAscensionMaterial": ""
+    },
+    "Refine": [
+        {
+            "Level": "Level",
+            "Description": "Base Atk"
+        },
+        {
+            "Level": "1",
+            "Description": "41"
+        },
+        {
+            "Level": "5",
+            "Description": "54"
+        },
+        {
+            "Level": "10",
+            "Description": "69"
+        },
+        {
+            "Level": "15",
+            "Description": "84"
+        },
+        {
+            "Level": "20",
+            "Description": "99"
+        },
+        {
+            "Level": "20+",
+            "Description": "125"
+        },
+        {
+            "Level": "25",
+            "Description": "140"
+        },
+        {
+            "Level": "30",
+            "Description": "155"
+        },
+        {
+            "Level": "35",
+            "Description": "169"
+        },
+        {
+            "Level": "40",
+            "Description": "184"
+        },
+        {
+            "Level": "40+",
+            "Description": "210"
+        },
+        {
+            "Level": "45",
+            "Description": "224"
+        },
+        {
+            "Level": "50",
+            "Description": "238"
+        },
+        {
+            "Level": "50+",
+            "Description": "264"
+        },
+        {
+            "Level": "55",
+            "Description": "278"
+        },
+        {
+            "Level": "60",
+            "Description": "293"
+        },
+        {
+            "Level": "60+",
+            "Description": "319"
+        },
+        {
+            "Level": "65",
+            "Description": "333"
+        },
+        {
+            "Level": "70",
+            "Description": "347"
+        },
+        {
+            "Level": "70+",
+            "Description": "373"
+        },
+        {
+            "Level": "75",
+            "Description": "387"
+        },
+        {
+            "Level": "80",
+            "Description": "401"
+        },
+        {
+            "Level": "80+",
+            "Description": "427"
+        },
+        {
+            "Level": "85",
+            "Description": "440"
+        },
+        {
+            "Level": "90",
+            "Description": "454"
+        }
+    ],
+    "Story": " Refine Level 1Normal Attack and Charged Attack hits increase ATK by 4% and Normal ATK SPD by 1.2% for 6s. Max 4 stacks. Can only occur once every 0.3s."
+}

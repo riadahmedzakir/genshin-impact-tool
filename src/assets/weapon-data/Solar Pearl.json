@@ -1,0 +1,158 @@
+{
+    "Name": "Solar Pearl",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 20% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 20% for 6s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 25% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 25% for 6s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 30% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 30% for 6s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 35% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 35% for 6s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by 40% for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by 40% for 6s."
+        }
+    ],
+    "Story": "Rumored to be a legendary orb of Liyue.It once absorbed all the light in the world, but was kept inside a wooden box for millennia afterwards.Even so, its power has not dissipated. Now released from its container, it shines evermore.In the hands of a truly knowledgeable sage, perhaps its extraordinary power would finally be unleashed after lying dormant for millennia.A story that has long been popular with the jewelers of Liyue holds that the master craftsman Kunwu once took the light of the heavenly bodies and sealed it in a wooden box.Kunwu then buried that box deep inside a dark, rocky chamber, where it remained in pitch blackness for forty-nine days and twenty hours, till finally the pearl within had absorbed the shine of the sun and moon.A most bizarre tale indeed. And yet, to this day, many in Liyue hold steadfastly to their belief in the esoteric talents of the master craftsman Kunwu.Someone once plucked up the courage to ask the aging craftsman what his secret was. The eccentric old man laughed off the nonsensical notion of his mystical capabilities:\"Pfft! 'Twas purely the product of prolonged polishing!\"But his apprentice revealed a different story when asked about it in private: Just as Kunwu finished polishing the Solar Pearl, the splendor of the heavens shone down and a crimson moon filled the sky.But did this phenomenon mean that Kunwu had indeed received divine assistance in his craft? Or was it a measure of his own accomplishment that his lofty ambitions had sufficed to send waves through the firmament and even elicit a response from the heavenly bodies?"
+}

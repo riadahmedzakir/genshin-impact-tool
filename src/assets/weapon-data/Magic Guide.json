@@ -1,0 +1,158 @@
+{
+    "Name": "Magic Guide",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 38,
+            "SubStats": 41
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 48,
+            "SubStats": 47
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 61,
+            "SubStats": 56
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 73,
+            "SubStats": 64
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 86,
+            "SubStats": 72
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 105,
+            "SubStats": 72
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 117,
+            "SubStats": 80
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 129,
+            "SubStats": 89
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 140,
+            "SubStats": 97
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 105
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 171,
+            "SubStats": 105
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 182,
+            "SubStats": 113
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 193,
+            "SubStats": 122
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 212,
+            "SubStats": 122
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 223,
+            "SubStats": 130
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 234,
+            "SubStats": 138
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 253,
+            "SubStats": 138
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 264,
+            "SubStats": 146
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 274,
+            "SubStats": 154
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 294,
+            "SubStats": 154
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 304,
+            "SubStats": 163
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 314,
+            "SubStats": 171
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 334,
+            "SubStats": 171
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 344,
+            "SubStats": 179
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 354,
+            "SubStats": 187
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 12%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 15%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 18%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 21%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 24%."
+        }
+    ],
+    "Story": "This version of the Magic Guide generated much controversy when published.In addition to the defiance of basic common sense seen in Chapter VII: Principles of the Anemo Element,errors can also be observed even concerning the basic principles of the Hydro and Electro elements.Evidently, the book was not peer-reviewed before publishing.Nevertheless, the book is still the most authoritative guide to magic in existence."
+}

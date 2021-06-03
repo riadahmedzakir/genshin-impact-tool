@@ -1,0 +1,158 @@
+{
+    "Name": "Royal Bow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 9
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 10.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 12.3
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 19.5
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 25
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 28.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 32.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 35.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 39.5
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 41.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+        }
+    ],
+    "Story": "A longbow used by a noble who ruled over Mondstadt. It was crafted with premium materials and master craftsmanship.For that reason, generations later, it is still as powerful as ever.Hunting was once a pastime of the nobles.They demonstrated their strength in the natural world, and shared the spoils with the people in benevolence.Unfortunately, benevolence was lost, and with it, their reign.After the uprising, the Lawrence Clan that had long ruled Mondstadt was overthrown.In the name of benevolent governance, the newly established Knights of Favonius deemed that protracted investigations would be unnecessary.The Lawrence Clan was promptly cast out from Mondstadt, never to return.\"On the road bound to our exile, I watched my father sigh with grief: at the betrayal of the people, at the end of a glorious era, at the final chapter of history.\"\"We watched the people who were once our subjects rejoicing in the open country as we bid farewell to our homeland.\"\"Only years later did I realize: it was we, the Lawrence Clan, who had betrayed, who had ended a glorious era, and who had closed the history books. Only now was Mondstadt as it always should have been.\"Vennessa was but the final push that toppled a crumbling tower. Before her, the flames of fury already burned bright, and occasionally the flickering flames had shone through the thick smoke of secrecy:The phantom thief praised in secret by the people. The woman who could see death. The Wanderer's Troupe intent on revolution.The spirit of resistance is in Mondstadters' blood."
+}

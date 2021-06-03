@@ -1,0 +1,158 @@
+{
+    "Name": "The Alley Flash",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 45,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 14
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 84,
+            "SubStats": 16
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 106,
+            "SubStats": 19
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 128,
+            "SubStats": 21
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 154,
+            "SubStats": 21
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 177,
+            "SubStats": 24
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 200,
+            "SubStats": 26
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 224,
+            "SubStats": 28
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 247,
+            "SubStats": 31
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 273,
+            "SubStats": 31
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 297,
+            "SubStats": 33
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 321,
+            "SubStats": 36
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 347,
+            "SubStats": 36
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 371,
+            "SubStats": 38
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 395,
+            "SubStats": 41
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 421,
+            "SubStats": 41
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 445,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 470,
+            "SubStats": 45
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 496,
+            "SubStats": 45
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 520,
+            "SubStats": 48
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 545,
+            "SubStats": 50
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 571,
+            "SubStats": 50
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 595,
+            "SubStats": 53
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 620,
+            "SubStats": 55
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG dealt by the character equipping this weapon by 12%. Taking DMG disables this effect for 5s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG dealt by the character equipping this weapon by 15%. Taking DMG disables this effect for 5s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG dealt by the character equipping this weapon by 18%. Taking DMG disables this effect for 5s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG dealt by the character equipping this weapon by 21%. Taking DMG disables this effect for 5s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG dealt by the character equipping this weapon by 24%. Taking DMG disables this effect for 5s."
+        }
+    ],
+    "Story": "A mighty and noble longsword that bursts forth like a flash of light from the depths of the night.To the end, not even once was the sword's edge marred by blood.It is said that over the generations, many swords crafted for the noblest of knights have been based on this design.The darkened blade blended into the nights of yore with ease,For in those days, people feared to light fires in the nighttime.According the songs of some bards, it was stained black during the age of the aristocracy.Reading the tales and songs of his upright ancestors sowed seeds of rebellion in the young noble's heart.When the time came, he forsook his venerable house, stole this sword, and hid himself in the streets.There he roamed the dark alleys and taverns like the common folk, and put his noble swordsmanship to use by robbing the rich to give to the poor.Under cover of night, the sword from an opulent arsenal leaped across roofs and streets in the hands of one with equally noble blood.The blade's pristine edge remained unblemished, as did the heart of the gentleman thief who had forsaken his corrupt lineage.But wine and song and youth would fade, and many things would happen.In the end, when under moonlight he buried his beloved blade and fled across the sea,He remembered that night when he had stolen it from his family's vault,And he remembered his vow to his family, to past and present, to his land, and to his sworn brother Eberhart:\"Even if only by a little, I want to use my strength to turn this dark world around.\""
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Skyward Blade",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 46,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 82,
+            "SubStats": 16.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 102,
+            "SubStats": 18.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 122,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 153,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 173,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 194,
+            "SubStats": 26.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 214,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 235,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 266,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 287,
+            "SubStats": 33.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 308,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 340,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 361,
+            "SubStats": 38.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 382,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 414,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 435,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 457,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 488,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 510,
+            "SubStats": 47.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 532,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 563,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 586,
+            "SubStats": 52.7
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 608,
+            "SubStats": 55.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "CRIT Rate increased by 4%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 20% of ATK. Skypiercing Might lasts for 12s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "CRIT Rate increased by 5%, Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 25% of ATK. Skypiercing Might lasts for 12s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "CRIT Rate increased by 6%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 30% of ATK. Skypiercing Might lasts for 12s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "CRIT Rate increased by 7%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 35% of ATK. Skypiercing Might lasts for 12s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "CRIT Rate increased by 8%. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by 10%, increases ATK SPD by 10%, and Normal and Charged hits deal additional DMG equal to 40% of ATK. Skypiercing Might lasts for 12s."
+        }
+    ],
+    "Story": "The sky-piercing fang.It once pierced the black-gold scales of the kingdom of the abyss,and cut the throats of the sons of ancient sinners.Mondstadt was once threatened by the shadow dragon Durin.Its jealousy for Mondstadt's prosperity begot evil, poisoning the land.In those dark days, Mondstadt was surrounded by monsters and barren lands.Hearing the people's cry for help, the Anemo Archon descended and awoke Dvalin.Dvalin rode the wind and soared up to the sky, fighting for all life.Blessed by the Anemo Archon, Dvalin fought the shadow dragon.Clouds broke, and the sky burned red as if the end of days was upon Mondstadt.Eventually, Dvalin's blessed fangs pierced through the throat of Durin.Durin fell, but Dvalin was poisoned by Durin's tainted blood.Unable to bear the pain, Dvalin fell unconscious.Even the most learned bards knew not where he slumbered.Centuries passed, and Dvalin's sacrifice was all but forgotten by Mondstadt.When Dvalin finally awoke, gone was his friend and the sound of his comforting lyre.And the ones he once protected now cowered in fear at the sight of him.Honor reclaimed, poison cleansed,Ballads shall give back a people's forgotten memory.A prayer, this sword is. May Dvalin's name be restored."
+}

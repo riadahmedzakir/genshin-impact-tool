@@ -1,0 +1,116 @@
+{
+    "Name": "Crescent Pike",
+    "Stats": [],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "",
+        "CommonCharacterAscensionMaterial": "",
+        "CommonWeaponAscensionMaterial": ""
+    },
+    "Refine": [
+        {
+            "Level": "Level",
+            "Description": "Base Atk"
+        },
+        {
+            "Level": "1",
+            "Description": "44"
+        },
+        {
+            "Level": "5",
+            "Description": "59"
+        },
+        {
+            "Level": "10",
+            "Description": "79"
+        },
+        {
+            "Level": "15",
+            "Description": "99"
+        },
+        {
+            "Level": "20",
+            "Description": "119"
+        },
+        {
+            "Level": "20+",
+            "Description": "144"
+        },
+        {
+            "Level": "25",
+            "Description": "165"
+        },
+        {
+            "Level": "30",
+            "Description": "185"
+        },
+        {
+            "Level": "35",
+            "Description": "205"
+        },
+        {
+            "Level": "40",
+            "Description": "226"
+        },
+        {
+            "Level": "40+",
+            "Description": "252"
+        },
+        {
+            "Level": "45",
+            "Description": "273"
+        },
+        {
+            "Level": "50",
+            "Description": "293"
+        },
+        {
+            "Level": "50+",
+            "Description": "319"
+        },
+        {
+            "Level": "55",
+            "Description": "340"
+        },
+        {
+            "Level": "60",
+            "Description": "361"
+        },
+        {
+            "Level": "60+",
+            "Description": "387"
+        },
+        {
+            "Level": "65",
+            "Description": "408"
+        },
+        {
+            "Level": "70",
+            "Description": "429"
+        },
+        {
+            "Level": "70+",
+            "Description": "455"
+        },
+        {
+            "Level": "75",
+            "Description": "476"
+        },
+        {
+            "Level": "80",
+            "Description": "497"
+        },
+        {
+            "Level": "80+",
+            "Description": "523"
+        },
+        {
+            "Level": "85",
+            "Description": "544"
+        },
+        {
+            "Level": "90",
+            "Description": "565"
+        }
+    ],
+    "Story": " Refine Level 1After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to 20% of ATK for 5s."
+}

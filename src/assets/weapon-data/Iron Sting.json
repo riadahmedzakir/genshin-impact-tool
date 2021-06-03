@@ -1,0 +1,116 @@
+{
+    "Name": "Iron Sting",
+    "Stats": [],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "",
+        "CommonCharacterAscensionMaterial": "",
+        "CommonWeaponAscensionMaterial": ""
+    },
+    "Refine": [
+        {
+            "Level": "Level",
+            "Description": "Base Atk"
+        },
+        {
+            "Level": "1",
+            "Description": "42"
+        },
+        {
+            "Level": "5",
+            "Description": "56"
+        },
+        {
+            "Level": "10",
+            "Description": "74"
+        },
+        {
+            "Level": "15",
+            "Description": "91"
+        },
+        {
+            "Level": "20",
+            "Description": "109"
+        },
+        {
+            "Level": "20+",
+            "Description": "135"
+        },
+        {
+            "Level": "25",
+            "Description": "152"
+        },
+        {
+            "Level": "30",
+            "Description": "170"
+        },
+        {
+            "Level": "35",
+            "Description": "187"
+        },
+        {
+            "Level": "40",
+            "Description": "205"
+        },
+        {
+            "Level": "40+",
+            "Description": "231"
+        },
+        {
+            "Level": "45",
+            "Description": "248"
+        },
+        {
+            "Level": "50",
+            "Description": "266"
+        },
+        {
+            "Level": "50+",
+            "Description": "292"
+        },
+        {
+            "Level": "55",
+            "Description": "309"
+        },
+        {
+            "Level": "60",
+            "Description": "327"
+        },
+        {
+            "Level": "60+",
+            "Description": "353"
+        },
+        {
+            "Level": "65",
+            "Description": "370"
+        },
+        {
+            "Level": "70",
+            "Description": "388"
+        },
+        {
+            "Level": "70+",
+            "Description": "414"
+        },
+        {
+            "Level": "75",
+            "Description": "431"
+        },
+        {
+            "Level": "80",
+            "Description": "449"
+        },
+        {
+            "Level": "80+",
+            "Description": "475"
+        },
+        {
+            "Level": "85",
+            "Description": "492"
+        },
+        {
+            "Level": "90",
+            "Description": "510"
+        }
+    ],
+    "Story": " Refine Level 1Dealing Elemental DMG increases all DMG by 6% for 6s. Max 2 stacks. Can occur once every 1s."
+}

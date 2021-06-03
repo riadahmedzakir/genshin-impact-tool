@@ -1,0 +1,158 @@
+{
+    "Name": "Halberd",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 40,
+            "SubStats": 5.1
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 53,
+            "SubStats": 5.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 7
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 86,
+            "SubStats": 8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 102,
+            "SubStats": 9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 121,
+            "SubStats": 9
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 138,
+            "SubStats": 10.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 154,
+            "SubStats": 11.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 171,
+            "SubStats": 12.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 187,
+            "SubStats": 13.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 207,
+            "SubStats": 13.1
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 223,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 239,
+            "SubStats": 15.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 259,
+            "SubStats": 15.2
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 275,
+            "SubStats": 16.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 292,
+            "SubStats": 17.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 311,
+            "SubStats": 17.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 327,
+            "SubStats": 18.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 344,
+            "SubStats": 19.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 363,
+            "SubStats": 19.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 380,
+            "SubStats": 20.4
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 396,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 415,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 432,
+            "SubStats": 22.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 448,
+            "SubStats": 23.5
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Normal Attacks deal an additional 160% ATK as DMG. Can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Normal Attacks deal an additional 200% ATK as DMG. This effect can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Normal Attacks deal an additional 240% ATK as DMG. This effect can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Normal Attacks deal an additional 280% ATK as DMG. This effect can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Normal Attacks deal an additional 320% ATK as DMG. This effect can only occur once every 10s."
+        }
+    ],
+    "Story": "The polearm is a powerful weapon even in the hands of the unskilled, because \"the longer, the mightier.\"Adding an axe on the tip renders it somewhat unwieldy, but adds slash capabilities. This makes it better suited to complex battle scenarios.The axe-mounted polearm — the halberd — is preferred by warriors of great strength. It has also come to symbolize the honor and bravery of Millelith officers.Though peace prevails in the Liyue Harbor of today, the sight of brave warriors with halberd in hand is a ubiquitous one on the city streets.Each Millelith squad was led by an officer who would fearlessly charge ahead. They were the first line of defense for their comrades in dangerous territory.But it was not through bravery, loyalty, and self-sacrifice alone that they were able to protect their comrades. For they were also formidable fighters, their skills honed over years and years of drilling.Any foe who dared approach knew that the sight of the halberd-holding officers of the front line spelled almost certain doom for them.And when the soldiers of the Millelith assumed a tactical formation, it was the cornerstone of their fearless officers that made them impenetrable as a rock formation."
+}

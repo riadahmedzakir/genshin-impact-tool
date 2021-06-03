@@ -1,0 +1,158 @@
+{
+    "Name": "Recurve Bow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 38,
+            "SubStats": 10.2
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 48,
+            "SubStats": 11.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 61,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 73,
+            "SubStats": 16
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 86,
+            "SubStats": 18
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 105,
+            "SubStats": 18
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 117,
+            "SubStats": 20.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 129,
+            "SubStats": 22.2
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 140,
+            "SubStats": 24.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 171,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 182,
+            "SubStats": 28.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 193,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 212,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 223,
+            "SubStats": 32.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 234,
+            "SubStats": 34.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 253,
+            "SubStats": 34.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 264,
+            "SubStats": 36.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 274,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 294,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 304,
+            "SubStats": 40.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 314,
+            "SubStats": 42.8
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 334,
+            "SubStats": 42.8
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 344,
+            "SubStats": 44.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 354,
+            "SubStats": 46.9
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Defeating an opponent restores 8% HP."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Defeating an opponent restores 10% HP."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Defeating an opponent restores 12% HP."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Defeating an opponent restores 14% HP."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Defeating an opponent restores 16% HP."
+        }
+    ],
+    "Story": "A recurve bow exquisitely made from wood, bones, and animal tendons.In the hands of a masterful archer, it can shoot down eagles in flight.It is the pride of a hunter, and proof of mastery.Pity the innocent eagles."
+}

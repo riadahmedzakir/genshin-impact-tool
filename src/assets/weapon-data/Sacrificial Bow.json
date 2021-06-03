@@ -1,0 +1,158 @@
+{
+    "Name": "Sacrificial Bow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 6.7
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 7.7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 9.1
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 13.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 14.5
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 15.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 17.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 17.2
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 18.5
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 19.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 19.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 22.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 22.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 25.2
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 25.2
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 26.6
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 27.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 27.9
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 29.3
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 30.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s."
+        }
+    ],
+    "Story": "On the cliff facing the eastern sea, the ancestors worshiped the masters of Time and Anemo together.The two are intimately related, as expressed in the saying, \"Anemo brings stories while Time nurtures them.\"This bow tells the story of the pioneers and the hardships they went through.It used to be a prop with an immobile bowstring, but the string became both flexible and sturdier with the passage of time.This bow was once the property of the proud Lawrence Clan.In the far-flung past, they used it to reenact their clan's brave victory over the frozen wilderness.The first act of the ceremony told the tale of their forebears conquering the land through their wisdom and strength.Over their long history, though this ceremony was lost, they continued to play the same role.But this role became corrupted. Gradually, their view of themselves shifted from conquerors, to overlords, to kings.Gradually, they strayed onto the path of depravity, and lost the affection of Mondstadt's winds."
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Favonius Greatsword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 13.3
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 20.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 28.9
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 31.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 37
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 42.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 47.8
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 53.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 58.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 61.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "CRIT Hits have a 60% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 12s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "CRIT Hits have a 70% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 10.5s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "CRIT Hits have a 80% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 9s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "CRIT Hits have a 90% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 7.5s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "CRIT Hits have a 100% chance to generate a small amount of Elemental Particles, which will regenerate 6 Energy for the character. Can only occur once every 6s."
+        }
+    ],
+    "Story": "A heavy ceremonial sword of the Knights of Favonius. It is usually only issued after the approval of both the Grand Master and the Church.The craftsmen in Mondstadt have achieved some results in elemental affinity by studying the ancient artifacts of Mondstadt.This heavy greatsword is not only an honor bestowed upon a Knight of Favonius, but also the fruit of the hard work and skills of the guardians of Mondstadt.It can channel elemental power with ease. Its bearer would do well to remember that destruction is but a means to an end, the end being to defend that which must be defended.Only a single-handed form of Rostam the Wolf Pup's Favonius Bladework survives today.Another form has been lost to history: that of Arundolyn, the Lion of Light, who could wield both a longsword and greatsword together in battle.Because of the great strength needed, only those gifted with extraordinary strength could attempt this form. Thus, it soon died out.Close companions growing up, Arundolyn was from a long line of knights while Rostam was born to a peasant family.Their childhood friendship was forged from a shared dream of heroism. As young men, they became fellow knights; as mature adults, one became Grand Master and the other his assistant.Grand Master Arundolyn was no Vision bearer. His formidable strength came from a mixture of natural gifts and intense training.The Grand Master's strength was his pride, and the Grand Master was the pride of the Knights — nay, the pride of all in Mondstadt.After Rostam met his fate, Arundolyn never displayed his strength again. For no longer was it a source of glory to challenge ferocious monsters."
+}

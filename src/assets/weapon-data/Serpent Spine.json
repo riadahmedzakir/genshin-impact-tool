@@ -1,0 +1,158 @@
+{
+    "Name": "Serpent Spine",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Aerosiderite",
+        "CommonCharacterAscensionMaterial": "BoneShard",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Every 4s a character is on the field, they will deal 6% more DMG and take 3% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Every 4s a character is on the field, they will deal 7% more DMG and take 2.7% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Every 4s a character is on the field, they will deal 8% more DMG and take 2.4% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Every 4s a character is on the field, they will deal 9% more DMG and take 2.2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Every 4s a character is on the field, they will deal 10% more DMG and take 2% more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG."
+        }
+    ],
+    "Story": "A greatsword fashioned from the spine of a great sea monster, each eerie segment of bone a tale unto itself.In the past, seamen would use the bones of such monsters as figureheads,And with them frighten the beasts who dwelt in the deep sea, and who envied the land-dwellers.In the stormy oceans of the ancient past, those who put out to sea would often never be seen again.The carefree sea shanties of today were, in years long gone, farewell songs that left people in mournful silence.There was a greatsword-wielding captain in those days who enjoyed drinking and making merry before a voyage. When people questioned him, he laughed and said:\"I know myself. What is wine and song to me? Worry not. Once the sea and winds are right...\"But he would never finish that statement. He would only raise his mug, and call for all around to have another drink.Then, the day when the sea and winds came together arrived at last, and the stern of the great vessel rode them as it sailed.Deep into the misty sea it went, far across the darkening waves, into the ocean that teemed with sea creatures.And at last, neither the singing skipper nor his ship would ever return to the harbor ringed by mountains.After many days, the corpse of a sea monster from the deep was beached upon the shore by the waves.Brilliant white bone shone out from a great gash torn into it by a greatsword. Its blood had long been washed clean.\"When the sea and winds are right, I will go forth to sea and avenge her, O maiden charmed by the tidal song.\"\"So what if I sleep with the fishes? That way, I will be able to send my sea shanties into the deep where she dwells.\"Today, the seas are no longer plagued by giant creatures that emerge from the storm and rain down devastation upon the waves.The practice of mounting skeletons of sea monsters onto the bows of ships has also been lost with their extinction.But when one sails far abroad, sometimes one can still hear the spine-chilling sound of thunder rumbling in the depths..."
+}

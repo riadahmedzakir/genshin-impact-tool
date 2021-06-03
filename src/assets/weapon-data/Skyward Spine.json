@@ -1,0 +1,158 @@
+{
+    "Name": "Skyward Spine",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 48,
+            "SubStats": 8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 65,
+            "SubStats": 9.3
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 87,
+            "SubStats": 10.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 110,
+            "SubStats": 12.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 133,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 164,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 188,
+            "SubStats": 15.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 212,
+            "SubStats": 17.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 236,
+            "SubStats": 19
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 261,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 292,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 316,
+            "SubStats": 22.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 341,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 373,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 398,
+            "SubStats": 25.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 423,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 455,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 480,
+            "SubStats": 28.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 506,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 537,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 563,
+            "SubStats": 31.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 590,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 621,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 648,
+            "SubStats": 35.1
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 674,
+            "SubStats": 36.8
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases CRIT Rate by 8% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 40% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases CRIT Rate by 10% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 55% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases CRIT Rate by 12% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 70% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases CRIT Rate by 14% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 85% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases CRIT Rate by 16% and increases Normal ATK SPD by 12%. Additionally, Normal and Charged Attacks hits on opponents have a 50% chance to trigger a vacuum blade that deals 100% of ATK as DMG in a small AoE. This effect can occur no more than once every 2s."
+        }
+    ],
+    "Story": "A spine that holds up the sky.The true companion of the Anemo Archon never wavered in its desire to protect the land of wind.This unshakeable resolve sustained the wind dragon through its mortal battle against its vile nemesis.In olden times, the shadow dragon Durin, covetous of the peace Mondstadt enjoyed, came forth to defile the land.Durin's black wings blotted out the sky, releasing clouds of toxic fumes,So much so that even the thousand winds could not hold their pestilence and rot at bay,And thus fell black rain from the skies, the din of their downpour drowning the cries and groans of the people.The Anemo Archon was awakened by the sound of their agony, and his heart was pierced by their despair.So he summoned Dvalin to his side, and shrouding themselves in storm, they pierced through the poisoned skies.The great dragon plunged in with a cry, tearing a swathe through the noxious nimbus the shadow dragon had created.Following his wings came a great, swift whirlwind that destroyed those venomous clouds.Dvalin seized the poisonous dragon in his mighty claws, ascending to heights that even clouds could not fathom.The poisonous rain had scattered as the clouds had been left behind, and the burning skies became the dragons' battleground.At last the wind dragon's razor fangs pierced his foe's throat, and his great claws tore out its corrupted heart.The sinners' creation, filled with eternal regret, fell from the spotless skies and fell to ruin upon a snowy peak.That fierce battle in the distant skies had thus defended the people of the Anemo Archon.But at the moment of his triumph, the venomous ichor of his foe had flowed between his teeth and into his guts.The pain withered bone and marrow, and in his agony the great wind dragon curled up in the depths of an ancient ruin....Nursing his wounds, Dvalin still believed that one day, he would be reawakened.He would again pierce the heavens, scatter the darkness, and sing to the sounds of the lyre of the Anemo Archon, his dear friend."
+}

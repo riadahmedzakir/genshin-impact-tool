@@ -1,0 +1,158 @@
+{
+    "Name": "Sacrificial Sword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 13.3
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 20.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 28.9
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 31.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 34.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 37
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 39.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 42.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 45.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 47.8
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 50.5
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 53.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 55.9
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 58.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 61.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 40% chance to end its own CD. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 50% chance to end its own CD. Can only occur once every 26s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 60% chance to end its own CD. Can only occur once every 22s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 70% chance to end its own CD. Can only occur once every 19s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "After damaging an opponent with an Elemental Skill, the skill has a 80% chance to end its own CD. Can only occur once every 16s."
+        }
+    ],
+    "Story": "On the cliff facing the eastern sea, the ancestors worshiped the masters of Time and Anemo together.The two are intimately related, as expressed in the saying, \"Anemo brings stories while Time nurtures them.\"This sword tells the story of protection to show the courage to protect.Originally just a prop, its blade was sharpened by the passage of time.This sword once belonged to the kindly Gunnhildr Clan.In sacrificial ceremonies, they would enact the defense of Mondstadt.There were three acts in the ceremony dedicated to the winds of time.The final act told a tale of the protection of Mondstadt, of life, and of freedom.The ceremony and its history have now been lost.But the Gunnhildr Clan continues to act as guardians of Mondstadt to this day."
+}

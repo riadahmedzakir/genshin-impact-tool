@@ -1,0 +1,158 @@
+{
+    "Name": "Messenger",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 40,
+            "SubStats": 6.8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 53,
+            "SubStats": 7.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 9.3
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 86,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 102,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 121,
+            "SubStats": 12
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 138,
+            "SubStats": 13.4
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 154,
+            "SubStats": 14.8
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 171,
+            "SubStats": 16.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 187,
+            "SubStats": 17.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 207,
+            "SubStats": 17.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 223,
+            "SubStats": 18.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 239,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 259,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 275,
+            "SubStats": 21.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 292,
+            "SubStats": 23
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 311,
+            "SubStats": 23
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 327,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 344,
+            "SubStats": 25.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 363,
+            "SubStats": 25.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 380,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 396,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 415,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 432,
+            "SubStats": 29.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 448,
+            "SubStats": 31.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Charged Attack hits on weak points deal an additional 100% ATK DMG as CRIT DMG. Can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Charged Attack hits on weak points deal an additional 125% ATK DMG as CRIT DMG. Can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Charged Attack hits on weak points deal an additional 150% ATK DMG as CRIT DMG. Can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Charged Attack hits on weak points deal an additional 175% ATK DMG as CRIT DMG. Can only occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Charged Attack hits on weak points deal an additional 200% ATK DMG as CRIT DMG. Can only occur once every 10s."
+        }
+    ],
+    "Story": "It was said in days gone by,The people of Liyue passed messages by bow and arrow.\"Wouldn't bystanders get hurt, you ask?\"\"Suffice to say, there's a good reason this bow is an antique...\"The antique shop owner rubbed their chin and smiled."
+}

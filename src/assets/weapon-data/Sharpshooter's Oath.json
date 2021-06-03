@@ -1,0 +1,158 @@
+{
+    "Name": "Sharpshooter's Oath",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 39,
+            "SubStats": 10.2
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 50,
+            "SubStats": 11.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 65,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 79,
+            "SubStats": 16
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 94,
+            "SubStats": 18
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 113,
+            "SubStats": 18
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 127,
+            "SubStats": 20.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 141,
+            "SubStats": 22.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 155,
+            "SubStats": 24.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 169,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 189,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 202,
+            "SubStats": 28.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 216,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 236,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 249,
+            "SubStats": 32.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 263,
+            "SubStats": 34.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 282,
+            "SubStats": 34.5
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 296,
+            "SubStats": 36.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 309,
+            "SubStats": 38.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 329,
+            "SubStats": 38.6
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 342,
+            "SubStats": 40.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 355,
+            "SubStats": 42.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 375,
+            "SubStats": 42.7
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 388,
+            "SubStats": 44.8
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 401,
+            "SubStats": 46.9
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against weak spots by 24%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against weak spots by 30%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against weak spots by 36%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against weak spots by 42%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against weak spots by 48%."
+        }
+    ],
+    "Story": "A long time ago, in a place far, far away... Tragedy struck.Brothers took to arms against one another.One among them was a great archer. After suffering a humiliating defeat, he made a vow:\"Until I have brought down my enemies,\"\"Until I have pierced their throats and their blood has run dry, I shall not clean my feet.\"And so, the great archer fell prey to a foot infection."
+}

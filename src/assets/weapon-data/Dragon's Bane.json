@@ -1,0 +1,158 @@
+{
+    "Name": "Dragon's Bane",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 48
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 56
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 65
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 75
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 85
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 85
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 95
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 104
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 114
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 124
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 124
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 133
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 143
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 143
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 153
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 162
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 162
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 172
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 182
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 182
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 191
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 201
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 201
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 211
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 221
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against opponents affected by Hydro or Pyro by 20%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against opponents affected by Hydro or Pyro by 24%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against opponents affected by Hydro or Pyro by 28%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against opponents affected by Hydro or Pyro by 32%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against opponents affected by Hydro or Pyro by 36%."
+        }
+    ],
+    "Story": "Rumored to be a legendary polearm of Liyue.The polearm features a dragon motif that runs from handle to tip.It used to have a dragon-shaped wooden sheath,but now it no longer needs to contain its might.It shall pierce through anything that stands in its way.It is said that when Kunwu forged this Pole, he used a dragon's spine for the haft and a dragon's claw for the tip.Hence the weapon's body is unbreakable, while its tip is sharp beyond compare — and gleams with a dragon's malice.There once was a dragon slayer of unimaginable strength and courage, who defied the ocean's wrath and fought fiercely against the monstrosities it harbored within.Many years after the dragon slayer had disappeared without a trace, the hopeless sound of a dragon's cry could be still be heard resounding throughout the ocean.The dragon slayer became an urban legend. In the end, both the legend and the dragon-slaying Pole were lost.Freed at last from the shackles of its past, it displayed the full force of its ferocity once and for all, as if to mark the dragon's return to the ocean where it belonged."
+}

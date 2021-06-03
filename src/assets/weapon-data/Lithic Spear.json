@@ -1,0 +1,158 @@
+{
+    "Name": "Lithic Spear",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Aerosiderite",
+        "CommonCharacterAscensionMaterial": "BoneShard",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 7% ATK increase and a 3% CRIT Rate increase. This effect stacks up to 4 times."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 8% ATK increase and a 4% CRIT Rate increase. This effect stacks up to 4 times."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 9% ATK increase and a 5% CRIT Rate increase. This effect stacks up to 4 times."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 10% ATK increase and a 6% CRIT Rate increase. This effect stacks up to 4 times."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "For every character in the party who hails from Liyue, the character who equips this weapon gains a 11% ATK increase and a 7% CRIT Rate increase. This effect stacks up to 4 times."
+        }
+    ],
+    "Story": "A weapon favored by the Millelith of yore.Made from a lith of the Guyun Stone Forest, said to be able to pierce even through dragon scales...Its great weight prevents the Millelith of today from equipping it.In ancient times, the Millelith would conduct themselves in Rex Lapis' name according to this axiom:\"While rock stays hard, the mountain shall never fail; while the Millelith stands guard, evil shall never prevail.\"In the past, they went forth to subdue demons and protect the roads and the countryside.In these peaceful times, their duties have shifted to maintaining order.At a certain point in the past, the earth did shake, and the mountains did tremble.Then, the Millelith gave out equipment left over from the ancient wars to those among them who were of unusually great stature.These were the incredibly weighty Lithic Spears, and they were used as shoveling tools to rescue the injured.\"The Lithic Spear pierces through rock with ease.\"\"If a thousand such spears could be lined up in formation today, none could stand before them.\"Yet in an even earlier era, when the world was in yet deeper turmoil,Every soldier in the Millelith could wield these colossal weapons.Thus were they able to protect Rex Lapis' kingdom and defend their homeland.With a thousand Lithic Spears lined up in formation, no evil could prevail against them."
+}

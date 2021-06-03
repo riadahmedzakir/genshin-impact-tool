@@ -1,0 +1,158 @@
+{
+    "Name": "Deathmatch",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 9.3
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 10.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 12.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 15.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 17.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 19
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 22.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 25.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 28.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 31.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 35.1
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 36.8
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "If there are at least 2 opponents nearby, ATK is increased by 16% and DEF is increased by 16%. If there are fewer than 2 opponents nearby, ATK is increased by 24%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "If there are at least 2 opponents nearby, ATK is increased by 20% and DEF is increased by 20%. If there are fewer than 2 opponents nearby, ATK is increased by 30%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "If there are at least 2 opponents nearby, ATK is increased by 24% and DEF is increased by 24%. If there are fewer than 2 opponents nearby, ATK is increased by 36%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "If there are at least 2 opponents nearby, ATK is increased by 28% and DEF is increased by 28%. If there are fewer than 2 opponents nearby, ATK is increased by 42%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "If there are at least 2 opponents nearby, ATK is increased by 32% and DEF is increased by 32%. If there are fewer than 2 opponents nearby, ATK is increased by 48%."
+        }
+    ],
+    "Story": "This crimson polearm has seen countless battles, and has borne witness to a certain gladiator's valor.Its ice-cold tip was often drenched in the blood of its foes, to the thunderous applause of the crowd.Bloodstained was the gladiator's fate, and freedom, so near yet so far, was often balanced on a knife's edge.The dull sound of that crimson tip piercing flesh was many a battle's death-knell.As the gladiator's final performance ended, their master spoke up amidst the thunderous applause:\"The promised number has been met. You have done well, and are a warrior worthy of great renown.\"\"Consider this weapon to be a parting gift... Yet, would you not consider fighting on?\"\"Continue your brilliant performance as a free person, for your glory and for mine. What say you?\"Many years past, and the beasts and men who fell to that spear grew too numerous to count.The duelist's weapon became known as undefeated, but his heart belonged to his young master.As the gladiator's final performance ended, amidst thunderous applause,His weapon fell to the bloodied sand as the red-haired maiden's scorching blade pierced the old warrior's heart.As he fell, despondent, he turned his eyes to his beloved master, his noble lord who cherished him...\"Eberhart, Master Eberhart... Did my final performance please you?\"But his master's seat was empty, save for a wine goblet and silver platter, toppled in haste.\"At first, I fought for myself, for blood and battle-lust.\"\"But since a time I know not when, I have killed for my master.\"\"Only for the sake of others can we fight like wild beasts without care.\"\"Someone like you, who fights for her people and not for herself... Surely, you understand this as well.\""
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Sword of Descension",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 39,
+            "SubStats": 7.7
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 50,
+            "SubStats": 8.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 65,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 79,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 94,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 120,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 134,
+            "SubStats": 15.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 148,
+            "SubStats": 16.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 162,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 176,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 202,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 215,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 229,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 255,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 269,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 282,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 308,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 322,
+            "SubStats": 27.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 335,
+            "SubStats": 29
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 361,
+            "SubStats": 29
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 374,
+            "SubStats": 30.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 388,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 414,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 427,
+            "SubStats": 33.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 440,
+            "SubStats": 35.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Hitting opponents with Normal and Charged Attacks grants a 50% chance to deal 200% ATK as DMG in a small AoE. This effect can only occur once every 10s. Additionally, if the Traveler equips the Sword of Descension, their ATK is increased by 66."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": ""
+        }
+    ],
+    "Story": "This is proof that you came to this world via special means.Only one who has challenged the \"world\" may wield such a sword.When this sword was last drawn, humankind was trying to preserve a doomed world.That world was their last and only home.This sword was drawn to defy that fate of destruction.—But to draw steel against the law of universe that \"all who exist must one day perish...\"Surely it must have seemed the height of folly.But really, when one is faced when such a final fate, when up against the star-devouring darkness,What weapon would be fitting for one to wield? It can only be a sword.If nothing else, it shall bear the memory of those who faced their ends without fear...When you wield this sword, you search for the answers hidden within this world.In this world, such a weapon may be used without any problem.Not for the fact that the universe casts no shadows here, and certainly not simply because it suits this world's aesthetics...But because this search is perhaps why you descended to this realm in the first place.When the past is dust, and the future arrives,As the present fades away, you can trust to this blade's edge.Having a weapon for self-defense is, of course, a good idea. After all, this one was forged for one such as yourself.Someone who challenges and pursues.Take it, walk this earth,And cut open all the challenges and mysteries that it has to offer you."
+}
