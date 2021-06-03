@@ -21,6 +21,7 @@
         height: 100%;
         background-repeat: no-repeat;
         background-size: contain;
+        background-position: center;
     }
 
     img {
@@ -69,9 +70,9 @@
 .character-builder-plan {
     color: #ffffff;
     background-color: #3c065e;
+    padding: 40px;
 
     .character-builder-plan-header {
-        padding: 40px;
         h1 {
             font-size: 36px;
             font-weight: bold;
@@ -110,5 +111,87 @@
         height: 100%;
         background-repeat: no-repeat;
         background-size: contain;
+        background-position: center;
     }
 }
+
+@media only screen and (max-width: 1440px) {
+    .character-builder-plan {
+        .character-builder-plan-header {
+            img {
+                height: 280px;
+                width: 350px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    .agenda {
+        height: 400px;
+    }
+
+    .character-builder-plan {
+        .character-builder-plan-header {
+            img {
+                height: 250px;
+                width: 300px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .agenda {
+        padding: 20px;
+        height: auto;
+    }
+
+    .learning-goals {    
+        padding: 20px;    
+        .learning-goals-theme {
+            height: 150px;
+            mat-icon {
+                top: 30px;
+                left: 42%;
+            }
+        }
+    }
+
+    .character-builder-plan{
+        padding: 20px;
+    }
+
+    .future-total-plan{
+        padding: 20px;
+        height: auto;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .agenda {
+        padding: 20px;
+        height: auto;
+    }
+
+    .learning-goals {    
+        padding: 20px;    
+        .learning-goals-theme {
+            height: 150px;
+            mat-icon {
+                top: 30px;
+                left: 46%;
+            }
+        }
+    }
+
+    .character-builder-plan{
+        padding: 20px;
+    }
+
+    .future-total-plan{
+        padding: 20px;
+        height: auto;
+    }
+}
+

@@ -1,6 +1,6 @@
 <div>
     <div class="agenda" fxLayout="row" fxLayoutAlign="space-between center">
-        <div fxFlex="50" fxLayout="column">
+        <div fxLayout="column" fxFlex.gt-lg="50" fxFlex.lg="70" fxFlex.md="100" fxFlex.lt-md="100">
             <h1>Agenda</h1>
             <p>
                 The project was inspired by my Experience of inconvenience playing this game. But build why something
@@ -17,7 +17,7 @@
                 That being said, why not make a list of things i want to do in this project.
             </p>
         </div>
-        <div class="agenda-image" fxFlex="50">
+        <div fxHide.lt-md class="agenda-image" fxFlex.gt-lg="50" fxFlex.lg="30" fxFlex.md="100" fxFlex.lt-md="100">
         </div>
     </div>
 
@@ -29,9 +29,10 @@
             <h2>Things I want to learn by the time I finish the project</h2>
         </div>
 
-        <div fxLayout="row wrap" fxLayoutGap="20px">
+        <div fxLayout="row wrap" fxLayoutGap.gt-md="20px">
             <div class="learning-goals-theme" *ngFor="let item of learningGoalList"
-                style="background-color: {{item.color}}" fxFlex="31" fxLayout="column" fxLayoutAlign="center center">
+                style="background-color: {{item.color}}" fxFlex.gt-lg="31" fxFlex.lg="47" fxFlex.md="100"
+                fxFlex.lt-md="100" fxLayoutAlign="center center">
                 <mat-icon>{{item.Icon}}</mat-icon>
                 <p>{{item.Title}}</p>
             </div>
@@ -39,12 +40,12 @@
     </div>
 
     <div class="character-builder-plan" fxLayout="row" fxLayoutAlign="space-between center">
-        <div class="character-builder-plan-header" fxFlex="40" fxLayout="column" fxLayoutAlign="center center">
+        <div fxHide.lt-md class="character-builder-plan-header" fxFlex="40" fxLayout="column" fxLayoutAlign="center center">
             <h1>Character builder</h1>
             <img src="assets/data-visual.jpg" alt="">
         </div>
 
-        <div fxFlex="60">
+        <div fxFlex.gt-lg="60" fxFlex.lg="60" fxFlex.md="100" fxFlex.lt-md="100">
             <p>Future plan for character builder. (Main focus of the project)</p>
             <ul>
                 <li>Players can select a weapon for specific character. A datasheet will show calulated stats scaling
@@ -66,7 +67,7 @@
 
 
     <div class="future-total-plan" fxLayout="row" fxLayoutAlign="space-between center">
-        <div fxFlex="60">
+        <div fxFlex.gt-lg="60" fxFlex.lg="70" fxFlex.md="100" fxFlex.lt-md="100">
             <h1>Features to introduce</h1>
             <ul>
                 <li>
@@ -80,9 +81,10 @@
                 <li>Weapon comparison.</li>
                 <li>Artifact builder.</li>
                 <li>Build comparsion backup. (Introducing databse, rest-api and a login/registration system)</li>
-                <li>(Maybe) Collect all miscellaneous item/materials data. Like recipe, local material, farming routes etc.</li>
+                <li>(Maybe) Collect all miscellaneous item/materials data. Like recipe, local material, farming routes
+                    etc.</li>
             </ul>
         </div>
-        <div class="future-plan-image" fxFlex="40"></div>
+        <div fxHide.lt-md class="future-plan-image" fxFlex.gt-lg="40" fxFlex.lg="30" fxFlex.md="100" fxFlex.lt-md="100"></div>
     </div>
 </div>
