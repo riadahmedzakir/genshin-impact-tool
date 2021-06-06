@@ -12,7 +12,7 @@
         </div>
     </mat-toolbar>
 
-    <mat-card class="weapon-list-card" *ngFor="let weapon of weaponList" fxFlex="100">
+    <!-- <mat-card class="weapon-list-card" *ngFor="let weapon of weaponList" fxFlex="100">
         <div fxFlex="100" fxLayout="row" fxLayoutAling="space-between center">
             <div class="weapon-img" fxFlex="20">
                 <img src="assets/weapon/{{weapon.Name}}.png" alt="">
@@ -49,5 +49,367 @@
                 </p>
             </div>
         </div>
-    </mat-card>
+    </mat-card> -->
+
+    <mat-accordion class="weapon-tiles" fxFlex="100">
+        <mat-expansion-panel *ngFor="let weapon of weaponList" class="weapon-list-card" (opened)="getDetails(weapon)">
+            <mat-expansion-panel-header>
+                <mat-panel-title>
+                    <div fxFlex="100" fxLayout="row" fxLayoutAling="space-between center">
+                        <div class="weapon-img" fxFlex="20">
+                            <img src="assets/weapon/{{weapon.Name}}.png" alt="">
+                        </div>
+                        <div fxFlex="80">
+                            <p class="weapon-info-name">
+                                {{weapon.Name}}
+                            </p>
+
+
+                            <p class="weapon-info">
+                                <span class="weapon-info-title">Rarity: </span>
+                                <span class="weapon-info-details">{{weapon.Rarity}}</span>
+                            </p>
+
+                            <p class="weapon-info">
+                                <span class="weapon-info-title">Attack: </span>
+                                <span class="weapon-info-details">{{weapon.Atk}}</span>
+                            </p>
+
+                            <p class="weapon-info">
+                                <span class="weapon-info-title">Sub Stats: </span>
+                                <span class="weapon-info-details">{{weapon.SubStat}}</span>
+                            </p>
+
+                            <p class="weapon-info">
+                                <span class="weapon-info-title">Sub Stats Value: </span>
+                                <span class="weapon-info-details">{{weapon.SubStatsValue}}</span>
+                            </p>
+
+                            <p class="weapon-info">
+                                <span class="weapon-info-title">Special Ability: </span>
+                                <span class="weapon-info-details">{{weapon.SpecialAbility}}</span>
+                            </p>
+                        </div>
+                    </div>
+                </mat-panel-title>
+            </mat-expansion-panel-header>
+
+            <div fxLayoutAlign="center center">
+                <mat-spinner *ngIf="isLoading"></mat-spinner>
+            </div>
+            <div class="weapon-details-body" *ngIf="!isLoading && weaponDetailsList[weapon.Name]">
+                <p>{{weaponDetailsList[weapon.Name].Story}}</p>
+
+                <h1>Weapon Ascension</h1>
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="displayColumnAscension" mat-table
+                        [dataSource]="[1,2,3,4,5,6]" class="mat-elevation-z1">
+                        <ng-container matColumnDef="Phase">
+                            <th mat-header-cell *matHeaderCellDef> Phase </th>
+                            <td mat-cell *matCellDef="let stats"> Phase {{ stats }} </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="Mora">
+                            <th mat-header-cell *matHeaderCellDef> Mora </th>
+                            <td mat-cell *matCellDef="let stats">
+                                <div fxLayout="row" fxLayoutAlign="start center">
+                                    <img style="height: 40px; width: 40px;  object-fit: contain;" src="assets/mora.png"
+                                        alt="">
+                                    <p style="margin: 0px" *ngIf="stats === 1">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">0</span>
+                                        <span *ngIf="weapon.Rarity === 2">5000</span>
+                                        <span *ngIf="weapon.Rarity === 3">5000</span>
+                                        <span *ngIf="weapon.Rarity === 4">5000</span>
+                                        <span *ngIf="weapon.Rarity === 5">10000</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 2">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">5000</span>
+                                        <span *ngIf="weapon.Rarity === 2">5000</span>
+                                        <span *ngIf="weapon.Rarity === 3">10000</span>
+                                        <span *ngIf="weapon.Rarity === 4">15000</span>
+                                        <span *ngIf="weapon.Rarity === 5">20000</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 3">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">5000</span>
+                                        <span *ngIf="weapon.Rarity === 2">10000</span>
+                                        <span *ngIf="weapon.Rarity === 3">15000</span>
+                                        <span *ngIf="weapon.Rarity === 4">20000</span>
+                                        <span *ngIf="weapon.Rarity === 5">30000</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 4">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">10000</span>
+                                        <span *ngIf="weapon.Rarity === 2">15000</span>
+                                        <span *ngIf="weapon.Rarity === 3">20000</span>
+                                        <span *ngIf="weapon.Rarity === 4">30000</span>
+                                        <span *ngIf="weapon.Rarity === 5">45000</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 5">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">25000</span>
+                                        <span *ngIf="weapon.Rarity === 4">35000</span>
+                                        <span *ngIf="weapon.Rarity === 5">55000</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 6">
+                                        x
+                                        <span *ngIf="weapon.Rarity === 1">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">30000</span>
+                                        <span *ngIf="weapon.Rarity === 4">45000</span>
+                                        <span *ngIf="weapon.Rarity === 5">65000</span>
+                                    </p>
+                                </div>
+                            </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="WeaponAscension">
+                            <th mat-header-cell *matHeaderCellDef> Weapon Ascension Material </th>
+                            <td mat-cell *matCellDef="let stats">
+                                <div fxLayout="row" fxLayoutAlign="start center">
+                                    <img *ngIf="stats === 1" style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/weapon-material/{{weaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.WeaponAscensionMaterial].Item_1}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 2 || stats === 3"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/weapon-material/{{weaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.WeaponAscensionMaterial].Item_2}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 4 || stats === 5"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/weapon-material/{{weaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.WeaponAscensionMaterial].Item_3}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 6" style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/weapon-material/{{weaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.WeaponAscensionMaterial].Item_4}}.png"
+                                        alt="">
+
+                                    <p style="margin: 0px" *ngIf="stats === 1">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">1</span>
+                                        <span *ngIf="weapon.Rarity === 3">2</span>
+                                        <span *ngIf="weapon.Rarity === 4">3</span>
+                                        <span *ngIf="weapon.Rarity === 5">5</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 2">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">1</span>
+                                        <span *ngIf="weapon.Rarity === 3">2</span>
+                                        <span *ngIf="weapon.Rarity === 4">3</span>
+                                        <span *ngIf="weapon.Rarity === 5">5</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 3">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">2</span>
+                                        <span *ngIf="weapon.Rarity === 2">3</span>
+                                        <span *ngIf="weapon.Rarity === 3">4</span>
+                                        <span *ngIf="weapon.Rarity === 4">6</span>
+                                        <span *ngIf="weapon.Rarity === 5">9</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 4">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">1</span>
+                                        <span *ngIf="weapon.Rarity === 3">2</span>
+                                        <span *ngIf="weapon.Rarity === 4">3</span>
+                                        <span *ngIf="weapon.Rarity === 5">5</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 5">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">4</span>
+                                        <span *ngIf="weapon.Rarity === 4">6</span>
+                                        <span *ngIf="weapon.Rarity === 5">9</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 6">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3 ">3</span>
+                                        <span *ngIf="weapon.Rarity === 4">4</span>
+                                        <span *ngIf="weapon.Rarity === 5">6</span>
+                                    </p>
+                                </div>
+                            </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="CommonWeaponAscensionMaterial">
+                            <th mat-header-cell *matHeaderCellDef> Common Weapon Ascension Material </th>
+                            <td mat-cell *matCellDef="let stats">
+                                <div fxLayout="row" fxLayoutAlign="start center">
+                                    <img *ngIf="stats === 1 || stats === 2"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonWeaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonCharacterAscensionMaterial].Item_1}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 3 || stats === 4"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonWeaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonCharacterAscensionMaterial].Item_2}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 5 || stats === 6"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonWeaponAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonCharacterAscensionMaterial].Item_3}}.png"
+                                        alt="">
+                                    <p style="margin: 0px" *ngIf="stats === 1">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">1</span>
+                                        <span *ngIf="weapon.Rarity === 2">1</span>
+                                        <span *ngIf="weapon.Rarity === 3">2</span>
+                                        <span *ngIf="weapon.Rarity === 4">3</span>
+                                        <span *ngIf="weapon.Rarity === 5">5</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 2">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">4</span>
+                                        <span *ngIf="weapon.Rarity === 2">5</span>
+                                        <span *ngIf="weapon.Rarity === 3">8</span>
+                                        <span *ngIf="weapon.Rarity === 4">12</span>
+                                        <span *ngIf="weapon.Rarity === 5">18</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 3">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">2</span>
+                                        <span *ngIf="weapon.Rarity === 2">3</span>
+                                        <span *ngIf="weapon.Rarity === 3">4</span>
+                                        <span *ngIf="weapon.Rarity === 4">6</span>
+                                        <span *ngIf="weapon.Rarity === 5">9</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 4">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">4</span>
+                                        <span *ngIf="weapon.Rarity === 2">5</span>
+                                        <span *ngIf="weapon.Rarity === 3">8</span>
+                                        <span *ngIf="weapon.Rarity === 4">12</span>
+                                        <span *ngIf="weapon.Rarity === 5">18</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 5">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">6</span>
+                                        <span *ngIf="weapon.Rarity === 4">9</span>
+                                        <span *ngIf="weapon.Rarity === 5">14</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 6">&nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1 || weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">12</span>
+                                        <span *ngIf="weapon.Rarity === 4">18</span>
+                                        <span *ngIf="weapon.Rarity === 5">27</span>
+                                    </p>
+                                </div>
+                            </td>
+                        </ng-container>
+
+                        <ng-container matColumnDef="CommonMaterial">
+                            <th mat-header-cell *matHeaderCellDef> Common Material </th>
+                            <td mat-cell *matCellDef="let stats">
+                                <div fxLayout="row" fxLayoutAlign="start center">
+                                    <img *ngIf="stats === 1 || stats === 2"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonCharacterAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonWeaponAscensionMaterial].Item_1}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 3 || stats === 4"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonCharacterAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonWeaponAscensionMaterial].Item_2}}.png"
+                                        alt="">
+                                    <img *ngIf="stats === 5 || stats === 6"
+                                        style="height: 40px; width: 40px; object-fit: contain;"
+                                        src="assets/common-material/{{commonCharacterAscensionMaterial[weaponDetailsList[weapon.Name].Ascensions.CommonWeaponAscensionMaterial].Item_3}}.png"
+                                        alt="">
+
+                                    <p style="margin: 0px" *ngIf="stats === 1">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">1</span>
+                                        <span *ngIf="weapon.Rarity === 2">1</span>
+                                        <span *ngIf="weapon.Rarity === 3">1</span>
+                                        <span *ngIf="weapon.Rarity === 4">2</span>
+                                        <span *ngIf="weapon.Rarity === 5">3</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 2">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">2</span>
+                                        <span *ngIf="weapon.Rarity === 2">4</span>
+                                        <span *ngIf="weapon.Rarity === 3">5</span>
+                                        <span *ngIf="weapon.Rarity === 4">8</span>
+                                        <span *ngIf="weapon.Rarity === 5">12</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 3">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">2</span>
+                                        <span *ngIf="weapon.Rarity === 2">3</span>
+                                        <span *ngIf="weapon.Rarity === 3">4</span>
+                                        <span *ngIf="weapon.Rarity === 4">6</span>
+                                        <span *ngIf="weapon.Rarity === 5">9</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 4">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">3</span>
+                                        <span *ngIf="weapon.Rarity === 2">4</span>
+                                        <span *ngIf="weapon.Rarity === 3">6</span>
+                                        <span *ngIf="weapon.Rarity === 4">9</span>
+                                        <span *ngIf="weapon.Rarity === 5">14</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 5">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">4</span>
+                                        <span *ngIf="weapon.Rarity === 4">6</span>
+                                        <span *ngIf="weapon.Rarity === 5">9</span>
+                                    </p>
+                                    <p style="margin: 0px" *ngIf="stats === 6">
+                                        &nbsp;x&nbsp;
+                                        <span *ngIf="weapon.Rarity === 1">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 2">N/A</span>
+                                        <span *ngIf="weapon.Rarity === 3">8</span>
+                                        <span *ngIf="weapon.Rarity === 4">12</span>
+                                        <span *ngIf="weapon.Rarity === 5">18</span>
+                                    </p>
+                                </div>
+                            </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="displayColumnAscension"></tr>
+                        <tr mat-row *matRowDef="let row; columns: displayColumnAscension;"></tr>
+                    </table>
+                </div>
+
+
+                <h1>Weapon Stats</h1>
+                <div class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="weaponDetailsList[weapon.Name].Stats"
+                        mat-table [dataSource]="weaponDetailsList[weapon.Name].Stats"
+                        class="mat-elevation-z1 character-base-stats-table">
+                        <ng-container matColumnDef="Level">
+                            <th mat-header-cell *matHeaderCellDef> Level </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level }} </td>
+                        </ng-container>
+                        <ng-container matColumnDef="BaseStats">
+                            <th mat-header-cell *matHeaderCellDef> Base stats </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.BaseAttack }} </td>
+                        </ng-container>
+                        <ng-container matColumnDef="SubStats">
+                            <th mat-header-cell *matHeaderCellDef> Sub stats </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.SubStats }} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="displayColumn"></tr>
+                        <tr mat-row *matRowDef="let row; columns: displayColumn;"></tr>
+                    </table>
+                </div>
+
+                <h1 *ngIf="weapon.Rarity !== 1 && weapon.Rarity !== 2">Refinement</h1>
+                <div *ngIf="weapon.Rarity !== 1 && weapon.Rarity !== 2" class="responsive-table">
+                    <table style="width: 100%; margin-bottom: 20px;" *ngIf="weaponDetailsList[weapon.Name].Refine"
+                        mat-table [dataSource]="weaponDetailsList[weapon.Name].Refine"
+                        class="mat-elevation-z1 character-base-stats-table">
+                        <ng-container matColumnDef="Level">
+                            <th mat-header-cell *matHeaderCellDef> Level </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Level }} </td>
+                        </ng-container>
+                        <ng-container matColumnDef="Description">
+                            <th mat-header-cell *matHeaderCellDef> Description </th>
+                            <td mat-cell *matCellDef="let stats"> {{ stats.Description }} </td>
+                        </ng-container>
+
+                        <tr mat-header-row *matHeaderRowDef="displayColumnRefine"></tr>
+                        <tr mat-row *matRowDef="let row; columns: displayColumnRefine;"></tr>
+                    </table>
+                </div>
+            </div>
+        </mat-expansion-panel>
+    </mat-accordion>
 </div>
