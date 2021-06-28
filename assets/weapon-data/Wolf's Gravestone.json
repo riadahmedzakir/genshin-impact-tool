@@ -1,0 +1,158 @@
+{
+    "Name": "Wolf's Gravestone",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 46,
+            "SubStats": 10.8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 12.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 82,
+            "SubStats": 14.7
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 102,
+            "SubStats": 16.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 122,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 153,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 173,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 194,
+            "SubStats": 23.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 214,
+            "SubStats": 25.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 235,
+            "SubStats": 27.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 266,
+            "SubStats": 27.8
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 287,
+            "SubStats": 30
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 308,
+            "SubStats": 32.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 340,
+            "SubStats": 32.2
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 361,
+            "SubStats": 34.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 382,
+            "SubStats": 36.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 414,
+            "SubStats": 36.5
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 435,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 457,
+            "SubStats": 40.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 488,
+            "SubStats": 40.9
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 510,
+            "SubStats": 43.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 532,
+            "SubStats": 45.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 563,
+            "SubStats": 45.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 586,
+            "SubStats": 47.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 608,
+            "SubStats": 49.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases ATK by 20%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 40% for 12s. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases ATK by 25%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 50% for 12s. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases ATK by 30%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 60% for 12s. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases ATK by 35%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 70% for 12s. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases ATK by 40%. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by 80% for 12s. Can only occur once every 30s."
+        }
+    ],
+    "Story": "The Knight of Boreas' journey ended at the city of Barbatos.Wandering souls attract each other, boundless freedom begets only anxiety.Upon entering the city, the Knight of Boreas' companion bade him farewell in silence.For the free-spirited Wolf resented the stone walls and lamplight, and yearned for the open wilds.The Knight of Boreas' heart remained free, though his flesh was inside the prison-like city.Meanwhile, the windborne Wolf roamed the forest in the flesh, while his heart remained loyal to the Knight.The Knight of Boreas rode again to hunt. The Wolf followed his scent into battle.Still one were they, the Wolf and the Knight.Though one they were, death comes for beasts sooner than men.Laying down his sword as a gravestone, the Knight of Boreas buried the Wolf in the remote countryside.The Knight of Boreas then left the city behind, living instead the wandering life of a lone wolf.Yet the eternal wolf spirit remained here,Watching over the land the Knight once protected."
+}

@@ -1,0 +1,128 @@
+{
+    "Name": "Iron Point",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 33,
+            "SubStats": 0
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 43,
+            "SubStats": 0
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 55,
+            "SubStats": 0
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 68,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 80,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 91,
+            "SubStats": 0
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 103,
+            "SubStats": 0
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 115,
+            "SubStats": 0
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 127,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 139,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 0
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 162,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 174,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 186,
+            "SubStats": 0
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 197,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 209,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 220,
+            "SubStats": 0
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 232,
+            "SubStats": 0
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 243,
+            "SubStats": 0
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": ""
+        }
+    ],
+    "Story": "A simple weapon that exudes a certain austerity.For those who defend that which they must protect,Or a traveler with naught to their name but themselves,Even the most mundane of weapons might be ten times as powerful as it seems."
+}

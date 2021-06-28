@@ -1,0 +1,158 @@
+{
+    "Name": "Slingshot",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 38,
+            "SubStats": 6.8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 48,
+            "SubStats": 7.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 61,
+            "SubStats": 9.3
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 73,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 86,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 105,
+            "SubStats": 12
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 117,
+            "SubStats": 13.4
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 129,
+            "SubStats": 14.8
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 140,
+            "SubStats": 16.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 17.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 171,
+            "SubStats": 17.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 182,
+            "SubStats": 18.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 193,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 212,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 223,
+            "SubStats": 21.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 234,
+            "SubStats": 23
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 253,
+            "SubStats": 23
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 264,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 274,
+            "SubStats": 25.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 294,
+            "SubStats": 25.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 304,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 314,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 334,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 344,
+            "SubStats": 29.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 354,
+            "SubStats": 31.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "Mask"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 36%. Otherwise, decreases DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 42%. Otherwise, decreases DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 48%. Otherwise, decreases DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 54%. Otherwise, decreases DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "If a Normal or Charged Attack hits a target within 0.3s of being fired, increases DMG by 60%. Otherwise, decreases DMG by 10%."
+        }
+    ],
+    "Story": "One who wished to improve the range and accuracy of slingshots discovered thatPower increases range, but costs accuracy.So slingshot rocks were replaced with long wooden poles that sported feathers for stability.The slingshot's limbs were lengthened and the ends recurved to increase pull.It then dawned on him that he had made a bow."
+}

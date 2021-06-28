@@ -1,0 +1,158 @@
+{
+    "Name": "Primordial Jade Winged-Spear",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 48,
+            "SubStats": 4.8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 65,
+            "SubStats": 5.6
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 87,
+            "SubStats": 6.5
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 110,
+            "SubStats": 7.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 133,
+            "SubStats": 8.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 164,
+            "SubStats": 8.5
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 188,
+            "SubStats": 9.5
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 212,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 236,
+            "SubStats": 11.4
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 261,
+            "SubStats": 12.4
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 292,
+            "SubStats": 12.4
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 316,
+            "SubStats": 13.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 341,
+            "SubStats": 14.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 373,
+            "SubStats": 14.3
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 398,
+            "SubStats": 15.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 423,
+            "SubStats": 16.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 455,
+            "SubStats": 16.2
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 480,
+            "SubStats": 17.2
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 506,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 537,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 563,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 590,
+            "SubStats": 20.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 621,
+            "SubStats": 20.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 648,
+            "SubStats": 21.1
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 674,
+            "SubStats": 22.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "On hit, increases ATK by 3.2% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 12%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "On hit, increases ATK by 3.9% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 15%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "On hit, increases ATK by 4.6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 18%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "On hit, increases ATK by 5.3% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 21%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "On hit, increases ATK by 6% for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by 24%."
+        }
+    ],
+    "Story": "At Liyue's foundation, monsters and gods still ruled the seas.In fear the forebears lived, and fought the sea with all they could muster.As spring turned to fall and back again for many an eon, a behemoth arose that dominated the seas.Even the Geo Archon's Geo Whale could not triumph against it.The people of Liyue called it \"Baqiu,\" a beast without rival even in the deepest depths of the ocean abyss.Its enormous waves would wash away entire settlements.So the Geo Archon fashioned a black kite by hand with jade and stones.The stone bird took to the unbound skies once forged.Into the heart of the ocean it dove, into the battlefield with the behemoth and the whale.Into the depths of the sea the behemoth sank, there to stay forever.Released from its thundering roars were the people of Liyue."
+}

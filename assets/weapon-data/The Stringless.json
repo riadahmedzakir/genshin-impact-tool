@@ -1,0 +1,158 @@
+{
+    "Name": "The Stringless",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 36
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 42
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 49
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 56
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 64
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 64
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 71
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 78
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 85
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 93
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 93
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 100
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 107
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 107
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 115
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 122
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 122
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 129
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 136
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 136
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 144
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 151
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 151
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 158
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 165
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases Elemental Skill and Elemental Burst DMG by 24%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases Elemental Skill and Elemental Burst DMG by 30%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases Elemental Skill and Elemental Burst DMG by 36%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases Elemental Skill and Elemental Burst DMG by 42%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases Elemental Skill and Elemental Burst DMG by 48%."
+        }
+    ],
+    "Story": "An exquisite instrument with strings of different materials on every section.When struck, every string trembles, creating flowing music.But it is also a bow, one capable of firing arrows that target the heart. Where the music from this instrument leads, death shall surely follow.After the Wanderer's Troupe disbanded, the harp's strings were cut with a dull blade, creating ear-piercing noises.Only the bowstring now remains. The instrument's lofty melodies are lost, but it remains a deadly weapon.The Wanderer's Troupe could make birds fall from the sky, sometimes with the tune of the harp, sometimes with the arrows that followed the tune through the air.Just like the wind that elopes with the harp's tune and the flowers that grow on Starsnatch Cliff, the harpist was both playful and determined.After the uprising failed, the Wanderer's Troupe disbanded and its members fled.The harpist stayed till the end, deftly plucking the instrument's strings and raining down a torrent of arrows to protect his comrades. He played till he exhausted his repertoire, and his arrows.The harpist was from the magnificent and enchanting land of Fontaine. He had left to travel the world in search of his true destiny.It is said that all the ladies of the Court of Fontaine wailed with grief when they heard the tragic news that he had left without saying goodbye.The story is that he fell in love with a humble Mondstadt woman, but she was then selected for the miserable fate of Ludi Harpastum princess.It is claimed that he had no regrets about dying anonymously in a foreign land.The only thing he regretted was finally discovering true love, only to never have the chance to sing another love song."
+}

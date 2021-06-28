@@ -1,0 +1,158 @@
+{
+    "Name": "Blackcliff Agate",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 16.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 18.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 26.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 33.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 38.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 47.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 52.7
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 55.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "After defeating an enemy, ATK is increased by 15% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "After defeating an enemy, ATK is increased by 18% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "After defeating an enemy, ATK is increased by 21% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "After defeating an enemy, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        }
+    ],
+    "Story": "A catalyst made from rare blackcliff. It glows when activated and cosmic energy circulates within.The device is circular with a piece of blood-red Cor Purum fitted in the center. The Cor Purum seems to wax and wane like a crimson moon, growing steadily brighter and then steadily darker in a never-ending cycle.\"The myriad mountains of Tianheng are a trove of a thousand treasures, for deep within the rocks bounteous jade gleams gloriously.\" This is to say, mining prospered in Liyue under Rex Lapis' rule.One by one the ore deposits in Mt. Tianheng and the surrounding area would run dry, and the miners would dig further. The result was a network of mine shafts stretching across the region in all directions. At their deepest point, the mines reached all the way to the earth's core.Slowly, the once-quiet region was beset by increasingly frequent disturbances. With a deep growl, the earth would tremble, causing landslides on the mountains and cave-ins in the mines.In the night, the aggrieved souls of the innocent who died in the disasters could be heard wailing in the distance.Then one day, a stranger arrived at Mt. Qingce.The stranger was dressed in a full-length gown and spoke in an esoteric and eloquent manner. He claimed to be a thaumaturge visiting Liyue on a quest to find two craftsmen by the names of Yun and Han.Yun Huang, the first daughter of the Yun family, was then resident in Qingce Village. She immediately sent a messenger to fetch Han Ce, first son of master craftsman Han Wu.The thaumaturge informed them both that in the past, the Yuns and Hans had jointly crafted a catalyst for the thaumaturges of the world.With unrest now spreading through Liyue, the thaumaturges wished to provide the Yuns and Hans with a piece of crimson Cor Purum, in the hope that it might help the people of Liyue through this troubled time.On receiving the message, Yun Huang and Han Ce lit the furnace at once and crafted a blackcliff catalyst with the crimson Pur Lapis at its core.The crimson stone resonated with the ley lines of the earth. A blood-red glow would fade in and out as if to give forewarning of imminent tectonic activity.Just as the stars guide those who travel by night, so this catalyst was the light that gave safe passage to the people of Liyue through that tumultuous time of landslides and cave-ins. It was placed at the foot of Mt. Tianheng for all to see.When peaceful days finally returned, the Blackcliff Agate quietly disappeared without a trace, just as had faded the fury of the earth's core."
+}

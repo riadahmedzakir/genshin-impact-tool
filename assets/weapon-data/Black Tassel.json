@@ -1,0 +1,158 @@
+{
+    "Name": "Black Tassel",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 38,
+            "SubStats": 10.2
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 48,
+            "SubStats": 11.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 61,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 73,
+            "SubStats": 16
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 86,
+            "SubStats": 18
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 105,
+            "SubStats": 18
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 117,
+            "SubStats": 20.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 129,
+            "SubStats": 22.2
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 140,
+            "SubStats": 24.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 171,
+            "SubStats": 26.3
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 182,
+            "SubStats": 28.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 193,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 212,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 223,
+            "SubStats": 32.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 234,
+            "SubStats": 34.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 253,
+            "SubStats": 34.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 264,
+            "SubStats": 36.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 274,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 294,
+            "SubStats": 38.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 304,
+            "SubStats": 40.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 314,
+            "SubStats": 42.8
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 334,
+            "SubStats": 42.8
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 344,
+            "SubStats": 44.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 354,
+            "SubStats": 46.9
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Aerosiderite",
+        "CommonCharacterAscensionMaterial": "BoneShard",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against slimes by 40%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against slimes by 50%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against slimes by 60%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against slimes by 70%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against slimes by 80%."
+        }
+    ],
+    "Story": "One night, a Millelith officer drank with a poet, and brought his signature white-tasseled halberd with him.The poet's ink was spilled.And the halberd's white tassel was dyed black.\"'Tis but a tale of polearm wielder and poet.\"\"Unrelated to mine own black-tasseled polearm.\"The old smith smacked his apprentice.He demanded he dye black the tassel for the newly made polearm."
+}

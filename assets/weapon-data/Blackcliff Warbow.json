@@ -1,0 +1,158 @@
+{
+    "Name": "Blackcliff Warbow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 8
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 9.3
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 10.9
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 12.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 15.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 17.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 19
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 20.6
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 22.2
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 23.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 25.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 27.1
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 28.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 30.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 31.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 33.5
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 35.1
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 36.8
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "After defeating an enemy, ATK is increased by 12% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "After defeating an enemy, ATK is increased by 15% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "After defeating an enemy, ATK is increased by 18% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "After defeating an enemy, ATK is increased by 21% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "After defeating an enemy, ATK is increased by 24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+        }
+    ],
+    "Story": "A longbow made from rare blackcliff. Drawing the bow invokes a sound like the wind — a premonition of the final breeze for any target within 100 yards.With a jet-black body contrasted by blood-red ends, it's cold to the touch without being intimidating. A shot from this bow takes to the skies like a meteor, challenging both wind and thunder.The house of Yun has long since established itself in Liyue as a family of craftsmen. At the time of this bow's inception, the seventh head of the house, Hui, was well-renowned as a member of the Qixing.Yun Hui had but one child, a daughter, by the name of Huang. As per familial custom, should she marry, her husband would take over as head of house.Having been raised an unyielding martial artist, Huang refused to take this path, and instead took over as the daughter she was, inciting endless gossip amongst the people.But Yun Huang took control at a hard time.The continent was troubled. Even the loftiest of peaks and deepest of caves collapsed to a symphony of low roars.The bounty of the earth beneath them became almost unreachable, threatening to bring an end to the legacy of their craft.One night Yun Huang lay awake unable to sleep, tortured by her worries that her family's name would end with her.Amidst the sorrow that enveloped her, she could do naught but call upon the heavens and pray for celestial intervention in her desperate situation.It was then that Han Ce, who had long since abandoned his family business and wandered the continent, arrived in the village in his craftsman's attire.He handed Huang a small wooden box, within which were the prototype plans his father had revised in his later years. He also took out a bow and said:\"As the issue arose from Blackcliff, so too shall it end by Blackcliff. It is said that the house of Yun appreciates archery. Should it please you, give this bow a try.\"Huang fired an arrow into the sky. It roared across the heavens like angry thunder, as the sound of the bowstring being released reverberated throughout the mountains.As she watched the clouds flow beneath the moon, she knew that her prayer had been answered."
+}

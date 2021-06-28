@@ -1,0 +1,158 @@
+{
+    "Name": "Royal Longsword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 9
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 10.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 12.3
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 19.5
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 25
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 28.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 32.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 35.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 39.5
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 41.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Mask"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+        }
+    ],
+    "Story": "A longsword used by a noble who ruled over Mondstadt. It was crafted with premium materials and master craftsmanship.For that reason, even after being passed down for generations, it is still as sharp as ever.Swordsmanship was once a mandatory skill for the nobles.However, it was for the purpose of refining wisdom and elegance, not for use in combat.Unfortunately, wisdom and elegance were eventually all but forgotten. Swordsmanship became a mere formality.Twenty-six hundred years ago was the era of Mondstadt's most ancient inhabitants.They swore a solemn oath, after the new Anemo Archon descended and reformed the world:\"For Mondstadt, as always. For the verdant plains, for the hills, and for the forests of Mondstadt. May they continue to flourish, as always.\"\"For Mondstadt, as always. For the everlasting freedom of Mondstadt from the blizzard and the tyrant, whose coldness and oppression are one and the same.\"No matter what future woes might befall Mondstadt, whether human tyranny or monster infestation, and even if that tablet is destroyed on which the oath of protection is written,The oath itself will forever be borne by the winds, gently caressing Mondstadt like a doting lover, firmly defending Mondstadt like a loving father."
+}

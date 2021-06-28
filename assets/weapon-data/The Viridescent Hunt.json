@@ -1,0 +1,158 @@
+{
+    "Name": "The Viridescent Hunt",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 40% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 14s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 50% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 13s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 60% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 12s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 70% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 11s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon hit, Normal and Aimed Shot Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing 80% of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every 10s."
+        }
+    ],
+    "Story": "This bow once belonged to a certain hunter, and its green color was such that it could blend in with the natural environment.To be as pure as the beasts of the verdant fields, who roam in the forests in the light of day.To never bear any ill-will, and to never loose an arrow for any reason but to survive.The nameless hunter was taught thus, and grew thus, far away from the city.\"We were born of the greenery. As long as there is grass and shade, we shall move unimpeded.\"\"We are the same as beast and bird. As long as we follow the laws of nature, then we shall not fear death.\"\"All those who follow nature, when their life reaches its last ebb, shall head towards that endless plain.\"Following these precepts, the hunter left no traces, and fought not against the natural order.She comforted the wild beasts that had been shot through the heart, until their lives had returned to nature.If that calamity had not happened, if she had not tracked the tainted blood upon the leaves,If she had not met that dying, blind youth under the tree where she often napped,Then perhaps she may never have been shaken by thoughts of revenge, by blood and fire...\"Never forget, good Viridescent.\"\"Never forget that you belong to the green, child of the forest.\"\"Never loose your arrow for war, for revenge, or for glory.\"\"For the bloodstained shall never find yonder hunting fields of endless viridescence.\"\"Then at least do not let this bow be tainted by my mortal vengeance.\"\"I cannot reach the other side, whether to meet my master or the parents whom I have never met.\"\"But at least let this bow remain pure, and let it carry my thoughts and regrets to them.\""
+}

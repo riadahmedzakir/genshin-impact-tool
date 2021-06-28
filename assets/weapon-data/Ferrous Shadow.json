@@ -1,0 +1,158 @@
+{
+    "Name": "Ferrous Shadow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 39,
+            "SubStats": 7.7
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 50,
+            "SubStats": 8.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 65,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 79,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 94,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 113,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 127,
+            "SubStats": 15.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 141,
+            "SubStats": 16.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 155,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 169,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 189,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 202,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 216,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 236,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 249,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 263,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 282,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 296,
+            "SubStats": 27.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 309,
+            "SubStats": 29
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 329,
+            "SubStats": 29
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 342,
+            "SubStats": 30.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 355,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 375,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 388,
+            "SubStats": 33.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 401,
+            "SubStats": 35.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Nectar"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "When HP falls below 70%, increases Charged Attack DMG by 30% and Charged Attacks become harder to interrupt."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "When HP falls below 75%, increases Charged Attack DMG by 35% and Charged Attacks become harder to interrupt."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "When HP falls below 80%, increases Charged Attack DMG by 40% and Charged Attacks become harder to interrupt."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "When HP falls below 85%, increases Charged Attack DMG by 45% and Charged Attacks become harder to interrupt."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "When HP falls below 90%, increases Charged Attack DMG by 50% and Charged Attacks become harder to interrupt."
+        }
+    ],
+    "Story": "When the young Arundolyn swung his replica greatsword — modeled off the one wielded by Ravenwood, the Knight of Boreas — imagining that he was cutting the old nobles of Mondstadt down, he never envisaged that he would one day become the renowned \"Lion of Light.\" Nor did he envisage that his playmate Rostam, with whom he sparred in their childhood, would grow up to become his most trusted right-hand man, before going on to die in the course of duty, having served the people of Mondstadt for 23 years.The replica of the Lion of Light's greatsword is now in the hands of another youngster.How will this mysterious fate be passed on?"
+}

@@ -1,0 +1,128 @@
+{
+    "Name": "Silver Sword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 33,
+            "SubStats": 0
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 43,
+            "SubStats": 0
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 55,
+            "SubStats": 0
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 68,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 80,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 91,
+            "SubStats": 0
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 103,
+            "SubStats": 0
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 115,
+            "SubStats": 0
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 127,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 139,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 151,
+            "SubStats": 0
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 162,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 174,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 186,
+            "SubStats": 0
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 197,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 209,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 220,
+            "SubStats": 0
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 232,
+            "SubStats": 0
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 243,
+            "SubStats": 0
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": ""
+        }
+    ],
+    "Story": "Despite how the folk belief would have it, silver does not actually have any special ability to exorcise.It is the pure heart of the wandering exorcist that is the true bane of evil."
+}

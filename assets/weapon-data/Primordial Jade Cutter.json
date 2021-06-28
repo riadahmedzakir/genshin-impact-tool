@@ -1,0 +1,158 @@
+{
+    "Name": "Primordial Jade Cutter",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 9.6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 58,
+            "SubStats": 11.2
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 76,
+            "SubStats": 13.1
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 93,
+            "SubStats": 15
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 110,
+            "SubStats": 17
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 141,
+            "SubStats": 17
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 158,
+            "SubStats": 18.9
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 176,
+            "SubStats": 20.8
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 193,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 24.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 241,
+            "SubStats": 24.7
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 258,
+            "SubStats": 26.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 275,
+            "SubStats": 28.6
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 307,
+            "SubStats": 28.6
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 324,
+            "SubStats": 30.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 341,
+            "SubStats": 32.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 373,
+            "SubStats": 32.5
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 390,
+            "SubStats": 34.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 408,
+            "SubStats": 36.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 439,
+            "SubStats": 36.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 457,
+            "SubStats": 38.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 40.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 506,
+            "SubStats": 40.2
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 524,
+            "SubStats": 42.2
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 542,
+            "SubStats": 44.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "HP increased by 20%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "HP increased by 25%. Additionally, provides an ATK Bonus based on 1.5% of the wielder's Max HP."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "HP increased by 30%. Additionally, provides an ATK Bonus based on 1.8% of the wielder's Max HP."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "HP increased by 35%. Additionally, provides an ATK Bonus based on 2.1% of the wielder's Max HP."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "HP increased by 40%. Additionally, provides an ATK Bonus based on 2.4% of the wielder's Max HP."
+        }
+    ],
+    "Story": "They say that when Liyue first arose, Rex Lapis once walked the land with a sword hewn from jade.Despite the constant wear and tear of age, the jade edge, so bathed in blood, still retained a polished sheen as if brand-new.The blood was washed away in the rain of a thousand years, yet the thoughts and grudges that gathered about it could not be so easily eliminated.\"Nephrite has the soul of the Bishui's gentle heart, and will in time cleanse itself of the remnant grudges within.\"\"But who will ease the agony that the jade itself feels for having become an instrument of slaughter?\"These words of a friend long-forgotten were both lament and sigh.But the inexorable gears of destiny would drown out those compassionate words.In the passing of many long years, many became mortal foes who once made merry together,While those who betrayed one another or fought to the death would come to share a drink, their hatred dispelled.So it was also with this precious sword, carved as it once was to be given as an expensive gift to a certain someone.This jade too was once cut for love of peace and luxury.When wine vessels are filled with blood, and when tender feelings are ripped asunder by cold ambition and reduced to dust on the wind,Gifts ungiven and bonds unspoken will become sharp blades with which to cleave erstwhile friends."
+}

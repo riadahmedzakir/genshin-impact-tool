@@ -1,0 +1,158 @@
+{
+    "Name": "Royal Greatsword",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+        }
+    ],
+    "Story": "A greatsword used by a noble who ruled over Mondstadt. It was crafted with premium materials and master craftsmanship.For that reason, even after being passed down for generations, it is still as good as new.Combat was once a responsibility of the nobles.They protected their people from monsters threatening peace and stability.Unfortunately, they all but forgot their responsibilities, which turned them into the very monsters they once sought to destroy.Research suggests that gladiatorial combat originated in a religious context during the rule of the Aristocracy.Now outlawed by the Knights of Favonius, it began as a sacrificial ceremony held jointly with prayers to the gods.Though the practice was later turned into a perverted sport for the Lawrence Clan's pleasure, and subsequently abolished by the Knights,Some texts of the original prayers still remain.\"Please look after Mondstadt's winds. Look after me, my friends, my countrymen, and my opponent. May the sound of clashing blades delight you, and may the offering of sweat and blood please you.\"\"To the wind that guides me. When I'm exhausted, bless me with the strength to keep going forward. When I'm uncertain, bless me with the wisdom to distinguish good from evil.\""
+}

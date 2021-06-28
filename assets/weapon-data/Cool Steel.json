@@ -1,0 +1,158 @@
+{
+    "Name": "Cool Steel",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 39,
+            "SubStats": 7.7
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 50,
+            "SubStats": 8.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 65,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 79,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 94,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 113,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 127,
+            "SubStats": 15.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 141,
+            "SubStats": 16.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 155,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 169,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 189,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 202,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 216,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 236,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 249,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 263,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 282,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 296,
+            "SubStats": 27.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 309,
+            "SubStats": 29
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 329,
+            "SubStats": 29
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 342,
+            "SubStats": 30.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 355,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 375,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 388,
+            "SubStats": 33.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 401,
+            "SubStats": 35.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against opponents affected by Hydro or Cryo by 12%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against opponents affected by Hydro or Cryo by 15%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against opponents affected by Hydro or Cryo by 18%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against opponents affected by Hydro or Cryo by 21%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against opponents affected by Hydro or Cryo by 24%."
+        }
+    ],
+    "Story": "A sturdy steel sword forged by the method of folding.It has a dull shine with a cold glimmer.It belonged to a famous adventurer who witnessed the vastness of the earth.With it, he severed the iron bones of monsters and crossed blades with bandits.But in the end,He gave up the vast earth, the boundless sky,His friends in the Guild, his trusty Cool Steel, and old pals, to be with the girl he loved."
+}

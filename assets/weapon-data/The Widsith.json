@@ -1,0 +1,158 @@
+{
+    "Name": "The Widsith",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 16.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 18.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 26.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 33.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 38.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 47.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 52.7
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 55.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Mask"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 60%. Aria: Increases all Elemental DMG by 48%. Interlude: Elemental Mastery is increased by 240."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 75%. Aria: Increases all Elemental DMG by 60%. Interlude: Elemental Mastery is increased by 300."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 90%. Aria: Increases all Elemental DMG by 72%. Interlude: Elemental Mastery is increased by 360."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 105%. Aria: Increases all Elemental DMG by 84%. Interlude: Elemental Mastery is increased by 420."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "When the character takes the field, they will gain a random theme song for 10s. This can only occur once every 30s. Recitative: ATK is increased by 120%. Aria: Increases all Elemental DMG by 96%. Interlude: Elemental Mastery is increased by 480."
+        }
+    ],
+    "Story": "A notebook that was shared among the members of the Wanderer's Troupe. It contains musical scores and travel journals.The history of the troupe has been lost, since it was disbanded before Mondstadt was rebuilt.The notebook records the experiences of the Troupe, the lands they roamed and the worlds they witnessed.It siphons great power from the records of the Troupe's performances as well as the cheering of the crowds they performed for.The Wanderer's Troupe was founded during the reign of the Aristocracy.Many referred to it as the Swordman's Troupe — some out of hope, others out of fear.Even poems and songs were denied the right to freedom in that era.For flutes they had swords, for harps they had bows, and their song was an anthem of rebellion.Their final act was an attempt to storm the city and impose the death sentence upon its tyrannical rulers.The Swordsman's Troupe had gone, and with it the memory of their rebellion.But the spirit of resistance they embodied will always flow in Mondstadters' veins."
+}

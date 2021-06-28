@@ -1,0 +1,158 @@
+{
+    "Name": "Skyward Atlas",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 48,
+            "SubStats": 7.2
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 65,
+            "SubStats": 8.4
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 87,
+            "SubStats": 9.8
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 110,
+            "SubStats": 11.3
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 133,
+            "SubStats": 12.7
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 164,
+            "SubStats": 12.7
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 188,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 212,
+            "SubStats": 15.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 236,
+            "SubStats": 17.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 261,
+            "SubStats": 18.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 292,
+            "SubStats": 18.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 316,
+            "SubStats": 20
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 341,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 373,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 398,
+            "SubStats": 22.9
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 423,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 455,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 480,
+            "SubStats": 25.8
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 506,
+            "SubStats": 27.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 537,
+            "SubStats": 27.3
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 563,
+            "SubStats": 28.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 590,
+            "SubStats": 30.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 621,
+            "SubStats": 30.2
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 648,
+            "SubStats": 31.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 674,
+            "SubStats": 33.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Arrowhead"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases Elemental DMG Bonus by 12%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 160% ATK DMG. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases Elemental DMG Bonus by 15%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 200% ATK DMG. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases Elemental DMG Bonus by 18%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 240% ATK DMG. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases Elemental DMG Bonus by 21%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 280% ATK DMG. Can only occur once every 30s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases Elemental DMG Bonus by 24%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 320% ATK DMG. Can only occur once every 30s."
+        }
+    ],
+    "Story": "An atlas of wind.A copy of the atlas pertaining to the weather of the northern regions, presented in the form of poems and images.It consists of 100 thousand odes, each dedicated to a single cloud or wind and calling it by name.The cloud atlas gave form to the winds, and odes infused them with personality.The myriad formless winds are now friends and family in the eyes of Barbatos.Legends tell that in ancient times, Barbatos summoned the four winds with the original version.He thawed the snow, drove away vicious beasts, summoned rainfall, and created Mondstadt.He permitted the atlas to be shared and copied among the people, giving it the name of Cloud Atlas.Sadly, nothing survives the test of time. Certain drawings and odes were missing in the copies that survived.However, the knowledge passed on in the form of ballads and legends among the general public.The histories of the thousand winds were not lost, for Barbatos still holds them.When Barbatos stood against the shadowy wings of the evil dragon Durin,He sang to the thousand winds and called upon the Wind Dragon.He who holds this atlas wields the true names of the thousand winds and all of their powers.Now the skies above Mondstadt are calm and blue.Barbatos and Dvalin have found a new place to call home.The atlas, meanwhile, has been entrusted to one worthy of the honor."
+}

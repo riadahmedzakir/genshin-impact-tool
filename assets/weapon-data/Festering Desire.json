@@ -1,0 +1,158 @@
+{
+    "Name": "Festering Desire",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 10
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 11.6
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 13.6
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 15.7
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 21.7
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 23.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 25.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 25.8
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 27.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 29.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 29.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 31.8
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 33.8
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 33.8
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 35.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 37.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 37.9
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 39.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 41.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 41.9
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 43.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 45.9
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases Elemental Skill DMG by 16% and Elemental Skill CRIT Rate by 6%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases Elemental Skill DMG by 20% and Elemental Skill CRIT Rate by 7.5%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases Elemental Skill DMG by 24% and Elemental Skill CRIT Rate by 9%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases Elemental Skill DMG by 28% and Elemental Skill CRIT Rate by 10.5%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases Elemental Skill DMG by 32% and Elemental Skill CRIT Rate by 12%."
+        }
+    ],
+    "Story": "This was a story from long ago...Unborn life, unfulfilled wishes,Tragic dreams at the edge of the universal darkness that could never come true,Indwell my body, and descend unto this world.Then, my lovely children,Like rainwater flowing into creeks, and plants growing towards the sun,Go unto a lovely place, and display your own beauty there with pride.This is a memory, a memory that a child named Durin had of his mother...\"Thank you, Mother, thank you.\"\"You gave me wings to soar and a mighty form.\"\"Mother, I wish to go to a land of lovely songs,\"\"I will tell them about you, Mother, and about everyone else.\"\"I shall tell them that the place where I was born is beautiful.\""
+}

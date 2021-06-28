@@ -1,0 +1,158 @@
+{
+    "Name": "Royal Grimoire",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Decarabian",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 10%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 12%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 14%. Max 5 stacks. A CRIT Hit removes all stacks."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon damaging an opponent, increases CRIT Rate by 16%. Max 5 stacks. A CRIT Hit removes all stacks."
+        }
+    ],
+    "Story": "A delicate scroll treated with wax to prevent decay and moth damage.It contains the research of royal mages — research which is still rather forward-looking to this day.The royal mages were tasked with nourishing the water and soil as well as fighting off monsters. They also served as tutors for the nobles.Therefore, the scroll contains a wealth of information regarding history, governance, management, and culture.When the people overthrew the royals, they exiled the royal mages at the same time,For the mages had forsaken their responsibility to instill goodness and virtue in the nobles, instead becoming birds of a feather with them.In the early days of Mondstadt, the Lawrence Clan was led by Venerare.Under her guidance, the people built a tall statue in the plaza to commemorate the miracle of the Anemo Archon's descent.The inscription beneath the statue was put there by the leader of all the clans. It bore an oath of protection to Mondstadt that they had sworn.Over the years, the Lawrence Clan forsook the noble aspirations of their forebears, and the statue was taken down.The wise mages of the court spoke neither of history nor of the oath ever again.In the age of the Knights of Favonius, the statue was rebuilt.But the wording of the oath on the inscription was lost forever."
+}

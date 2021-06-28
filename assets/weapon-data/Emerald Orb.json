@@ -1,0 +1,158 @@
+{
+    "Name": "Emerald Orb",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 40,
+            "SubStats": 20
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 53,
+            "SubStats": 24
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 28
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 86,
+            "SubStats": 32
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 102,
+            "SubStats": 36
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 121,
+            "SubStats": 36
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 138,
+            "SubStats": 40
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 154,
+            "SubStats": 44
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 171,
+            "SubStats": 48
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 187,
+            "SubStats": 53
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 207,
+            "SubStats": 53
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 223,
+            "SubStats": 57
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 239,
+            "SubStats": 61
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 259,
+            "SubStats": 61
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 275,
+            "SubStats": 65
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 292,
+            "SubStats": 69
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 311,
+            "SubStats": 69
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 327,
+            "SubStats": 73
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 344,
+            "SubStats": 77
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 363,
+            "SubStats": 77
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 380,
+            "SubStats": 81
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 396,
+            "SubStats": 85
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 415,
+            "SubStats": 85
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 432,
+            "SubStats": 90
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 448,
+            "SubStats": 94
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by 20% for 12s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by 25% for 12s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by 30% for 12s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by 35% for 12s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Upon causing a Vaporize, Electro-Charged, Frozen, or a Hydro-infused Swirl reaction, increases ATK by 40% for 12s."
+        }
+    ],
+    "Story": "A lightweight catalyst carved out of emerald-green jade. It is durable and affordable, which makes it a popular item all around.Small but exquisitely made, it is colloquially referred to by the people of Liyue as the \"jade ball.\"It is a highly efficient defensive Catalyst as well as a good-looking accessory."
+}

@@ -1,0 +1,158 @@
+{
+    "Name": "Rust",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 9
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 10.5
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 12.3
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 14.1
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 15.9
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 17.7
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 19.5
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 21.4
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 23.2
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 25
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 26.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 28.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 30.4
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 32.3
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 34.1
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 35.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 37.7
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 39.5
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 41.3
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Guyun",
+        "CommonCharacterAscensionMaterial": "SacrificialKnife",
+        "CommonWeaponAscensionMaterial": "Mask"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases Normal Attack DMG by 40% but decreases Charged Attack DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases Normal Attack DMG by 50% but decreases Charged Attack DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases Normal Attack DMG by 60% but decreases Charged Attack DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases Normal Attack DMG by 70% but decreases Charged Attack DMG by 10%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases Normal Attack DMG by 80% but decreases Charged Attack DMG by 10%."
+        }
+    ],
+    "Story": "An ancient bow, as hard as cast iron, that once belonged to a famed archer.He once slayed monsters and bandits like silvergrass in the wind.As he pursued mastery in the discipline of archery,his string sang like unrelenting thunder,and his arrows shone like sun-soaked iron rain.In his twilight years, the archer had a revelation.\"The ultimate profundity of speech is the word withheld, and the ultimate profundity in archery is the arrow spared.\"Thereafter, he never spoke again of arrows shot out of the sky.Nor did he speak again of the foul monsters slain by iron arrows shot from an iron bow.He buried his bow in the ground and went to live as a hermit amidst the hills.Allegedly, the story of his death is as follows:Every night, as the sound of a plucked string rang out from his home, a ray of brilliant purple light shot forth, and foul monsters dared not approach.On the night of his death there was a storm. Amidst the howling wind and rain there was but a single clap of thunder. The accompanying bolt of lightning shot upwards, towards the sky, burning bright as the stars in the galaxy."
+}

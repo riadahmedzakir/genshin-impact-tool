@@ -1,0 +1,158 @@
+{
+    "Name": "Rainslasher",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 42,
+            "SubStats": 36
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 56,
+            "SubStats": 42
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 74,
+            "SubStats": 49
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 91,
+            "SubStats": 56
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 109,
+            "SubStats": 64
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 135,
+            "SubStats": 64
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 152,
+            "SubStats": 71
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 170,
+            "SubStats": 78
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 187,
+            "SubStats": 85
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 205,
+            "SubStats": 93
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 231,
+            "SubStats": 93
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 248,
+            "SubStats": 100
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 266,
+            "SubStats": 107
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 292,
+            "SubStats": 107
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 309,
+            "SubStats": 115
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 327,
+            "SubStats": 122
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 353,
+            "SubStats": 122
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 370,
+            "SubStats": 129
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 388,
+            "SubStats": 136
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 414,
+            "SubStats": 136
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 431,
+            "SubStats": 144
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 449,
+            "SubStats": 151
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 475,
+            "SubStats": 151
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 492,
+            "SubStats": 158
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 510,
+            "SubStats": 165
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 20%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 24%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 28%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 32%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Increases DMG against opponents affected by Hydro or Electro by 36%."
+        }
+    ],
+    "Story": "A dimly fluorescent greatsword with no sharp edge.Years ago it was known as the \"Beacon of the Nether\" by the mountain bandits.Seeing it meant there was no way back.The only way was forward, towards the end of one's life.\"Formless, like the rain that cuts through rain. Weightless, like the light that pierces light.\"\"Untouchable, moving like a snake. Inescapable, as sword's stare and polearm's glance.\"The Rainslasher was named out of reverence for its master. Originally it had no name.The blade's first and final master was a martial nomad who went by the name of Guhua.It is said he was an adeptus. While Guhua lived, bandits dared not act and the wilderness knew a peace like that of the city.Allegedly, at the end of his journey he ascended in a purple haze and became a star.One to whom Guhua had shown kindness founded what is now known as the Guhua School in his honor. But no school is destined to last forever."
+}

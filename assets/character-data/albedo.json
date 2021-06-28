@@ -1,0 +1,446 @@
+{
+    "Name": "Albedo",
+    "FullName": "",
+    "Sex": "Male",
+    "Birthday": "September 13th",
+    "Weapon": "Sword",
+    "Element": "Geo",
+    "Constellation": "Princeps Cretaceus",
+    "Nation": "Mondstadt",
+    "Affiliation": "Knights of Favonius",
+    "SpecialDish": "Woodland Dream",
+    "Titles": "Kreideprinz, The Chalk Prince, Chief Alchemist, Captain of the Investigation Team",
+    "Intro": "The mysterious Albedo is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius through a recommendation from the adventurer Alice, with Sucrose as his assistant. He holds an infinite desire to learn about the world of Teyvat, carefully studying every object around him.\n",
+    "Introduction": "Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.\"Genius,\" \"Kreideprinz,\" or \"Captain of the Investigation Team\"... Such titles and honors are of no consequence to him when there is so much more research to conduct.The pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars.",
+    "Personality": [
+        "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+        "Albedo is described as an amiable and popular figure in Mondstadt, as well as an alchemical genius. He pursues the \"truth\" of the world of Teyvat per his master's request and seems to be able to create living organisms through his alchemical talents. Albedo is also apparently good with children, as even the rambunctious Klee listens to him, and he sees her like a younger sister of sorts.",
+        "Similarly to Sucrose, Albedo spends most of his time as a recluse that he shows a slight distaste for talking with others because of the trouble needed to maintain the social relationship. He does not stutter like his assistant.",
+        "Albedo is a talented artist, having picked up the hobby initially to help with his experiments, but now does so to relax. He serves as Xingqiu's illustrator, considering him to be a good author. He researches and studies whatever he is interested in, stating that he enjoys the sense of enlightenment doing so. Once this feeling is gone, he quickly abandons what he was doing as the truth feels bittersweet to him. He also retains this habit when it comes to eating.",
+        "Despite being seen in a positive manner by the people of Mondstadt, they know almost nothing about him, and he is secretive about his past. He is implied to be a homunculus created by his master, as he curiously sees her as his creator and considers himself to be different from the people of Teyvat. Due to the forgotten and ancient knowledge he possesses, he even considers himself to be a threat, with both Venti and Dainsleif considering him to be dangerous for that reason."
+    ],
+    "Appearance": [
+        "Albedo is a young man with bright teal eyes with three dots in his iris (similar to the alchemy table) and pale skin. He has ashy light blonde hair reaching below his shoulders, partially pulled back in a braided ponytail. He is around the same age as Sucrose.",
+        "Albedo wears a long white coat with short sleeves, a black hood, black and gold details, a golden chain, and lining. Under this, he wears an indigo shirt and a pair of black shorts, along with plain black stockings, embellished thigh-high black boots with silver accents, and long black gloves with orange undersides and gold details, and also has a diamond-shaped gold marking on his neck and wears his vision on the collar of his shirt right below it."
+    ],
+    "Skill": {
+        "Skill_1": {
+            "Name": "Favonius Bladework - Weiss",
+            "Description": [
+                "Normal Attack: Perform up to 5 rapid strikes.Charged Attack: Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.Plunging Attack: Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact."
+            ]
+        },
+        "Skill_2": {
+            "Name": "Abiogenesis: Solar Isotoma",
+            "Description": [
+                "Albedo creates a Solar Isotoma using alchemy, which deals AoE Geo DMG on appearance.",
+                "Solar Isotoma has the following properties:",
+                "When enemies within the Solar Isotoma zone take damage, the Solar Isotoma will generate Transient Blossoms which deal AoE Geo DMG. DMG dealt scales off Albedo's DEF. Transient Blossoms can only be generated once every 2s.",
+                "When a character is located at the locus of the Solar Isotoma, the Solar Isotoma will accumulate Geo power to form a crystallized platform that lifts the character up to a certain height. Only one crystallized platform can exist at a time.",
+                "Solar Isotoma is a Geo Construct.",
+                "Hold to designate the location of the skill."
+            ]
+        },
+        "Skill_3": {
+            "Name": "Rite of Progeniture: Tectonic Tide",
+            "Description": [
+                "Under Albedo's command, Geo crystals surge and burst forth, dealing AoE Geo DMG in front of him.",
+                "If a Solar Isotoma created by Albedo himself is on the field, 7 Fatal Blossoms will be generated in the Solar Isotoma field, bursting violently into bloom and dealing AoE Geo DMG.",
+                "Tecotonic Tide DMG and Fatal Blossom DMG will not generate Transient Blossoms."
+            ]
+        },
+        "Skill_4": {
+            "Name": "Calcite Might",
+            "Description": [
+                "Transient Blossoms generated by Abiogenesis: Solar Isotoma deal 25% more DMG to opponents whose HP is below 50%."
+            ]
+        },
+        "Skill_5": {
+            "Name": "Homuncular Nature",
+            "Description": [
+                "Using Rite of Progeniture: Tectonic Tide increases the Elemental Mastery of nearby party members by 125 for 10s."
+            ]
+        },
+        "Skill_6": {
+            "Name": "Flash of Genius (Albedo)",
+            "Description": [
+                "When Albedo crafts Weapon Ascension Materials, he has a 10% chance to receive double the product."
+            ]
+        }
+    },
+    "Ascensions": {
+        "TalentBook": "Ballad",
+        "CommonCharacterAscensionMaterial": "Scroll",
+        "TalentBoss": "Childe",
+        "TalentMaterial": "Item_3",
+        "LocalMaterial": "Item_2",
+        "ElementalStone": "Item_5"
+    },
+    "BaseStats": [
+        {
+            "LEVEL": 1,
+            "HP": 1030,
+            "ATK": 20,
+            "DEF": 68,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 2671,
+            "ATK": 51,
+            "DEF": 177,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 20,
+            "HP": 3554,
+            "ATK": 68,
+            "DEF": 235,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5317,
+            "ATK": 101,
+            "DEF": 352,
+            "ExtraStatsValue": 0
+        },
+        {
+            "LEVEL": 40,
+            "HP": 5944,
+            "ATK": 113,
+            "DEF": 394,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 6839,
+            "ATK": 130,
+            "DEF": 453,
+            "ExtraStatsValue": 7.2
+        },
+        {
+            "LEVEL": 50,
+            "HP": 7675,
+            "ATK": 146,
+            "DEF": 508,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 8579,
+            "ATK": 163,
+            "DEF": 568,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 60,
+            "HP": 9207,
+            "ATK": 175,
+            "DEF": 610,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10119,
+            "ATK": 192,
+            "DEF": 670,
+            "ExtraStatsValue": 14.4
+        },
+        {
+            "LEVEL": 70,
+            "HP": 10746,
+            "ATK": 204,
+            "DEF": 712,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 11669,
+            "ATK": 222,
+            "DEF": 773,
+            "ExtraStatsValue": 21.6
+        },
+        {
+            "LEVEL": 80,
+            "HP": 12296,
+            "ATK": 233,
+            "DEF": 815,
+            "ExtraStatsValue": 28.8
+        },
+        {
+            "LEVEL": 90,
+            "HP": 13226,
+            "ATK": 251,
+            "DEF": 876,
+            "ExtraStatsValue": 28.8
+        }
+    ],
+    "ExtraStats": "Geo DMG Bonus",
+    "ConstellationDetails": [
+        {
+            "Level": 1,
+            "Name": "Flower of Eden",
+            "Details": [
+                "Transient Blossoms generated by Albedo's Abiogenesis: Solar Isotoma regenerate 1.2 Energy for Albedo."
+            ]
+        },
+        {
+            "Level": 2,
+            "Name": "Opening of Phanerozoic",
+            "Details": [
+                "Transient Blossoms generated by Abiogenesis: Solar Isotoma grant Albedo Fatal Reckoning for 30s:",
+                "Unleashing Rite of Progeniture: Tectonic Tide consumes all stacks of Fatal Reckoning. Each stack of Fatal Reckoning consumed increases the DMG dealt by Fatal Blossoms and Rite of Progeniture: Tectonic Tide's burst DMG by 30% of Albedo's DEF.",
+                "This effect stacks up to 4 times."
+            ]
+        },
+        {
+            "Level": 3,
+            "Name": "Grace of Helios",
+            "Details": [
+                "Increases the Level of Abiogenesis: Solar Isotoma by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 4,
+            "Name": "Descent of Divinity",
+            "Details": [
+                "Active party members within the Solar Isotoma field have their Plunging Attack DMG increased by 30%."
+            ]
+        },
+        {
+            "Level": 5,
+            "Name": "Tide of Hadean",
+            "Details": [
+                "Increases the Level of Rite of Progeniture: Tectonic Tide by 3.Maximum upgrade level is 15."
+            ]
+        },
+        {
+            "Level": 6,
+            "Name": "Dust of Purification",
+            "Details": [
+                "Active party members within the Solar Isotoma field who are protected by a shield created by Crystallize have their DMG increased by 17%."
+            ]
+        }
+    ],
+    "NormalAttackScale": [
+        {
+            "HitCount": "1-Hit DMG%",
+            "Level_1": 36.7,
+            "Level_2": 39.7,
+            "Level_3": 42.7,
+            "Level_4": 47,
+            "Level_5": 50,
+            "Level_6": 53.4,
+            "Level_7": 58.1,
+            "Level_8": 62.8,
+            "Level_9": 67.5,
+            "Level_10": 72.6,
+            "Level_11": 78.5
+        },
+        {
+            "HitCount": "2-Hit DMG%",
+            "Level_1": 36.7,
+            "Level_2": 39.7,
+            "Level_3": 42.7,
+            "Level_4": 47,
+            "Level_5": 50,
+            "Level_6": 53.4,
+            "Level_7": 58.1,
+            "Level_8": 62.8,
+            "Level_9": 67.5,
+            "Level_10": 72.6,
+            "Level_11": 78.5
+        },
+        {
+            "HitCount": "3-Hit DMG%",
+            "Level_1": 47.5,
+            "Level_2": 51.3,
+            "Level_3": 55.2,
+            "Level_4": 60.7,
+            "Level_5": 64.6,
+            "Level_6": 69,
+            "Level_7": 75,
+            "Level_8": 81.1,
+            "Level_9": 87.2,
+            "Level_10": 93.8,
+            "Level_11": 101
+        },
+        {
+            "HitCount": "4-Hit DMG%",
+            "Level_1": 49.8,
+            "Level_2": 53.8,
+            "Level_3": 57.9,
+            "Level_4": 63.6,
+            "Level_5": 67.7,
+            "Level_6": 72.3,
+            "Level_7": 78.7,
+            "Level_8": 85,
+            "Level_9": 91.4,
+            "Level_10": 98.3,
+            "Level_11": 106
+        },
+        {
+            "HitCount": "5-Hit DMG%",
+            "Level_1": 62.1,
+            "Level_2": 67.1,
+            "Level_3": 72.2,
+            "Level_4": 79.4,
+            "Level_5": 84.4,
+            "Level_6": 90.2,
+            "Level_7": 98.2,
+            "Level_8": 106,
+            "Level_9": 114,
+            "Level_10": 123,
+            "Level_11": 133
+        }
+    ],
+    "ChargedAttackScale": [
+        {
+            "HitCount": "Charged Attack 1st Hit",
+            "Level_1": 47.3,
+            "Level_2": 51.2,
+            "Level_3": 55,
+            "Level_4": 60.5,
+            "Level_5": 64.4,
+            "Level_6": 68.8,
+            "Level_7": 74.8,
+            "Level_8": 80.9,
+            "Level_9": 86.9,
+            "Level_10": 93.5,
+            "Level_11": 101
+        },
+        {
+            "HitCount": "Charged Attack 2nd Hit",
+            "Level_1": 60.2,
+            "Level_2": 65.1,
+            "Level_3": 70,
+            "Level_4": 77,
+            "Level_5": 81.9,
+            "Level_6": 87.5,
+            "Level_7": 95.2,
+            "Level_8": 103,
+            "Level_9": 111,
+            "Level_10": 119,
+            "Level_11": 129
+        }
+    ],
+    "PlungingAttackScale": [
+        {
+            "HitCount": "DMG%",
+            "Level_1": 63.9,
+            "Level_2": 69.1,
+            "Level_3": 74.3,
+            "Level_4": 81.8,
+            "Level_5": 87,
+            "Level_6": 92.9,
+            "Level_7": 101,
+            "Level_8": 109,
+            "Level_9": 118,
+            "Level_10": 126,
+            "Level_11": 135
+        },
+        {
+            "HitCount": "Low DMG%",
+            "Level_1": 128,
+            "Level_2": 138,
+            "Level_3": 149,
+            "Level_4": 164,
+            "Level_5": 174,
+            "Level_6": 186,
+            "Level_7": 202,
+            "Level_8": 218,
+            "Level_9": 235,
+            "Level_10": 253,
+            "Level_11": 271
+        },
+        {
+            "HitCount": "High DMG%",
+            "Level_1": 160,
+            "Level_2": 173,
+            "Level_3": 186,
+            "Level_4": 204,
+            "Level_5": 217,
+            "Level_6": 232,
+            "Level_7": 253,
+            "Level_8": 273,
+            "Level_9": 293,
+            "Level_10": 316,
+            "Level_11": 338
+        }
+    ],
+    "ChargedAttackStaminaCost": "20",
+    "ChargedAttackMaxDuration": 0,
+    "ElementalSkill": [
+        {
+            "HitCount": "Skill DMG%",
+            "Level_1": 130,
+            "Level_2": 140,
+            "Level_3": 150,
+            "Level_4": 163,
+            "Level_5": 173,
+            "Level_6": 183,
+            "Level_7": 196,
+            "Level_8": 209,
+            "Level_9": 222,
+            "Level_10": 235,
+            "Level_11": 248,
+            "Level_12": 261,
+            "Level_13": 277
+        },
+        {
+            "HitCount": "Transient Blossom DMG(% of DEF)",
+            "Level_1": 134,
+            "Level_2": 144,
+            "Level_3": 154,
+            "Level_4": 167,
+            "Level_5": 177,
+            "Level_6": 187,
+            "Level_7": 200,
+            "Level_8": 214,
+            "Level_9": 227,
+            "Level_10": 240,
+            "Level_11": 254,
+            "Level_12": 267,
+            "Level_13": 284
+        }
+    ],
+    "ElementalBrust": [
+        {
+            "HitCount": "Elemental Burst DMG",
+            "Level_1": 367.2,
+            "Level_2": 394.74,
+            "Level_3": 422.28,
+            "Level_4": 459,
+            "Level_5": 486.54,
+            "Level_6": 514.08,
+            "Level_7": 550.8,
+            "Level_8": 587.52,
+            "Level_9": 624.24,
+            "Level_10": 660.96,
+            "Level_11": 697.68,
+            "Level_12": 734.4,
+            "Level_13": 780.3,
+            "Level_14": 826.2,
+            "Level_15": 872.1
+        },
+        {
+            "HitCount": "Fatal Blossom DMG",
+            "Level_1": 72,
+            "Level_2": 77.4,
+            "Level_3": 82.8,
+            "Level_4": 90,
+            "Level_5": 95.4,
+            "Level_6": 100.8,
+            "Level_7": 108,
+            "Level_8": 115.2,
+            "Level_9": 122.4,
+            "Level_10": 129.6,
+            "Level_11": 136.8,
+            "Level_12": 144,
+            "Level_13": 153,
+            "Level_14": 162,
+            "Level_15": 171
+        }
+    ]
+}

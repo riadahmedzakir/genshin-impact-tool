@@ -1,0 +1,158 @@
+{
+    "Name": "Eye of Perception",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 41,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 54,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 16.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 84,
+            "SubStats": 18.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 99,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 125,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 140,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 155,
+            "SubStats": 26.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 169,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 184,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 210,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 224,
+            "SubStats": 33.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 238,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 264,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 278,
+            "SubStats": 38.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 293,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 319,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 333,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 347,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 373,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 387,
+            "SubStats": 47.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 401,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 427,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 440,
+            "SubStats": 52.7
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 454,
+            "SubStats": 55.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "Mask"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 240% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 12s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 270% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 11s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 300% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 10s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 330% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 9s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Normal and Charged Attacks have a 50% chance to fire a Bolt of Perception, dealing 360% ATK as DMG. This bolt can bounce between opponents a maximum of 4 times. This effect can occur once every 8s."
+        }
+    ],
+    "Story": "A beauteous item fashioned from rare natural glaze.Legend has it that the Eye of Perception was once upon a time as bright, clear and smooth as a lake's surface, but became dulled over the passage of many years.Folk records claim that on a still night, one can hear it make soft noises.Sometimes it sounds like a mild breeze, other times like a flowing spring.They say that the Eye was an adeptus's heirloom that was passed down in Liyue and eventually found its way into the Yun family.Now one day, Yun was strolling about in the mountains, and there they happened to meet an exorcist named Huang, who had come to consult with the adepti.Yun spoke with Huang enthusiastically and at length, and gifted the Eye to Huang. When Huang frantically declined, Yun said this with a smile:\"This pearl is nature's very quintessence. Only one whose heart is clear can use it.\"Thanking Yun, Huang took the Eye and wore it on his person, and slowly made his way towards Liyue. Along the way, neither rain nor wind impeded him.As one who sought after the path of the adepti, Huang wandered the lands without rest. Thus, he would often be at the market to buy water and food.The harbor-side streets were a morass of humanity. Yet Huang walked among them as if idle, and was never taken advantage of.Some were curious: how could this bookish exorcist take to the city like a fish to water, and never miss a step?When asked, he replied: \"This Eye trembles at wickedness, and helps me see which hearts are true.\"This Eye could reveal human hearts, though no one knows how it worked, causing many to fall back on folktales to explain it.Some say that at midnight, you can dimly hear it call out like a mild breeze, or like spring water flowing between scattered stones.Both are reminiscent of the murmuring of demons that feed on wicked thoughts, a common feature of the parables once told by mothers to their children in days gone by."
+}

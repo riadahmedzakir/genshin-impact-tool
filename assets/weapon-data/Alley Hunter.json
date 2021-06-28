@@ -1,0 +1,158 @@
+{
+    "Name": "Alley Hunter",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 44,
+            "SubStats": 6
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 59,
+            "SubStats": 7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 79,
+            "SubStats": 8.2
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 99,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 119,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 144,
+            "SubStats": 10.6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 165,
+            "SubStats": 11.8
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 185,
+            "SubStats": 13
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 205,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 226,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 252,
+            "SubStats": 15.5
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 273,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 293,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 319,
+            "SubStats": 17.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 340,
+            "SubStats": 19.1
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 361,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 387,
+            "SubStats": 20.3
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 408,
+            "SubStats": 21.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 429,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 455,
+            "SubStats": 22.7
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 476,
+            "SubStats": 23.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 497,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 523,
+            "SubStats": 25.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 544,
+            "SubStats": 26.4
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 565,
+            "SubStats": 27.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Gladiator",
+        "CommonCharacterAscensionMaterial": "Chaos",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2% every second up to a max of 20%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 4% per second until it reaches 0%."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 2.5% every second up to a max of 25%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 5% per second until it reaches 0%."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3% every second up to a max of 30%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 6% per second until it reaches 0%."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 3.5% every second up to a max of 35%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 7% per second until it reaches 0%."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by 4% every second up to a max of 40%. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by 8% per second until it reaches 0%."
+        }
+    ],
+    "Story": "This fine bow has been painted black, all the better to blend perfectly into the deepest night.This was once the first choice of an opulent noble house in their hunting games.Till one day, it fell into the hands of a gentleman thief who was never caught.Its user shot the crowns from the heads of the nobles in utter silence.It shot through many a tightened bond, and disarmed many a pursuing soldier.It once vowed to bring light to a darkened age.To bring justice, riches and gladness to the oppressed.In the past, he did indeed bring justice, riches and gladness to the oppressed, and he brought fear unto those in power, giving them countless sleepless nights in their impotent rage.He brought light footsteps like rain to the roofs and terraces, and he brought song to the bards in the squares.He even once pried a sapphire from a noble's regalia to give to a blue-eyed witch, who hunted the vile with spear in hand.But even to the last, he was unable to bring a single smile to the lips of the witch whom his soul loved, who was as cold as the sapphire he gave her.In the end, seeking death, her flower-like face was marked with a criminal's brand, and none knew where she went thereafter.In the end, the noble thief listened to the advice of his brothers. Abandoning his vow, he sailed into the ocean that belonged to no one.\"Pray tell, does she still recall my song? Does she remember those years that pursue me even now, of the wine-scented streets and the songs sung of her?\""
+}

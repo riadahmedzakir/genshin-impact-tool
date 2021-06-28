@@ -1,0 +1,158 @@
+{
+    "Name": "Staff of Homa",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 46,
+            "SubStats": 14.4
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 16.7
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 82,
+            "SubStats": 19.6
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 102,
+            "SubStats": 22.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 122,
+            "SubStats": 25.4
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 153,
+            "SubStats": 25.4
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 173,
+            "SubStats": 28.4
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 194,
+            "SubStats": 31.3
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 214,
+            "SubStats": 34.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 235,
+            "SubStats": 37.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 266,
+            "SubStats": 37.1
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 287,
+            "SubStats": 40
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 308,
+            "SubStats": 42.9
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 340,
+            "SubStats": 42.9
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 361,
+            "SubStats": 45.8
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 382,
+            "SubStats": 48.7
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 414,
+            "SubStats": 48.7
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 435,
+            "SubStats": 51.6
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 457,
+            "SubStats": 54.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 488,
+            "SubStats": 54.5
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 510,
+            "SubStats": 57.4
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 532,
+            "SubStats": 60.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 563,
+            "SubStats": 60.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 586,
+            "SubStats": 63.2
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 608,
+            "SubStats": 66.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Aerosiderite",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Slime"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "HP increased by 20%. Additionally, provides an ATK Bonus based on 0.8% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1% of Max HP."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "HP increased by 25%. Additionally, provides an ATK Bonus based on 1% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.2% of Max HP."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "HP increased by 30%. Additionally, provides an ATK Bonus based on 1.2% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.4% of Max HP."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "HP increased by 35%. Additionally, provides an ATK Bonus based on 1.4% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.6% of Max HP."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "HP increased by 40%. Additionally, provides an ATK Bonus based on 1.6% of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional 1.8% of Max HP."
+        }
+    ],
+    "Story": "To cleanse by fire all that is impure, to allow the impurities to rise with the flames unto the all-accommodating high heavens.These rites would see fresh tinder lit during the rainy seasons, and wolf smoke would arise from those fires as prayers for blessings and the defeat of evil.These blazing rituals were especially commonplace during that ancient period of strife.For the dreams and delusions of the silent corpses of gods would produce evil miasmas,Snatching away the citizens who were no longer theirs, and those who never were theirs also.Then, a merciful doctor heard a whisper from within the flame as fierce as the red sunset,From within the crackling and snapping of withered grass.\"Only an unbound flame can purify the filth of this world.\"\"Lift up this scarlet firewood. With it, you shall repel every demon.\"So the doctor took up that devilishly red staff, igniting all that was impure.Those who have passed, unable to bear deep sadness, but who have since become shrouded by ill karma and calamity,They shall be reduced to ashen butterflies in this flame, and receive relief from their misfortunes and hurts.As for the doctor who lit those countless flames, legend has it that they, too, were reduced to smoke in the shape of a lovely butterfly.Though these rites have been forgotten over time and with the coming of peace,Those with fire in their hearts can still hear these whispered words from flickering flames when they find themselves faced with an imposing darkness:\"Only an unbound flame can purify this world.\""
+}

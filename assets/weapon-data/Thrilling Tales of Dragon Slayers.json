@@ -1,0 +1,158 @@
+{
+    "Name": "Thrilling Tales of Dragon Slayers",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 39,
+            "SubStats": 7.7
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 50,
+            "SubStats": 8.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 65,
+            "SubStats": 10.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 79,
+            "SubStats": 12
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 94,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 113,
+            "SubStats": 13.5
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 127,
+            "SubStats": 15.1
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 141,
+            "SubStats": 16.6
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 155,
+            "SubStats": 18.2
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 169,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 189,
+            "SubStats": 19.7
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 202,
+            "SubStats": 21.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 216,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 236,
+            "SubStats": 22.8
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 249,
+            "SubStats": 24.4
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 263,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 282,
+            "SubStats": 25.9
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 296,
+            "SubStats": 27.5
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 309,
+            "SubStats": 29
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 329,
+            "SubStats": 29
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 342,
+            "SubStats": 30.5
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 355,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 375,
+            "SubStats": 32.1
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 388,
+            "SubStats": 33.6
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 401,
+            "SubStats": 35.2
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "Scroll"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "When switching characters, the new character taking the field has their ATK increased by 24% for 10s. This effect can only occur once every 20s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "When switching characters, the new character taking the field has their ATK increased by 30% for 10s. This effect can only occur once every 20s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "When switching characters, the new character taking the field has their ATK increased by 36% for 10s. This effect can only occur once every 20s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "When switching characters, the new character taking the field has their ATK increased by 42% for 10s. This effect can only occur once every 20s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "When switching characters, the new character taking the field has their ATK increased by 48% for 10s. This effect can only occur once every 20s."
+        }
+    ],
+    "Story": "Five Heroes embarked on a journey to slay the evil dragon.For honor, the master swordsman.For research, the knowledgeable sorceress.For bounty, the swashbuckling mercenary.For vengeance, the deadeye marksman.For stories, the grand novelist.A lotus proceeds from my mouth and flowers bloom on the page. My words are wise and clear and my thoughts are sharp like lightning.I joined this party because I couldn't find a job, and anybody can be a copywriter.But I'm no writer, just a regular fellow in his mid twenties without an honest job."
+}

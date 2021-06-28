@@ -1,0 +1,158 @@
+{
+    "Name": "Twin Nephrite",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 40,
+            "SubStats": 3.4
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 53,
+            "SubStats": 4
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 69,
+            "SubStats": 4.6
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 86,
+            "SubStats": 5.3
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 102,
+            "SubStats": 6
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 121,
+            "SubStats": 6
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 138,
+            "SubStats": 6.7
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 154,
+            "SubStats": 7.4
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 171,
+            "SubStats": 8.1
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 187,
+            "SubStats": 8.8
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 207,
+            "SubStats": 8.8
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 223,
+            "SubStats": 9.4
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 239,
+            "SubStats": 10.1
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 259,
+            "SubStats": 10.1
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 275,
+            "SubStats": 10.8
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 292,
+            "SubStats": 11.5
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 311,
+            "SubStats": 11.5
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 327,
+            "SubStats": 12.2
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 344,
+            "SubStats": 12.9
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 363,
+            "SubStats": 12.9
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 380,
+            "SubStats": 13.6
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 396,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 415,
+            "SubStats": 14.2
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 432,
+            "SubStats": 14.9
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 448,
+            "SubStats": 15.6
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Elixir",
+        "CommonCharacterAscensionMaterial": "MistGrass",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "Defeating an opponent increases Movement SPD and ATK by 12% for 15s."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "Defeating an opponent increases Movement SPD and ATK by 14% for 15s."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "Defeating an opponent increases Movement SPD and ATK by 16% for 15s."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "Defeating an opponent increases Movement SPD and ATK by 18% for 15s."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "Defeating an opponent increases Movement SPD and ATK by 20% for 15s."
+        }
+    ],
+    "Story": "A jade piece which, despite its exquisite packaging, has been placed in one of the least prominent positions in the store.The box comes with an official-looking certificate of premium quality, issued by an organization that no-one has ever heard of.To the untrained eye, the luxurious packaging and accessories would probably be enough to lure one in.However, it is still reasonable value for money when compared with genuine top-quality jade pieces."
+}

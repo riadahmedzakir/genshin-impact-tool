@@ -1,0 +1,158 @@
+{
+    "Name": "Elegy for the End",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 46,
+            "SubStats": 12
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 62,
+            "SubStats": 13.9
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 82,
+            "SubStats": 16.4
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 102,
+            "SubStats": 18.8
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 122,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 153,
+            "SubStats": 21.2
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 173,
+            "SubStats": 23.6
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 194,
+            "SubStats": 26.1
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 214,
+            "SubStats": 28.5
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 235,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 266,
+            "SubStats": 30.9
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 287,
+            "SubStats": 33.3
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 308,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 340,
+            "SubStats": 35.7
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 361,
+            "SubStats": 38.2
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 382,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 414,
+            "SubStats": 40.6
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 435,
+            "SubStats": 43
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 457,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 488,
+            "SubStats": 45.4
+        },
+        {
+            "Level": 75,
+            "BaseAttack": 510,
+            "SubStats": 47.9
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 532,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 80,
+            "BaseAttack": 563,
+            "SubStats": 50.3
+        },
+        {
+            "Level": 85,
+            "BaseAttack": 586,
+            "SubStats": 52.7
+        },
+        {
+            "Level": 90,
+            "BaseAttack": 608,
+            "SubStats": 55.1
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "Horn",
+        "CommonWeaponAscensionMaterial": "FatuiInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 60. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 100 and increases ATK by 20%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 75. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 125 and increases ATK by 25%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 90. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 150 and increases ATK by 30%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 105. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 175 and increases ATK by 35%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases Elemental Mastery by 120. When the Elemental Skills or Elemental Bursts of the character wielding this weapon hit opponents, that character gains a Sigil of Remembrance. This effect can be triggered once every 0.2s and can be triggered even if said character is not on the field. When you possess 4 Sigils of Remembrance, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Farewell Song\" effect for 12s. \"Millennial Movement: Farewell Song\" increases Elemental Mastery by 200 and increases ATK by 40%. Once this effect is triggered, you will not gain Sigils of Remembrance for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack."
+        }
+    ],
+    "Story": "\"The west wind bears wine's fragrance away,\"\"The mountain wind brings glad tidings new.\"\"The breeze from afar tugs at my heart,\"\"It sings of my longing for you.\"Long ago, there was a knight who was ever dour of countenance.Only a certain song could ever cause his brow to unfurl,And only a certain girl who sang that song in the square,Could cause him to forget the great burden of his duty for a time.But at last, calamity came upon this land.The songs that had once flown joyfully in the wind were drowned by a venomous dragon.In the wake of its earth-shaking footsteps, even the cries and the flames were ripped asunder.The Anemo Archon heard their agony, though he had refused to rule.But to protect his old friends' dream, and defend the wind-kissed fields of green,He woke from his long slumber anew, and with the sky dragon into battle he flew...The Knight and his knights also fought for their land.When the venomous dragon fell to ruin on the ice-sealed peak, the blue sky dragon fell asleep in the ancient tower.But the Knight was in the valley, spent of his life's blood, and as he fell, he could only think thus:\"She is abroad studying, so she should be well. But ah, how I wish to hear her sing again.\"\"At least Arundolyn and Roland are alright. When she returns, this calamity should have blown over.\"The songs in praise of the archon and tunes that recorded the battle of the two dragons were many, but all slowly became lost.The song the girl loved to sing, too, changed upon her return.\"The dandelions carry in the summer wind,\"\"Autumn brings the fragrance of grain.\"\"But no wind in any season on earth\"\"Shall have you gaze upon me again.\"And after her voice and her tears had run dry, the girl swore to use her life's flame to cleanse the world's crookedness."
+}

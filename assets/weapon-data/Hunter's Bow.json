@@ -1,0 +1,128 @@
+{
+    "Name": "Hunter's Bow",
+    "Stats": [
+        {
+            "Level": 1,
+            "BaseAttack": 23,
+            "SubStats": 0
+        },
+        {
+            "Level": 5,
+            "BaseAttack": 30,
+            "SubStats": 0
+        },
+        {
+            "Level": 10,
+            "BaseAttack": 39,
+            "SubStats": 0
+        },
+        {
+            "Level": 15,
+            "BaseAttack": 48,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 56,
+            "SubStats": 0
+        },
+        {
+            "Level": 20,
+            "BaseAttack": 68,
+            "SubStats": 0
+        },
+        {
+            "Level": 25,
+            "BaseAttack": 76,
+            "SubStats": 0
+        },
+        {
+            "Level": 30,
+            "BaseAttack": 85,
+            "SubStats": 0
+        },
+        {
+            "Level": 35,
+            "BaseAttack": 93,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 102,
+            "SubStats": 0
+        },
+        {
+            "Level": 40,
+            "BaseAttack": 113,
+            "SubStats": 0
+        },
+        {
+            "Level": 45,
+            "BaseAttack": 121,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 130,
+            "SubStats": 0
+        },
+        {
+            "Level": 50,
+            "BaseAttack": 141,
+            "SubStats": 0
+        },
+        {
+            "Level": 55,
+            "BaseAttack": 149,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 158,
+            "SubStats": 0
+        },
+        {
+            "Level": 60,
+            "BaseAttack": 169,
+            "SubStats": 0
+        },
+        {
+            "Level": 65,
+            "BaseAttack": 177,
+            "SubStats": 0
+        },
+        {
+            "Level": 70,
+            "BaseAttack": 185,
+            "SubStats": 0
+        }
+    ],
+    "Ascensions": {
+        "WeaponAscensionMaterial": "Boreal",
+        "CommonCharacterAscensionMaterial": "LeyLine",
+        "CommonWeaponAscensionMaterial": "HoarderInsignia"
+    },
+    "Refine": [
+        {
+            "Level": " Refine Level 1",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 2",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 3",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 4",
+            "Description": ""
+        },
+        {
+            "Level": " Refine Level 5",
+            "Description": ""
+        }
+    ],
+    "Story": "Legend has it that Mondstadt once played host to one who made music on bowstrings—Or perhaps it might be more fitting to say that this wandering musician used an instrument's strings to fire arrows.But this is naught but an old folk legend."
+}
