@@ -10,8 +10,8 @@ cache:
 script:
   - npm run build
 before_deploy: 
-  - cp docs/index.html 404.html
-  - cp docs/index.html 200.html
+  - cp docs/index.html docs/404.html
+  - cp docs/index.html docs/200.html
   - cp .nojekyll docs/.nojekyll
   - cp favicon.ico docs/favicon.ico
 deploy:
