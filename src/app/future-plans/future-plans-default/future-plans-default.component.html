@@ -29,9 +29,9 @@
             <h2>Things I want to learn by the time I finish the project</h2>
         </div>
 
-        <div fxLayout="row wrap" fxLayoutGap.gt-md="20px">
+        <div fxLayout="row wrap" fxLayoutAlign="space-between center">
             <div class="learning-goals-theme" *ngFor="let item of learningGoalList"
-                style="background-color: {{item.color}}" fxFlex.gt-lg="31" fxFlex.lg="47" fxFlex.md="100"
+                style="background-color: {{item.color}}" fxFlex.gt-lg="32" fxFlex.lg="48" fxFlex.md="100"
                 fxFlex.lt-md="100" fxLayoutAlign="center center">
                 <mat-icon>{{item.Icon}}</mat-icon>
                 <p>{{item.Title}}</p>
@@ -40,7 +40,8 @@
     </div>
 
     <div class="character-builder-plan" fxLayout="row" fxLayoutAlign="space-between center">
-        <div fxHide.lt-md class="character-builder-plan-header" fxFlex="40" fxLayout="column" fxLayoutAlign="center center">
+        <div fxHide.lt-md class="character-builder-plan-header" fxFlex="40" fxLayout="column"
+            fxLayoutAlign="center center">
             <h1>Character builder</h1>
             <img src="assets/data-visual.jpg" alt="">
         </div>
@@ -85,6 +86,7 @@
                     etc.</li>
             </ul>
         </div>
-        <div fxHide.lt-md class="future-plan-image" fxFlex.gt-lg="40" fxFlex.lg="30" fxFlex.md="100" fxFlex.lt-md="100"></div>
+        <div fxHide.lt-md class="future-plan-image" fxFlex.gt-lg="40" fxFlex.lg="30" fxFlex.md="100" fxFlex.lt-md="100">
+        </div>
     </div>
 </div>

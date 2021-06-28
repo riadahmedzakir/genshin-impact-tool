@@ -18,7 +18,7 @@ export class FuturePlansDefaultComponent implements OnInit {
       color: '#8B72EE'
     },
     {
-      Title: 'Hiroku',
+      Title: 'Heroku',
       Icon: 'api',
       color: '#5D3BE7'
     },

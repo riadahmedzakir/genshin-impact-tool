@@ -1,0 +1,21 @@
+language: generic
+node_js: 
+  - 'stable'
+cache:
+  directories:
+  - node_modules
+script:
+  - npm run build
+before_deploy: 
+  - cp docs/index.html 404.html
+  - cp docs/index.html 200.html
+  - cp .nojekyll docs/.nojekyll
+  - cp favicon.ico docs/favicon.ico
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: docs
+  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep_history: true
+  on:
+    branch: master

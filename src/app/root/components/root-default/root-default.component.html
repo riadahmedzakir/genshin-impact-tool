@@ -28,7 +28,7 @@
                             <span class="nav-caption">{{childNav.title}}</span>
                         </a>
                     </div>
-                </div>                
+                </div>
             </mat-nav-list>
 
             <div fxHide.lt-md fxShow class="copy-right">
@@ -55,11 +55,16 @@
                     <div fxLayout="row" fxLayoutAlign="end center" fxFlex='100'>
                         <!-- <button mat-button [matMenuTriggerFor]="menu">
                             Theme
-                        </button> -->
+                        </button>
                         <mat-menu #menu="matMenu">
                             <button (click)="changeTheme('first-theme')" mat-menu-item>Light</button>
                             <button (click)="changeTheme('second-theme')" mat-menu-item>Dark</button>
-                        </mat-menu>
+                        </mat-menu> -->
+
+                        <p style="font-size: 12px; margin: 0px;">Powered by
+                            <a href="https://riadahmedzakir.github.io/" target="_blank"
+                                style="color: #000000; font-size: 16px;">$ILv3R</a>
+                        </p>
                     </div>
                 </mat-toolbar>
 
